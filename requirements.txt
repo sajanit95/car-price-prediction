@@ -1,0 +1,14 @@
+pandas==3.0.2
+numpy
+scikit-learn==1.8.0
+scipy
+lightgbm==4.7.0
+xgboost==3.4.1
+shap==0.54.1
+lime==0.2.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.3
+PyYAML==6.0.3
+streamlit==1.66.0
+pytest

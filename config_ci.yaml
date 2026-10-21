@@ -1,0 +1,10 @@
+data_path: data/dataset_vehicles.csv
+artifacts_dir: artifacts_ci
+random_state: 42
+test_size: 0.2
+cv_folds: 3
+tune_top_k: 1
+tune_iterations: 2
+tune_cv_folds: 2
+candidates: [Ridge, LightGBM]
+use_mlflow: false

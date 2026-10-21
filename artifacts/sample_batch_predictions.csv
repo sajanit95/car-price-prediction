@@ -1,0 +1,6 @@
+Brand,Model,Year,Fuel,Transmission,Body,Condition,Location,Title,mileage_km,capacity_cc,listed_price,predicted_price,fair_low,fair_high,verdict
+Mitsubishi,J24,1978,Diesel,Manual,SUV / 4x4,Used," Pilimatalawa,  Kandy",Mitsubishi J24 4DR5 Jeep 1978 for sale,200000.0,1400.0,600000,923000.0,772000.0,1140000.0,Below the typical range - check the listing carefully
+Land Rover,Discovery,2017,Diesel,Tiptronic,SUV / 4x4,Used," Colombo 7,  Colombo",Land Rover Discovery 5 2017 for sale,53500.0,1500.0,18500000,19107000.0,15998000.0,23612000.0,Within the typical range - fairly priced
+Tata,Nano,2018,Petrol,Manual,Hatchback,Used," Kandy,  Kandy",Tata Nano 2018 for sale,120000.0,1900.0,1475000,2059000.0,1724000.0,2544000.0,Below the typical range - check the listing carefully
+Nissan,Sunny,1992,Diesel,Manual,Saloon,Used," Bibile,  Monaragala",Nissan Sunny Doctor 1992 for sale,285000.0,1500.0,1650000,1272000.0,1065000.0,1572000.0,Above the typical range - likely overpriced
+Mitsubishi,Pajero,1993,Diesel,Automatic,,Used," Colombo 7,  Colombo",Mitsubishi Pajero 1993 for sale,41000.0,1000.0,5650000,2774000.0,2323000.0,3428000.0,Above the typical range - likely overpriced

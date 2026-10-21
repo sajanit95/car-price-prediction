@@ -1,0 +1,597 @@
+{
+  "version": "20261021-075058",
+  "model": "LightGBM",
+  "features": [
+    "brand_model",
+    "Brand",
+    "Condition",
+    "Transmission",
+    "Body",
+    "Fuel",
+    "district",
+    "age",
+    "mileage_km",
+    "capacity_cc",
+    "km_per_year",
+    "unregistered"
+  ],
+  "test_metrics": {
+    "mae": 866035.4985594399,
+    "rmse": 2116119.0404662485,
+    "r2": 0.93791089633438,
+    "mape": 0.13449949085656276,
+    "median_ape": 0.08814954694161525
+  },
+  "settings_used": "tuned",
+  "best_params": {
+    "colsample_bytree": 0.6293899908000085,
+    "learning_rate": 0.07599369873560621,
+    "min_child_samples": 6,
+    "n_estimators": 1321,
+    "num_leaves": 20,
+    "reg_lambda": 0.26054534945804003,
+    "subsample": 0.8703100983459974,
+    "subsample_freq": 1
+  },
+  "fair_range_ratio": [
+    0.8372940087136477,
+    1.2357421721038846
+  ],
+  "options": {
+    "brand_models": {
+      "Alfa Romeo": [],
+      "Aston Martin": [],
+      "Audi": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "Q2",
+        "Q3",
+        "Q5",
+        "Q7"
+      ],
+      "Austin": [
+        "Cambridge",
+        "Mini",
+        "Mini Cooper",
+        "Other Model"
+      ],
+      "BMW": [
+        "218i",
+        "316i",
+        "318i",
+        "320d",
+        "320i",
+        "330e",
+        "430i",
+        "520d",
+        "520i",
+        "523i",
+        "528i",
+        "530e",
+        "735Li",
+        "740Le",
+        "740d",
+        "740e",
+        "ActiveHybrid 5",
+        "ActiveHybrid 7",
+        "Mini Cooper",
+        "X1",
+        "X2",
+        "X3",
+        "X5",
+        "X5 M",
+        "X5 eDrive",
+        "Z4",
+        "i3",
+        "i8"
+      ],
+      "Chery": [
+        "QQ"
+      ],
+      "Chevrolet": [
+        "Aveo",
+        "Cruze"
+      ],
+      "Chrysler": [
+        "300",
+        "Other Model"
+      ],
+      "Citroen": [],
+      "DFSK": [
+        "Glory",
+        "Other Model"
+      ],
+      "Daewoo": [
+        "Other Model"
+      ],
+      "Daihatsu": [
+        "Atrai Wagon",
+        "Boon",
+        "Cast Activa",
+        "Charade",
+        "Charmant",
+        "Copen",
+        "Cuore",
+        "Hijet",
+        "Mira",
+        "Move",
+        "Other Model",
+        "Rocky",
+        "Tanto",
+        "Terios",
+        "Wake"
+      ],
+      "Datsun": [
+        "Other Model",
+        "Redi Go"
+      ],
+      "Fiat": [
+        "Linea",
+        "Panda",
+        "Punto",
+        "Uno"
+      ],
+      "Ford": [
+        "Festiva",
+        "Fiesta",
+        "Focus",
+        "Laser",
+        "Other Model",
+        "Ranger",
+        "Raptor Ranger"
+      ],
+      "Geely": [],
+      "Honda": [
+        "Accord",
+        "Airwave",
+        "CRV",
+        "CRZ",
+        "City",
+        "Civic",
+        "Fit",
+        "Fit Aria",
+        "Fit Shuttle",
+        "Freed",
+        "Grace",
+        "HR-V",
+        "Insight",
+        "Jade",
+        "N-Box",
+        "N-WGN",
+        "Other Model",
+        "S660",
+        "Vezel"
+      ],
+      "Hummer": [
+        "H2",
+        "H3"
+      ],
+      "Hyundai": [
+        "Accent",
+        "Atos",
+        "Elantra",
+        "Eon",
+        "Excel",
+        "Grand i10",
+        "Matrix",
+        "Other Model",
+        "Santa Fe",
+        "Santro",
+        "Sonata",
+        "Stellar",
+        "Trajet",
+        "Tucson",
+        "Venue"
+      ],
+      "Isuzu": [
+        "Bighorn",
+        "Gemini",
+        "MU-X",
+        "Other Model",
+        "Trooper"
+      ],
+      "Jaguar": [
+        "X-Type",
+        "XF"
+      ],
+      "Jeep": [
+        "Cherokee",
+        "Other Model",
+        "Wrangler"
+      ],
+      "Kia": [
+        "Carens",
+        "Cerato",
+        "Other Model",
+        "Picanto",
+        "Rio",
+        "Sephia",
+        "Sorento",
+        "Spectra",
+        "Sportage"
+      ],
+      "Land Rover": [
+        "Defender",
+        "Discovery",
+        "Discovery Sport",
+        "Freelander",
+        "Range Rover",
+        "Range Rover Evoque",
+        "Range Rover Sport",
+        "Range Rover Velar"
+      ],
+      "Lexus": [
+        "CT-200H",
+        "HS250H",
+        "NX300H",
+        "Other Model"
+      ],
+      "MG": [
+        "6",
+        "ZS"
+      ],
+      "Mahindra": [
+        "Bolero",
+        "Other Model",
+        "Scorpio"
+      ],
+      "Maruti": [
+        "Other Model"
+      ],
+      "Maruti Suzuki": [
+        "800",
+        "Alto",
+        "Other Model",
+        "WagonR",
+        "Zen"
+      ],
+      "Mazda": [
+        "2",
+        "2 Skyactive",
+        "3",
+        "6",
+        "Astina",
+        "Axela",
+        "BT-50",
+        "CX-5",
+        "Carol",
+        "Demio",
+        "Familia",
+        "Flair",
+        "Other Model",
+        "RX"
+      ],
+      "Mercedes Benz": [
+        "A180",
+        "A200",
+        "B250e",
+        "C180",
+        "C200",
+        "C220",
+        "C300",
+        "C350",
+        "CLA 180",
+        "CLA 200",
+        "CLS",
+        "E200",
+        "E220",
+        "E240",
+        "E250",
+        "E300",
+        "E350",
+        "GLB",
+        "GLE 300D",
+        "ML270",
+        "ML350",
+        "Other Model",
+        "S300",
+        "S320",
+        "S350",
+        "S400",
+        "S500",
+        "X250d"
+      ],
+      "Micro": [
+        "Actyon",
+        "BAIC",
+        "Emgrand",
+        "Geely",
+        "Korondo",
+        "Kyron",
+        "MX 7",
+        "Other Model",
+        "Panda",
+        "Panda Cross",
+        "Rexton",
+        "Rhino",
+        "Tivoli",
+        "Trend"
+      ],
+      "Mini": [
+        "Cooper",
+        "Countryman"
+      ],
+      "Mitsubishi": [
+        "4DR",
+        "ASX",
+        "Attrage",
+        "Colt",
+        "Delica",
+        "Eclipse Cross",
+        "Galant",
+        "J24",
+        "L200",
+        "Lancer",
+        "Libero",
+        "Mirage",
+        "Montero",
+        "Other Model",
+        "Outlander",
+        "Pajero",
+        "RVR",
+        "Strada",
+        "Xpander",
+        "eK Wagon"
+      ],
+      "Morris": [
+        "Mini",
+        "Minor",
+        "Other Model",
+        "Oxford"
+      ],
+      "Moto Guzzi": [],
+      "Nissan": [
+        "AD Wagon",
+        "Bluebird",
+        "Cefiro",
+        "Dayz",
+        "Dutsun",
+        "Juke",
+        "Leaf",
+        "March",
+        "Navara",
+        "Other Model",
+        "Patrol",
+        "Presea",
+        "Primera",
+        "Pulsar",
+        "Qashqai",
+        "Serena",
+        "Sunny",
+        "Sylphy",
+        "Teana",
+        "Tiida",
+        "Wingroad",
+        "X-Trail"
+      ],
+      "Opel": [
+        "Astra"
+      ],
+      "Other brand": [
+        "Other model"
+      ],
+      "Perodua": [
+        "Axia",
+        "Bezza",
+        "Kancil",
+        "Kelisa",
+        "Kenari",
+        "Viva Elite"
+      ],
+      "Peugeot": [
+        "206",
+        "3008",
+        "308",
+        "405",
+        "406",
+        "407",
+        "5008",
+        "505",
+        "508",
+        "Other Model"
+      ],
+      "Porsche": [
+        "Cayenne"
+      ],
+      "Proton": [
+        "Savvy",
+        "Wira"
+      ],
+      "Renault": [
+        "KWID",
+        "Other Model"
+      ],
+      "Rover": [],
+      "Skoda": [
+        "Superb"
+      ],
+      "Smart": [],
+      "Ssang Yong": [
+        "Actyon",
+        "Korando",
+        "Kyron",
+        "Rexton",
+        "Tivoli"
+      ],
+      "Subaru": [
+        "Impreza",
+        "Other Model",
+        "XV"
+      ],
+      "Suzuki": [
+        "A-Star",
+        "Alto",
+        "Baleno",
+        "Celerio",
+        "Cultus",
+        "Escudo",
+        "Estilo",
+        "Grand Vitara",
+        "Hustler",
+        "Ignis",
+        "Jimny",
+        "Liana",
+        "Maruti",
+        "Other Model",
+        "S-Cross",
+        "SX4",
+        "Spacia",
+        "Swift",
+        "Vitara",
+        "Wagon R",
+        "Wagon R FX",
+        "Wagon R FZ",
+        "Wagon R Stingray",
+        "XBee",
+        "Zen"
+      ],
+      "Tata": [
+        "GenX Nano",
+        "Indica",
+        "Indigo",
+        "Nano",
+        "Other Model",
+        "Safari",
+        "Sumo",
+        "Xenon"
+      ],
+      "Tesla": [],
+      "Toyota": [
+        "Allion",
+        "Aqua",
+        "Avanza",
+        "Axio",
+        "Belta",
+        "CHR",
+        "Caldina",
+        "Cami",
+        "Camry",
+        "Carina",
+        "Ceres",
+        "Corolla",
+        "Corona",
+        "Corsa",
+        "Crown",
+        "Esquire",
+        "Etios",
+        "Fielder",
+        "Fortuner",
+        "Harrier",
+        "Hilux",
+        "IST",
+        "Land Cruiser Prado",
+        "Land Cruiser Sahara",
+        "Mark",
+        "Other Model",
+        "Passo",
+        "Pixis",
+        "Platz",
+        "Premio",
+        "Prius",
+        "RAV4",
+        "Raize",
+        "Roomy",
+        "Runx",
+        "Rush",
+        "SAI",
+        "Sienta",
+        "Soluna",
+        "Sprinter",
+        "Starlet",
+        "Tank",
+        "Tercel",
+        "Vanguard",
+        "Verossa",
+        "Vios",
+        "Vitz",
+        "Voxy",
+        "Wigo",
+        "Yaris"
+      ],
+      "Vauxhall": [],
+      "Volkswagen": [
+        "Beetle",
+        "Golf",
+        "Jetta",
+        "Other Model",
+        "Passat",
+        "Polo",
+        "Tiguan",
+        "VW1300"
+      ],
+      "Volvo": [
+        "S40",
+        "S60",
+        "S80",
+        "XC90"
+      ],
+      "Zotye": [
+        "Nomad",
+        "Z100"
+      ]
+    },
+    "Condition": [
+      "New",
+      "Reconditioned",
+      "Used"
+    ],
+    "Transmission": [
+      "Automatic",
+      "Manual",
+      "Other transmission",
+      "Tiptronic"
+    ],
+    "Body": [
+      "Convertible",
+      "Coupe/Sports",
+      "Hatchback",
+      "MPV",
+      "SUV / 4x4",
+      "Saloon",
+      "Station wagon"
+    ],
+    "Fuel": [
+      "CNG",
+      "Diesel",
+      "Electric",
+      "Hybrid",
+      "Other fuel type",
+      "Petrol"
+    ],
+    "district": [
+      "Colombo",
+      "Gampaha",
+      "Kurunegala",
+      "Kandy",
+      "Kalutara",
+      "Matara",
+      "Galle",
+      "Puttalam",
+      "Kegalle",
+      "Ratnapura",
+      "Anuradhapura",
+      "Hambantota",
+      "Matale",
+      "Badulla",
+      "Ampara",
+      "Polonnaruwa",
+      "Monaragala",
+      "Jaffna",
+      "Batticaloa",
+      "Nuwara Eliya",
+      "Vavuniya",
+      "Trincomalee",
+      "Kilinochchi",
+      "Mannar",
+      "Mullativu"
+    ],
+    "year_range": [
+      1935,
+      2021
+    ]
+  }
+}

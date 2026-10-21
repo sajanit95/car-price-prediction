@@ -1,0 +1,10 @@
+data_path: data/dataset_vehicles.csv
+artifacts_dir: artifacts
+random_state: 42
+test_size: 0.2
+cv_folds: 5
+tune_top_k: 2
+tune_iterations: 12
+tune_cv_folds: 3
+candidates: [Ridge, KNN, DecisionTree, SVR, XGBoost, LightGBM]
+use_mlflow: false

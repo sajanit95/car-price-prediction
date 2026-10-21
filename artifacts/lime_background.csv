@@ -1,0 +1,2001 @@
+brand_model,Brand,Condition,Transmission,Body,Fuel,district,age,mileage_km,capacity_cc,km_per_year,unregistered
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,4,99000.0,1000.0,24750.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,23,158000.0,3000.0,6869.565217391304,0
+Datsun Other Model,Datsun,Used,Manual,Saloon,Petrol,Kandy,41,150000.0,800.0,3658.5365853658536,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Kurunegala,7,42000.0,1500.0,6000.0,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,60000.0,800.0,12000.0,0
+Mercedes Benz X250d,Mercedes Benz,Reconditioned,Tiptronic,SUV / 4x4,Diesel,Colombo,2,10000.0,2200.0,5000.0,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,70000.0,1000.0,17500.0,0
+Honda Grace,Honda,Used,Automatic,Saloon,Petrol,Hambantota,6,79000.0,1500.0,13166.666666666666,0
+Toyota Belta,Toyota,Used,Automatic,,Petrol,Vavuniya,15,105407.0,1300.0,7027.133333333333,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,2,27750.0,1500.0,13875.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Hambantota,35,28293.0,1290.0,808.3714285714286,0
+Volkswagen Beetle,Volkswagen,Used,Manual,Coupe/Sports,Petrol,Gampaha,52,80000.0,1300.0,1538.4615384615386,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,19,254320.0,1490.0,13385.263157894737,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,6,65100.0,650.0,10850.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,14,148000.0,1300.0,10571.42857142857,0
+Volkswagen Beetle,Volkswagen,Used,Manual,Convertible,Petrol,Anuradhapura,62,100000.0,800.0,1612.9032258064517,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Colombo,9,47000.0,2000.0,5222.222222222223,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Gampaha,29,80000.0,1500.0,2758.6206896551726,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,15,77000.0,800.0,5133.333333333333,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,3,34000.0,1000.0,11333.333333333334,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Galle,38,10000.0,1480.0,263.1578947368421,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,9,98000.0,1500.0,10888.888888888889,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,11,88400.0,1490.0,8036.363636363636,0
+Micro Junior,Micro,Used,Manual,MPV,Petrol,Anuradhapura,6,32000.0,1030.0,5333.333333333333,0
+BMW X3,BMW,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,35000.0,2000.0,4375.0,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,83947.0,996.0,13991.166666666666,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Kandy,5,63000.0,1500.0,12600.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,,Petrol,Gampaha,36,150000.0,1500.0,4166.666666666667,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,9,130000.0,1330.0,14444.444444444445,0
+Datsun Other Model,Datsun,Used,Manual,Saloon,Petrol,Badulla,39,100000.0,1200.0,2564.102564102564,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Anuradhapura,26,270000.0,1500.0,10384.615384615385,0
+Honda Airwave,Honda,Used,Automatic,Station wagon,Petrol,Colombo,14,85000.0,1500.0,6071.428571428572,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,85000.0,1500.0,21250.0,0
+Kia Picanto,Kia,Used,Manual,Hatchback,Petrol,Puttalam,5,82000.0,1000.0,16400.0,0
+Honda Fit,Honda,Used,Automatic,,Hybrid,Colombo,6,43976.0,1496.0,7329.333333333333,0
+Audi A8,Audi,Used,Tiptronic,Saloon,Petrol,Colombo,12,79000.0,4200.0,6583.333333333333,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Matale,23,95000.0,800.0,4130.434782608696,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Kurunegala,8,84000.0,1000.0,10500.0,0
+Suzuki A-Star,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,82123.0,998.0,8212.3,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,39,125000.0,800.0,3205.128205128205,0
+Nissan Navara,Nissan,Used,Automatic,SUV / 4x4,Diesel,Kandy,14,113626.0,2600.0,8116.142857142857,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Colombo,9,37514.0,2000.0,4168.222222222223,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Hybrid,Colombo,6,62000.0,660.0,10333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,7,71000.0,800.0,10142.857142857143,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,Station wagon,Petrol,Colombo,6,89000.0,2300.0,14833.333333333334,0
+Suzuki Hustler,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,53000.0,660.0,13250.0,0
+Honda City,Honda,Used,Manual,,Petrol,Colombo,23,241000.0,1500.0,10478.260869565218,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,,Petrol,Colombo,2,12000.0,1000.0,6000.0,0
+BMW X1,BMW,Used,Automatic,Hatchback,Petrol,Colombo,2,20000.0,1500.0,10000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matara,26,295771.0,1500.0,11375.807692307691,0
+BMW 525i,BMW,Used,Manual,Saloon,Petrol,Gampaha,18,114200.0,2500.0,6344.444444444444,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Kandy,6,82000.0,650.0,13666.666666666666,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,124000.0,1500.0,9538.461538461539,0
+Mercedes Benz E300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Colombo,6,8000.0,2200.0,1333.3333333333333,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Colombo,7,67900.0,1500.0,9700.0,0
+Mercedes Benz C180,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,20,147000.0,2000.0,7350.0,0
+Daihatsu Terios,Daihatsu,Used,Automatic,SUV / 4x4,Petrol,Colombo,14,100000.0,1500.0,7142.857142857143,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Gampaha,28,144000.0,1500.0,5142.857142857143,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Colombo,5,89300.0,800.0,17860.0,0
+Zotye Nomad,Zotye,Used,Manual,SUV / 4x4,Petrol,Colombo,10,149105.0,1499.0,14910.5,0
+Toyota Belta,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,14,140000.0,1000.0,10000.0,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,3,17000.0,1000.0,5666.666666666667,0
+Suzuki Spacia,Suzuki,Used,Automatic,,Petrol,Colombo,5,90000.0,658.0,18000.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Kandy,4,69000.0,1500.0,17250.0,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Colombo,25,200000.0,1600.0,8000.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Kalutara,6,72000.0,1500.0,12000.0,0
+DFSK Glory,DFSK,Used,Manual,,Diesel,Anuradhapura,5,23000.0,1300.0,4600.0,0
+Renault KWID,Renault,Used,Manual,,Petrol,Colombo,3,44000.0,800.0,14666.666666666666,0
+Nissan Navara,Nissan,Used,Manual,SUV / 4x4,Diesel,Colombo,14,200000.0,2500.0,14285.714285714286,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,10,176000.0,1330.0,17600.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,7,75000.0,1500.0,10714.285714285714,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Matara,8,72000.0,1300.0,9000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Diesel,Puttalam,28,100000.0,1700.0,3571.4285714285716,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Kurunegala,13,280000.0,3000.0,21538.46153846154,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Colombo,17,190000.0,1300.0,11176.470588235294,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,21,45000.0,800.0,2142.8571428571427,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,10,76000.0,1300.0,7600.0,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Gampaha,33,283000.0,1500.0,8575.757575757576,0
+Honda Insight,Honda,Used,Automatic,Station wagon,Petrol,Trincomalee,11,144000.0,1330.0,13090.90909090909,0
+Toyota Prius,Toyota,Used,Automatic,,Hybrid,Colombo,5,71000.0,1800.0,14200.0,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Colombo,32,117000.0,2000.0,3656.25,0
+Nissan March,Nissan,Used,Manual,Station wagon,Petrol,Kurunegala,35,42399.0,980.0,1211.4,0
+BMW 318i,BMW,Used,Automatic,Saloon,Petrol,Kandy,4,25000.0,1490.0,6250.0,0
+Toyota Axio,Toyota,Reconditioned,Automatic,Saloon,Petrol,Colombo,5,33000.0,1300.0,6600.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,17,116000.0,1300.0,6823.529411764706,0
+Ssang Yong Actyon,Ssang Yong,Used,Automatic,SUV / 4x4,Diesel,Colombo,12,100000.0,2000.0,8333.333333333334,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Kandy,6,38000.0,650.0,6333.333333333333,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,10,70500.0,4500.0,7050.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,15,169000.0,800.0,11266.666666666666,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,19460.0,650.0,6486.666666666667,0
+Audi A4,Audi,Used,Automatic,Saloon,Petrol,Kalutara,10,79000.0,1800.0,7900.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,102000.0,3200.0,12750.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,19,115136.0,990.0,6059.789473684211,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,12,199993.0,3000.0,16666.083333333332,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Monaragala,6,76000.0,1500.0,12666.666666666666,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Kegalle,18,149854.0,2972.0,8325.222222222223,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Puttalam,13,103000.0,1300.0,7923.076923076923,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Ratnapura,39,165000.0,1400.0,4230.7692307692305,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Colombo,35,200000.0,1500.0,5714.285714285715,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Kalutara,7,75000.0,1500.0,10714.285714285714,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,39222.0,660.0,6537.0,0
+Toyota Corolla,Toyota,Used,Automatic,Station wagon,Other fuel type,Jaffna,13,175000.0,1600.0,13461.538461538461,0
+Subaru WRX,Subaru,Used,Manual,Saloon,Petrol,Colombo,27,180000.0,2000.0,6666.666666666667,0
+Kia Rio,Kia,Used,Manual,Saloon,Petrol,Colombo,18,125000.0,1300.0,6944.444444444444,0
+Toyota Other Model,Toyota,Used,Manual,Station wagon,Petrol,Kalutara,34,75000.0,,2205.8823529411766,0
+Audi A4,Audi,Used,Automatic,Saloon,Petrol,Colombo,6,78000.0,1800.0,13000.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Kurunegala,3,26000.0,1000.0,8666.666666666666,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Badulla,24,170000.0,1500.0,7083.333333333333,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Colombo,5,46000.0,2000.0,9200.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,,3000.0,,0
+Nissan Other Model,Nissan,Used,Automatic,Station wagon,Petrol,Gampaha,21,16800.0,1300.0,800.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,3,18500.0,660.0,6166.666666666667,0
+BMW 330e,BMW,Used,Automatic,Saloon,Petrol,Colombo,5,52000.0,2000.0,10400.0,0
+Zotye Nomad,Zotye,Used,Manual,SUV / 4x4,Petrol,Gampaha,9,89000.0,1300.0,9888.888888888889,0
+Kia Sorento,Kia,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,86000.0,2200.0,10750.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kandy,39,245872.0,1300.0,6304.410256410257,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,17,86500.0,650.0,5088.235294117647,0
+Suzuki Wagon R,Suzuki,Used,Automatic,,Petrol,Colombo,3,30000.0,660.0,10000.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,63000.0,800.0,10500.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,17,89000.0,1500.0,5235.294117647059,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Matara,15,135000.0,1300.0,9000.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,24800.0,2000.0,4133.333333333333,0
+Honda CRV,Honda,Used,Tiptronic,SUV / 4x4,Petrol,Gampaha,2,10000.0,1500.0,5000.0,0
+Honda N-WGN,Honda,Used,Automatic,Hatchback,Petrol,Kandy,3,47000.0,650.0,15666.666666666666,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Kurunegala,20,161000.0,1320.0,8050.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,3,14200.0,1000.0,4733.333333333333,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Saloon,Petrol,Matara,5,48000.0,800.0,9600.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,8,97000.0,1490.0,12125.0,0
+Toyota IST,Toyota,Used,Tiptronic,Hatchback,Petrol,Puttalam,17,125000.0,1500.0,7352.941176470588,0
+Suzuki Grand Vitara,Suzuki,Used,Manual,SUV / 4x4,Petrol,Puttalam,16,141180.0,2753.0,8823.75,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,5,55900.0,1500.0,11180.0,0
+Hyundai Excel,Hyundai,Used,Manual,Saloon,Petrol,Gampaha,27,197331.0,1300.0,7308.555555555556,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,120625.0,1600.0,9278.846153846154,0
+Mazda Other Model,Mazda,Used,Manual,Station wagon,Petrol,Anuradhapura,27,114000.0,1400.0,4222.222222222223,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,9,125000.0,1490.0,13888.888888888889,0
+Suzuki Estilo,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,10,63080.0,1000.0,6308.0,0
+Honda CRV,Honda,Used,Automatic,Station wagon,Petrol,Colombo,3,32000.0,1500.0,10666.666666666666,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,8,113500.0,1500.0,14187.5,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Hybrid,Kurunegala,5,64000.0,1990.0,12800.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,7,175000.0,1500.0,25000.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,50000.0,800.0,5000.0,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,58000.0,2800.0,19333.333333333332,0
+Honda N-Box,Honda,Used,Tiptronic,MPV,Petrol,Colombo,4,43500.0,650.0,10875.0,0
+Land Rover Range Rover,Land Rover,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,2,19000.0,2000.0,9500.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,17,225000.0,1600.0,13235.29411764706,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Gampaha,8,112607.0,1500.0,14075.875,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Colombo,32,215000.0,1300.0,6718.75,0
+Nissan Patrol,Nissan,Used,Manual,SUV / 4x4,Diesel,Gampaha,23,175000.0,3000.0,7608.695652173913,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,,Petrol,Kalutara,22,169500.0,3370.0,7704.545454545455,0
+Nissan Dayz,Nissan,Used,Automatic,Hatchback,Petrol,Kurunegala,5,37122.0,650.0,7424.4,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Station wagon,Petrol,Galle,3,27000.0,650.0,9000.0,0
+Ssang Yong Kyron,Ssang Yong,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,12,128580.0,2000.0,10715.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,19,142000.0,1500.0,7473.684210526316,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,3,28000.0,1500.0,9333.333333333334,0
+Kia Sorento,Kia,Used,Automatic,SUV / 4x4,Petrol,Colombo,10,114871.0,2200.0,11487.1,0
+Audi A4,Audi,Used,Automatic,Saloon,Petrol,Kalutara,4,25500.0,1400.0,6375.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Puttalam,4,89000.0,1490.0,22250.0,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Puttalam,5,45600.0,1300.0,9120.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,12,93000.0,990.0,7750.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Matara,35,195000.0,1480.0,5571.428571428572,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Galle,6,120000.0,800.0,20000.0,0
+Mitsubishi Xpander,Mitsubishi,Used,Automatic,,Petrol,Kandy,1,9000.0,1500.0,9000.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Kegalle,8,106000.0,1800.0,13250.0,0
+Suzuki Baleno,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,56000.0,1000.0,14000.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,19,65000.0,650.0,3421.0526315789475,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Polonnaruwa,19,135000.0,1500.0,7105.263157894737,0
+Honda Grace,Honda,Used,Automatic,Saloon,Petrol,Gampaha,6,120000.0,1500.0,20000.0,0
+Audi A3,Audi,Used,Automatic,Saloon,Petrol,Colombo,6,104000.0,1800.0,17333.333333333332,0
+Toyota Other Model,Toyota,Used,Manual,Station wagon,Petrol,Kandy,36,108112.0,1300.0,3003.1111111111113,0
+Volkswagen Tiguan,Volkswagen,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,9,118000.0,2000.0,13111.111111111111,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Kandy,8,68700.0,990.0,8587.5,0
+Toyota Harrier,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,6,49000.0,2000.0,8166.666666666667,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Colombo,38,178000.0,1400.0,4684.210526315789,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,17,83000.0,1300.0,4882.35294117647,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Gampaha,22,160000.0,1973.0,7272.727272727273,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Kandy,6,14000.0,650.0,2333.3333333333335,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Matara,35,220000.0,1300.0,6285.714285714285,0
+Nissan Other Model,Nissan,Used,Automatic,Station wagon,Petrol,Colombo,8,82000.0,2000.0,10250.0,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Kurunegala,46,223449.0,1000.0,4857.586956521739,0
+Suzuki Swift,Suzuki,Used,Tiptronic,Hatchback,Petrol,Gampaha,14,110000.0,1500.0,7857.142857142857,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,5,25000.0,1000.0,5000.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Diesel,Gampaha,23,123987.0,2000.0,5390.739130434783,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,5,14000.0,660.0,2800.0,0
+BMW X3,BMW,New,Tiptronic,SUV / 4x4,Diesel,Colombo,6,50.0,2000.0,8.333333333333334,0
+Toyota Harrier,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,4,50000.0,2000.0,12500.0,0
+Daihatsu Boon,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,3,31250.0,990.0,10416.666666666666,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Kalutara,7,112000.0,1500.0,16000.0,0
+Tata Xenon,Tata,Used,Manual,,Diesel,Colombo,10,230000.0,3000.0,23000.0,0
+Hyundai Santa Fe,Hyundai,Used,Manual,SUV / 4x4,Diesel,Matale,14,140000.0,2100.0,10000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Puttalam,2,23000.0,1000.0,11500.0,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Ratnapura,8,147300.0,1500.0,18412.5,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,5,28000.0,650.0,5600.0,0
+Maruti Other Model,Maruti,Used,Manual,Hatchback,Petrol,Colombo,21,100000.0,1000.0,4761.9047619047615,0
+Toyota Premio,Toyota,Reconditioned,Automatic,Saloon,Petrol,Colombo,3,1500.0,1500.0,500.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,18,130000.0,650.0,7222.222222222223,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Gampaha,37,99999.0,1400.0,2702.675675675676,0
+Suzuki Maruti,Suzuki,Used,Manual,,Petrol,Colombo,8,127000.0,1300.0,15875.0,0
+Toyota Vios,Toyota,Used,Automatic,Saloon,Petrol,Colombo,18,160000.0,1500.0,8888.888888888889,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,3,30000.0,1000.0,10000.0,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,21768.0,1000.0,5442.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,40000.0,660.0,13333.333333333334,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Matara,36,147000.0,,4083.3333333333335,0
+Kia Rio,Kia,Used,Manual,Saloon,Petrol,Monaragala,18,157000.0,1400.0,8722.222222222223,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,9,60000.0,2400.0,6666.666666666667,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,3,12000.0,1500.0,4000.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Other fuel type,Colombo,6,70000.0,1990.0,11666.666666666666,0
+Kia Sportage,Kia,Used,Automatic,SUV / 4x4,Diesel,Colombo,13,110000.0,2000.0,8461.538461538461,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,26000.0,800.0,4333.333333333333,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Kalutara,4,102000.0,660.0,25500.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,7,143000.0,1500.0,20428.571428571428,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,7,110000.0,1500.0,15714.285714285714,0
+Perodua Kelisa,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,15,125000.0,1000.0,8333.333333333334,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Puttalam,21,200000.0,1800.0,9523.809523809523,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,12,95600.0,1800.0,7966.666666666667,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,5,41200.0,1800.0,8240.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,6,48000.0,1500.0,8000.0,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,5,63000.0,1800.0,12600.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,6,50000.0,1000.0,8333.333333333334,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,9,145000.0,1500.0,16111.111111111111,0
+Toyota Hilux,Toyota,Used,Manual,,Diesel,Puttalam,29,200000.0,2500.0,6896.551724137931,0
+Peugeot 5008,Peugeot,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,2,17000.0,1200.0,8500.0,0
+Mazda Familia,Mazda,Used,Automatic,Saloon,Petrol,Colombo,21,192000.0,1600.0,9142.857142857143,0
+Perodua Bezza,Perodua,Used,Automatic,Saloon,Petrol,Gampaha,3,11530.0,1000.0,3843.3333333333335,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Gampaha,3,29000.0,1500.0,9666.666666666666,0
+Mazda Flair,Mazda,Used,Automatic,Hatchback,Petrol,Colombo,6,53000.0,650.0,8833.333333333334,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Matara,7,80000.0,1500.0,11428.57142857143,0
+Perodua Axia,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,6,53000.0,1000.0,8833.333333333334,0
+Suzuki Celerio,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,74000.0,1000.0,12333.333333333334,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Kalutara,7,58000.0,1790.0,8285.714285714286,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Colombo,7,120000.0,800.0,17142.85714285714,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Gampaha,7,58000.0,1500.0,8285.714285714286,0
+Suzuki Other Model,Suzuki,Used,Automatic,Saloon,Petrol,Gampaha,15,139000.0,1500.0,9266.666666666666,0
+BMW 225XE,BMW,Used,Automatic,Station wagon,Electric,Colombo,4,5700.0,0.0,1425.0,0
+Toyota Vitz,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,4,26000.0,1000.0,6500.0,0
+Hyundai Eon,Hyundai,Used,Manual,,Petrol,Matara,5,12000.0,850.0,2400.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,9200.0,1500.0,3066.6666666666665,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Hybrid,Colombo,6,60000.0,650.0,10000.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Anuradhapura,9,90000.0,1790.0,10000.0,0
+Honda Vezel,Honda,Used,Automatic,,Hybrid,Colombo,6,86000.0,1500.0,14333.333333333334,0
+Toyota Vios,Toyota,Used,Manual,Saloon,Petrol,Galle,17,155000.0,1500.0,9117.64705882353,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Gampaha,24,99999.0,2000.0,4166.625,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,38000.0,800.0,7600.0,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,5,2083.0,4461.0,416.6,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Kandy,6,68000.0,650.0,11333.333333333334,0
+Mercedes Benz E200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Kandy,11,78000.0,1800.0,7090.909090909091,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,15,163000.0,2835.0,10866.666666666666,0
+Toyota Belta,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,82000.0,1290.0,6307.692307692308,0
+Toyota Cami,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,20,159000.0,1300.0,7950.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,15,113000.0,1500.0,7533.333333333333,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,6,61000.0,1000.0,10166.666666666666,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,6,64000.0,1500.0,10666.666666666666,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Colombo,22,221418.0,1995.0,10064.454545454546,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,5,5900.0,1500.0,1180.0,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Kurunegala,29,214000.0,1000.0,7379.310344827586,0
+Honda CRV,Honda,Used,Automatic,Station wagon,Petrol,Colombo,3,73000.0,1500.0,24333.333333333332,0
+Toyota Prius,Toyota,Used,Automatic,,Petrol,Gampaha,8,98000.0,1790.0,12250.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,7,29330.0,650.0,4190.0,0
+Toyota Other Model,Toyota,Used,Manual,Saloon,Petrol,Gampaha,47,50000.0,1200.0,1063.8297872340424,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Galle,7,91000.0,1500.0,13000.0,0
+Hyundai Elantra,Hyundai,Used,Automatic,Saloon,Petrol,Colombo,10,186000.0,1600.0,18600.0,0
+Kia Mentor,Kia,Used,Automatic,Saloon,Petrol,Colombo,20,134000.0,1490.0,6700.0,0
+Maruti Suzuki WagonR,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Galle,13,170000.0,1061.0,13076.923076923076,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,44650.0,650.0,11162.5,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,40000.0,3000.0,6666.666666666667,0
+Land Rover Discovery,Land Rover,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,11,242000.0,3000.0,22000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,9,113550.0,1330.0,12616.666666666666,0
+Toyota Corolla,Toyota,Used,Automatic,Station wagon,Petrol,Kalutara,48,99800.0,1200.0,2079.1666666666665,0
+Suzuki Wagon R,Suzuki,Used,Automatic,MPV,CNG,Kalutara,4,44000.0,660.0,11000.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Matale,11,111000.0,1500.0,10090.90909090909,0
+Suzuki Wagon R,Suzuki,Used,Automatic,,Hybrid,Colombo,7,56469.0,650.0,8067.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Colombo,39,310000.0,1400.0,7948.717948717948,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,26,90000.0,800.0,3461.5384615384614,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,12,48000.0,1000.0,4000.0,0
+Kia Sportage,Kia,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,9,97000.0,1980.0,10777.777777777777,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Ratnapura,6,73000.0,3200.0,12166.666666666666,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Puttalam,13,130000.0,3000.0,10000.0,0
+Micro Tivoli,Micro,Used,Automatic,Station wagon,Petrol,Colombo,4,83000.0,1700.0,20750.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Hambantota,9,112000.0,1500.0,12444.444444444445,0
+Honda Insight,Honda,Used,Automatic,Saloon,Petrol,Kurunegala,10,93000.0,1300.0,9300.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,4,85000.0,1490.0,21250.0,0
+Toyota Starlet,Toyota,Used,Manual,Hatchback,Petrol,Kandy,29,238000.0,1300.0,8206.896551724138,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Matale,9,78000.0,1000.0,8666.666666666666,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,49000.0,660.0,12250.0,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Colombo,15,75000.0,800.0,5000.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,20,151000.0,3200.0,7550.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,4,31800.0,660.0,7950.0,0
+BMW 740e,BMW,Used,Automatic,Saloon,Petrol,Colombo,4,20000.0,2000.0,5000.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,6,52181.0,990.0,8696.833333333334,0
+Isuzu Gemini,Isuzu,Used,Automatic,Saloon,Petrol,Matara,19,134000.0,1500.0,7052.631578947368,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Colombo,5,118000.0,2982.0,23600.0,0
+Suzuki Grand Vitara,Suzuki,Used,Automatic,SUV / 4x4,Petrol,Colombo,7,48000.0,2000.0,6857.142857142857,0
+Nissan Bluebird,Nissan,Used,Automatic,Saloon,Petrol,Galle,23,106952.0,1800.0,4650.086956521739,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Kurunegala,8,94000.0,1500.0,11750.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,59000.0,650.0,19666.666666666668,0
+Mercedes Benz C180,Mercedes Benz,Used,Automatic,Saloon,Petrol,Kalutara,10,80000.0,1600.0,8000.0,0
+Mazda Carol,Mazda,Used,Automatic,Hatchback,Petrol,Gampaha,4,62000.0,800.0,15500.0,0
+Austin Mini Cooper,Austin,Used,Manual,Hatchback,Petrol,Colombo,25,196000.0,1275.0,7840.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Kandy,3,32000.0,650.0,10666.666666666666,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Colombo,19,123000.0,1500.0,6473.684210526316,0
+Isuzu Gemini,Isuzu,Used,Manual,Hatchback,Diesel,Gampaha,34,100000.0,1500.0,2941.176470588235,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Anuradhapura,7,112000.0,1500.0,16000.0,0
+Mercedes Benz C180,Mercedes Benz,Used,Manual,Saloon,Petrol,Gampaha,27,80000.0,1800.0,2962.962962962963,0
+Suzuki A-Star,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,56411.0,998.0,5641.1,0
+Honda N-WGN,Honda,Used,Automatic,Hatchback,Petrol,Colombo,4,99500.0,650.0,24875.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Diesel,Gampaha,13,100000.0,2000.0,7692.307692307692,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Kurunegala,14,190000.0,2500.0,13571.42857142857,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,9,167000.0,2500.0,18555.555555555555,0
+Tata Xenon,Tata,Used,Manual,Convertible,Diesel,Ampara,6,100000.0,2956.0,16666.666666666668,0
+Volkswagen Passat,Volkswagen,Used,Tiptronic,Saloon,Petrol,Colombo,19,143000.0,1790.0,7526.315789473684,0
+Toyota RAV4,Toyota,Used,Manual,SUV / 4x4,Petrol,Colombo,21,151000.0,2000.0,7190.476190476191,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Trincomalee,37,150000.0,800.0,4054.054054054054,0
+Toyota Aqua,Toyota,Used,Automatic,,Hybrid,Colombo,6,61000.0,1500.0,10166.666666666666,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,6,38000.0,3200.0,6333.333333333333,0
+BMW X5 eDrive,BMW,Used,Automatic,SUV / 4x4,Hybrid,Colombo,5,69000.0,2500.0,13800.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,18,83000.0,1500.0,4611.111111111111,0
+Isuzu Gemini,Isuzu,Used,Manual,Saloon,Diesel,Colombo,32,200000.0,1500.0,6250.0,0
+Mazda Flair,Mazda,Reconditioned,Automatic,Hatchback,Petrol,Colombo,5,19000.0,650.0,3800.0,0
+Toyota Vios,Toyota,Used,Automatic,Saloon,Petrol,Anuradhapura,17,98000.0,1500.0,5764.705882352941,0
+Toyota Corolla,Toyota,Used,Automatic,Station wagon,Petrol,Colombo,22,239124.0,1490.0,10869.272727272728,0
+Toyota Wigo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,37000.0,1000.0,9250.0,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,18,138000.0,1990.0,7666.666666666667,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Colombo,6,56303.0,800.0,9383.833333333334,0
+Nissan Aventura,Nissan,Used,Manual,SUV / 4x4,Diesel,Hambantota,13,91000.0,2500.0,7000.0,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Colombo,22,152000.0,1340.0,6909.090909090909,0
+Toyota Fortuner,Toyota,New,Automatic,SUV / 4x4,Diesel,Colombo,6,0.0,3000.0,0.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,3,23000.0,1500.0,7666.666666666667,0
+Maruti Suzuki Zen,Maruti Suzuki,Used,Manual,,Petrol,Colombo,9,118000.0,1000.0,13111.111111111111,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,,CNG,Gampaha,14,79000.0,2700.0,5642.857142857143,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Gampaha,4,79000.0,1500.0,19750.0,0
+Mitsubishi Towny,Mitsubishi,Used,Manual,Hatchback,Petrol,Puttalam,36,79800.0,800.0,2216.6666666666665,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Kandy,10,70000.0,800.0,7000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Gampaha,32,250000.0,1300.0,7812.5,0
+Suzuki Hustler,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,6,48000.0,660.0,8000.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,5,90000.0,650.0,18000.0,0
+Toyota Runx,Toyota,Used,Automatic,Hatchback,Petrol,Kandy,20,140000.0,1790.0,7000.0,0
+Suzuki Wagon R Stingray,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Colombo,6,21000.0,650.0,3500.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,22,175000.0,1300.0,7954.545454545455,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,24,250000.0,3000.0,10416.666666666666,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Diesel,Anuradhapura,24,189120.0,1680.0,7880.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,1,7000.0,1500.0,7000.0,0
+Kia Rio,Kia,Used,Automatic,Saloon,Petrol,Kegalle,19,98000.0,1500.0,5157.894736842105,0
+Toyota Mark,Toyota,Used,Automatic,Saloon,Diesel,Kegalle,15,175000.0,2500.0,11666.666666666666,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,16,98000.0,1500.0,6125.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Diesel,Kalutara,24,211000.0,2000.0,8791.666666666666,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,15,160000.0,2800.0,10666.666666666666,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Jaffna,7,67000.0,800.0,9571.42857142857,0
+Honda Vezel,Honda,Used,Automatic,,Hybrid,Colombo,7,92310.0,1500.0,13187.142857142857,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Kurunegala,2,5265.0,1000.0,2632.5,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,4,8000.0,1000.0,2000.0,0
+MG ZS,MG,Used,Automatic,SUV / 4x4,Petrol,Gampaha,3,27000.0,1000.0,9000.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,43516.0,650.0,8703.2,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Colombo,6,150745.0,650.0,25124.166666666668,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Gampaha,17,231000.0,1400.0,13588.235294117647,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,6,82355.0,1500.0,13725.833333333334,0
+Hyundai Elantra,Hyundai,Used,Automatic,Station wagon,Petrol,Kalutara,22,197000.0,1500.0,8954.545454545454,0
+Mitsubishi Outlander,Mitsubishi,Used,Tiptronic,SUV / 4x4,Other fuel type,Colombo,7,160000.0,2000.0,22857.14285714286,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Puttalam,35,61886.0,1300.0,1768.1714285714286,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,9,130000.0,1496.0,14444.444444444445,0
+Land Rover Discovery,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,114000.0,3000.0,19000.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Jaffna,20,100000.0,1600.0,5000.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,,Petrol,Kalutara,6,84000.0,660.0,14000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matale,36,162000.0,1300.0,4500.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,6,100000.0,3000.0,16666.666666666668,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,,Petrol,Gampaha,41,115745.0,1400.0,2823.048780487805,0
+Toyota Starlet,Toyota,Used,Manual,Hatchback,Petrol,Kandy,34,190000.0,1290.0,5588.235294117647,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,14,1000000.0,990.0,71428.57142857143,0
+Toyota Ceres,Toyota,Used,Automatic,Station wagon,Petrol,Galle,8,95000.0,1200.0,11875.0,0
+Honda Logo,Honda,Used,Automatic,Saloon,Petrol,Colombo,22,9289.0,1340.0,422.22727272727275,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,,Petrol,Colombo,9,100000.0,2700.0,11111.111111111111,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,,Petrol,Colombo,4,43000.0,998.0,10750.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Kandy,14,98000.0,1500.0,7000.0,0
+Honda Vezel,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,7,95700.0,1500.0,13671.42857142857,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,4,48500.0,1000.0,12125.0,0
+Toyota Tercel,Toyota,Used,Automatic,Saloon,Petrol,Matara,23,13000.0,1500.0,565.2173913043479,0
+Suzuki Maruti,Suzuki,Used,Manual,,Petrol,Colombo,10,134247.0,800.0,13424.7,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kurunegala,34,177000.0,1500.0,5205.882352941177,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,41000.0,650.0,8200.0,0
+Nissan Pulsar,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,27,120000.0,1500.0,4444.444444444444,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,6,94620.0,1500.0,15770.0,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,14152.0,660.0,3538.0,1
+Honda Fit Shuttle,Honda,Used,Automatic,Hatchback,Petrol,Colombo,9,108000.0,1300.0,12000.0,0
+Peugeot 5008,Peugeot,Used,Automatic,SUV / 4x4,Petrol,Colombo,1,20000.0,1200.0,20000.0,0
+Honda Fit Aria,Honda,Used,Automatic,,Petrol,Gampaha,13,185000.0,1490.0,14230.76923076923,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kandy,34,250000.0,1500.0,7352.941176470588,0
+BMW 320d,BMW,Used,Tiptronic,Saloon,Diesel,Kurunegala,10,118000.0,2000.0,11800.0,0
+Suzuki Estilo,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,8,63294.0,1000.0,7911.75,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,9,66478.0,1300.0,7386.444444444444,0
+Daihatsu Charade,Daihatsu,Used,Manual,Station wagon,Diesel,Kurunegala,36,19291.0,1000.0,535.8611111111111,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Matale,7,76000.0,800.0,10857.142857142857,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Diesel,Kegalle,30,89000.0,2000.0,2966.6666666666665,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Kalutara,37,123456.0,1300.0,3336.6486486486488,0
+Toyota Soluna,Toyota,Used,Automatic,Saloon,Petrol,Colombo,18,164900.0,1500.0,9161.111111111111,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Colombo,23,47515.0,1490.0,2065.8695652173915,0
+Mitsubishi Lancer,Mitsubishi,Used,Automatic,Saloon,Petrol,Kalutara,13,166091.0,1300.0,12776.23076923077,0
+Daihatsu Move,Daihatsu,Used,Automatic,Hatchback,Petrol,Kegalle,5,56000.0,660.0,11200.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,2,31000.0,1000.0,15500.0,0
+Land Rover Discovery,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,15,182000.0,4000.0,12133.333333333334,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Saloon,Petrol,Gampaha,3,35000.0,6500.0,11666.666666666666,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Kurunegala,35,85000.0,1500.0,2428.5714285714284,0
+Hyundai i20,Hyundai,Used,Manual,Hatchback,Petrol,Colombo,11,95000.0,1200.0,8636.363636363636,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,41800.0,650.0,10450.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Gampaha,3,8400.0,1500.0,2800.0,0
+Kia Sorento,Kia,Used,Automatic,SUV / 4x4,Diesel,Colombo,10,72900.0,2300.0,7290.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,6,46782.0,800.0,7797.0,0
+Suzuki Baleno,Suzuki,Used,Automatic,Hatchback,Petrol,Galle,5,24000.0,1000.0,4800.0,0
+Honda Vezel,Honda,Used,Automatic,Station wagon,Hybrid,Colombo,4,45400.0,1500.0,11350.0,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,11,170000.0,3000.0,15454.545454545454,0
+Suzuki Cultus,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,25,56000.0,1390.0,2240.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,9,88000.0,1500.0,9777.777777777777,0
+Micro Trend,Micro,Used,Manual,Hatchback,Petrol,Kurunegala,14,75241.0,1000.0,5374.357142857143,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,14,87000.0,1000.0,6214.285714285715,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,13,99500.0,1000.0,7653.846153846154,0
+Jeep Other Model,Jeep,Used,Manual,SUV / 4x4,Diesel,Colombo,40,100000.0,2530.0,2500.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,68000.0,650.0,13600.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,43,451000.0,1400.0,10488.372093023256,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Gampaha,11,105000.0,1000.0,9545.454545454546,0
+Toyota Aqua,Toyota,Used,Automatic,,Petrol,Colombo,6,52000.0,1500.0,8666.666666666666,0
+Micro Panda Cross,Micro,Used,Tiptronic,Station wagon,Petrol,Colombo,4,34500.0,1000.0,8625.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,12,94000.0,1500.0,7833.333333333333,0
+Suzuki Wagon R FZ,Suzuki,Used,Tiptronic,Hatchback,Hybrid,Gampaha,4,63000.0,650.0,15750.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Matara,9,115000.0,1000.0,12777.777777777777,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,6,64000.0,1500.0,10666.666666666666,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,6,93000.0,1500.0,15500.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Colombo,22,250000.0,1500.0,11363.636363636364,0
+Toyota Allion,Toyota,Used,Automatic,,Petrol,Colombo,14,100000.0,1500.0,7142.857142857143,0
+Suzuki Other Model,Suzuki,Used,Automatic,,Petrol,Colombo,19,120000.0,1500.0,6315.789473684211,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,8,80000.0,1800.0,10000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,19,188000.0,1800.0,9894.736842105263,0
+Micro Panda,Micro,Used,Manual,,Petrol,Colombo,6,74523.0,1000.0,12420.5,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,7,54500.0,650.0,7785.714285714285,0
+Honda Fit Shuttle,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,9,80000.0,1300.0,8888.888888888889,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Gampaha,32,200000.0,1300.0,6250.0,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Kandy,8,78000.0,2000.0,9750.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,8,86000.0,1500.0,10750.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,39653.0,660.0,9913.25,0
+Toyota Vios,Toyota,Used,Manual,Saloon,Petrol,Matara,17,159000.0,1500.0,9352.941176470587,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Kurunegala,13,77000.0,1500.0,5923.076923076923,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,23900.0,1000.0,7966.666666666667,0
+Mercedes Benz E200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,24,126000.0,2000.0,5250.0,0
+Toyota Belta,Toyota,Used,Automatic,Saloon,Petrol,Colombo,15,157000.0,1300.0,10466.666666666666,0
+DFSK Glory,DFSK,Reconditioned,Tiptronic,SUV / 4x4,Petrol,Colombo,1,2300.0,1500.0,2300.0,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,83000.0,1200.0,7545.454545454545,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,39652.0,660.0,9913.0,0
+Nissan Dutsun,Nissan,Used,Manual,,Petrol,Kurunegala,40,165000.0,1400.0,4125.0,0
+Mitsubishi Shogun,Mitsubishi,Used,Automatic,Station wagon,Diesel,Matale,8,65000.0,3200.0,8125.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Colombo,9,67350.0,1330.0,7483.333333333333,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,2,21000.0,1300.0,10500.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Colombo,6,43000.0,2200.0,7166.666666666667,0
+Proton Saga,Proton,Used,Manual,Saloon,Petrol,Colombo,34,100000.0,1500.0,2941.176470588235,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,21000.0,1000.0,5250.0,0
+Toyota Roomy,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,38542.0,1000.0,9635.5,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Colombo,7,85910.0,0.0,12272.857142857143,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,14,112600.0,1500.0,8042.857142857143,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,41874.0,660.0,10468.5,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Kandy,7,59400.0,1800.0,8485.714285714286,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,13,93000.0,1000.0,7153.846153846154,0
+Nissan Other Model,Nissan,Used,Manual,Hatchback,Diesel,Puttalam,16,240000.0,3153.0,15000.0,0
+Perodua Viva Elite,Perodua,Used,Manual,Hatchback,Petrol,Colombo,11,95929.0,1000.0,8720.818181818182,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,16,143000.0,1500.0,8937.5,0
+BMW 520d,BMW,Used,Tiptronic,Saloon,Diesel,Colombo,8,98000.0,2000.0,12250.0,0
+Jaguar XF,Jaguar,Used,Automatic,Saloon,Diesel,Colombo,8,68000.0,2000.0,8500.0,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Kalutara,27,200000.0,1500.0,7407.407407407408,0
+Toyota Fortuner,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,104000.0,3000.0,13000.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Kandy,31,272000.0,1290.0,8774.193548387097,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,5,42000.0,1000.0,8400.0,0
+Nissan Cefiro,Nissan,Used,Automatic,Saloon,Petrol,Colombo,17,134467.0,2350.0,7909.823529411765,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Ratnapura,9,89900.0,800.0,9988.888888888889,0
+Kia Sportage,Kia,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,10,63000.0,1998.0,6300.0,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Matara,20,130000.0,2000.0,6500.0,0
+Mazda Flair,Mazda,Used,Automatic,Hatchback,Hybrid,Gampaha,6,52000.0,660.0,8666.666666666666,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,109000.0,2000.0,18166.666666666668,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,,Diesel,Colombo,10,116875.0,2800.0,11687.5,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,26322.0,650.0,5264.4,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,9,67000.0,4600.0,7444.444444444444,0
+Kia Sportage,Kia,Used,Tiptronic,SUV / 4x4,Petrol,Kalutara,9,63000.0,2000.0,7000.0,0
+Honda CRV,Honda,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,3,39000.0,1500.0,13000.0,0
+Suzuki Spacia,Suzuki,Used,Tiptronic,Station wagon,Hybrid,Colombo,3,64000.0,660.0,21333.333333333332,0
+Mercedes Benz E200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,10,59000.0,1800.0,5900.0,0
+Volkswagen Other Model,Volkswagen,Used,Manual,SUV / 4x4,Diesel,Kalutara,15,70000.0,2456.0,4666.666666666667,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Gampaha,13,122000.0,1800.0,9384.615384615385,0
+Suzuki Alto,Suzuki,Used,Tiptronic,Hatchback,Petrol,Vavuniya,5,38400.0,1000.0,7680.0,0
+Chery QQ,Chery,Used,Manual,Hatchback,Petrol,Badulla,14,132000.0,812.0,9428.57142857143,0
+Suzuki Vitara,Suzuki,Used,Manual,SUV / 4x4,Petrol,Colombo,16,225000.0,1400.0,14062.5,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,19,113000.0,3200.0,5947.368421052632,0
+Land Rover Range Rover Velar,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,36000.0,2000.0,12000.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Gampaha,37,312000.0,1500.0,8432.432432432432,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Petrol,Matara,7,85000.0,1500.0,12142.857142857143,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,77000.0,1500.0,12833.333333333334,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Kalutara,7,85000.0,1500.0,12142.857142857143,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,6,75900.0,650.0,12650.0,0
+BMW 330e,BMW,Used,Automatic,Saloon,Hybrid,Colombo,5,29000.0,2000.0,5800.0,0
+Honda Vezel,Honda,Used,Tiptronic,SUV / 4x4,Hybrid,Anuradhapura,7,97000.0,1500.0,13857.142857142857,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,64000.0,800.0,12800.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Ampara,8,140000.0,1800.0,17500.0,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Gampaha,21,161400.0,990.0,7685.714285714285,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,14,113000.0,800.0,8071.428571428572,0
+Nissan Bluebird,Nissan,Used,Manual,Saloon,Diesel,Colombo,39,90000.0,1990.0,2307.6923076923076,0
+Mazda Familia,Mazda,Used,Manual,Hatchback,Petrol,Kegalle,28,215324.0,1400.0,7690.142857142857,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Puttalam,8,94600.0,1800.0,11825.0,0
+Toyota RAV4,Toyota,Used,Automatic,MPV,Petrol,Colombo,19,211000.0,2000.0,11105.263157894737,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Matara,10,132000.0,1500.0,13200.0,0
+BMW 318i,BMW,Used,Automatic,Saloon,Petrol,Colombo,4,18000.0,1500.0,4500.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Ampara,5,84500.0,1500.0,16900.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,60000.0,800.0,10000.0,0
+Suzuki Other Model,Suzuki,Used,Manual,Coupe/Sports,Petrol,Colombo,23,80000.0,1000.0,3478.2608695652175,0
+Toyota Corsa,Toyota,Used,Manual,Hatchback,Petrol,Nuwara Eliya,35,100000.0,1300.0,2857.1428571428573,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Matara,8,620000.0,1300.0,77500.0,0
+Suzuki A-Star,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,10,75000.0,1000.0,7500.0,0
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Hybrid,Kurunegala,9,115000.0,1300.0,12777.777777777777,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,49025.0,650.0,16341.666666666666,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,31800.0,650.0,5300.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,100000.0,800.0,9090.90909090909,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Kandy,4,56000.0,1500.0,14000.0,0
+BMW 318i,BMW,Used,Tiptronic,Saloon,Petrol,Colombo,3,37000.0,1500.0,12333.333333333334,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,14,79247.0,1000.0,5660.5,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Colombo,31,30000.0,1250.0,967.741935483871,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Matale,6,53000.0,660.0,8833.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,188680.0,800.0,18868.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,14,107800.0,1500.0,7700.0,0
+Kia Sorento,Kia,Used,Automatic,SUV / 4x4,Diesel,Gampaha,9,120000.0,2200.0,13333.333333333334,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,21,167000.0,3400.0,7952.380952380952,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Kalutara,23,250000.0,2700.0,10869.565217391304,0
+Toyota Passo,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,15000.0,1000.0,3750.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,7,56469.0,650.0,8067.0,0
+Nissan Wingroad,Nissan,Used,Automatic,Station wagon,Petrol,Kalutara,12,128500.0,1240.0,10708.333333333334,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,15,128000.0,1300.0,8533.333333333334,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Anuradhapura,6,39500.0,1500.0,6583.333333333333,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Matara,20,12000.0,1500.0,600.0,0
+Nissan Other Model,Nissan,Used,Manual,Saloon,Petrol,Polonnaruwa,43,90000.0,2300.0,2093.0232558139537,0
+Toyota Land Cruiser Prado,Toyota,Reconditioned,Manual,,Diesel,Colombo,6,80000.0,2990.0,13333.333333333334,0
+Mitsubishi i-MiEV,Mitsubishi,Used,Automatic,Hatchback,Electric,Colombo,7,97324.0,0.0,13903.42857142857,0
+Suzuki A-Star,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,10,75517.0,1000.0,7551.7,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,1,17402.0,1500.0,17402.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,6,79000.0,650.0,13166.666666666666,0
+Mahindra Bolero,Mahindra,Used,Manual,Hatchback,Diesel,Monaragala,7,159000.0,1590.0,22714.285714285714,0
+BMW 528i,BMW,Used,Automatic,Saloon,Petrol,Colombo,10,74000.0,2000.0,7400.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,42,90308.0,1200.0,2150.190476190476,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,4,55725.0,1290.0,13931.25,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,7,81000.0,1500.0,11571.42857142857,0
+Mitsubishi eK Wagon,Mitsubishi,Used,Automatic,Hatchback,Petrol,Kalutara,3,11000.0,650.0,3666.6666666666665,0
+BMW ActiveHybrid 5,BMW,Used,Tiptronic,Saloon,Petrol,Colombo,9,40000.0,3000.0,4444.444444444444,0
+Toyota Sprinter,Toyota,Used,Manual,Saloon,Petrol,Colombo,26,328000.0,1500.0,12615.384615384615,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,7,60284.0,650.0,8612.0,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,2,15000.0,1000.0,7500.0,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,2,16000.0,1200.0,8000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Diesel,Galle,24,20000.0,1970.0,833.3333333333334,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Matara,6,135000.0,1500.0,22500.0,0
+Toyota CHR,Toyota,Used,Automatic,Station wagon,Petrol,Colombo,3,34000.0,1200.0,11333.333333333334,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Gampaha,2,4900.0,1500.0,2450.0,0
+Hyundai Atos,Hyundai,Used,Automatic,Hatchback,Petrol,Colombo,16,124000.0,1200.0,7750.0,0
+Toyota Ceres,Toyota,Used,Manual,Saloon,Petrol,Colombo,28,127000.0,1500.0,4535.714285714285,0
+Toyota Sprinter,Toyota,Used,Automatic,Saloon,Petrol,Ratnapura,24,168000.0,1500.0,7000.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Hambantota,19,210000.0,1500.0,11052.631578947368,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,67000.0,800.0,11166.666666666666,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Colombo,41,100000.0,1400.0,2439.0243902439024,0
+Zotye Nomad,Zotye,Used,Manual,Hatchback,Petrol,Gampaha,13,96148.0,1300.0,7396.0,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,3,52000.0,660.0,17333.333333333332,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Kegalle,16,137000.0,1300.0,8562.5,0
+BMW X3,BMW,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,110000.0,2000.0,13750.0,0
+Austin Mini Cooper,Austin,Used,Automatic,,Petrol,Colombo,53,120000.0,1300.0,2264.1509433962265,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,36,50000.0,1500.0,1388.888888888889,0
+Mazda BT-50,Mazda,Used,Manual,SUV / 4x4,Diesel,Colombo,5,36000.0,2500.0,7200.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Ratnapura,24,165000.0,3000.0,6875.0,0
+Toyota Roomy,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,4000.0,1000.0,1333.3333333333333,0
+Toyota Tercel,Toyota,Used,Manual,Saloon,Petrol,Matale,23,214000.0,1500.0,9304.347826086956,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Colombo,8,80000.0,2000.0,10000.0,0
+Porsche Cayenne,Porsche,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,10,60000.0,3000.0,6000.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Manual,Saloon,Petrol,Gampaha,21,109000.0,1991.0,5190.476190476191,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Colombo,9,88000.0,0.0,9777.777777777777,0
+Perodua Bezza,Perodua,Used,Automatic,,Petrol,Colombo,3,72000.0,1000.0,24000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,48000.0,1000.0,16000.0,0
+Mitsubishi 4DR,Mitsubishi,Used,Manual,Saloon,Petrol,Kalutara,33,350000.0,1300.0,10606.060606060606,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,6,72000.0,1500.0,12000.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,7,40000.0,1800.0,5714.285714285715,0
+Honda S660,Honda,Used,Manual,Coupe/Sports,Petrol,Colombo,5,10000.0,650.0,2000.0,0
+Toyota Vitz,Toyota,Used,Manual,Hatchback,Petrol,Matara,6,65000.0,1000.0,10833.333333333334,0
+Suzuki Wagon R Stingray,Suzuki,Used,Tiptronic,Hatchback,Petrol,Colombo,7,57000.0,650.0,8142.857142857143,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,6,86000.0,1500.0,14333.333333333334,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,16,7531.0,800.0,470.6875,0
+Nissan Tiida,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,13,109000.0,1500.0,8384.615384615385,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,3,25000.0,660.0,8333.333333333334,0
+Daihatsu Boon,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,4,41429.0,1000.0,10357.25,0
+Toyota Harrier,Toyota,Used,Automatic,Hatchback,Hybrid,Kalutara,14,124000.0,2200.0,8857.142857142857,0
+Hyundai Tucson,Hyundai,Used,Tiptronic,Station wagon,Diesel,Colombo,10,117130.0,2000.0,11713.0,0
+Honda Vezel,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,7,96000.0,1500.0,13714.285714285714,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Matale,39,180000.0,1400.0,4615.384615384615,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Monaragala,14,105600.0,1300.0,7542.857142857143,0
+Hyundai Accent,Hyundai,Used,Automatic,Saloon,Petrol,Colombo,9,132233.0,1500.0,14692.555555555555,0
+BMW X5,BMW,Used,Automatic,SUV / 4x4,Petrol,Colombo,5,64000.0,2000.0,12800.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kurunegala,28,244950.0,1500.0,8748.214285714286,0
+Toyota Sprinter,Toyota,Used,Manual,Saloon,Petrol,Ratnapura,38,180000.0,1300.0,4736.8421052631575,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,13,100307.0,1500.0,7715.923076923077,0
+Nissan Patrol,Nissan,Used,Automatic,SUV / 4x4,Diesel,Colombo,4,35000.0,2953.0,8750.0,0
+Micro Rexton,Micro,Used,Manual,SUV / 4x4,Diesel,Galle,15,130000.0,2700.0,8666.666666666666,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Puttalam,40,100000.0,1400.0,2500.0,0
+Nissan Bluebird,Nissan,Used,Automatic,Saloon,Petrol,Ratnapura,16,264500.0,1500.0,16531.25,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,6,83000.0,1790.0,13833.333333333334,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Puttalam,42,125000.0,1499.0,2976.190476190476,0
+BMW 116i,BMW,Used,Automatic,Saloon,Petrol,Colombo,30,108000.0,1600.0,3600.0,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,74000.0,1000.0,12333.333333333334,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,19,235333.0,1790.0,12385.947368421053,0
+Peugeot 206,Peugeot,Used,Automatic,Saloon,Petrol,Colombo,14,120000.0,1360.0,8571.42857142857,0
+Toyota RAV4,Toyota,Used,Automatic,SUV / 4x4,Petrol,Kandy,19,196000.0,1800.0,10315.78947368421,0
+Toyota Aqua,Toyota,Used,Automatic,,Petrol,Gampaha,9,116000.0,1500.0,12888.888888888889,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Kurunegala,7,63000.0,650.0,9000.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kandy,6,80000.0,800.0,13333.333333333334,0
+Mercedes Benz E200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,21,110000.0,2000.0,5238.0952380952385,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,50000.0,1500.0,12500.0,0
+Morris Other Model,Morris,Used,Manual,Saloon,Diesel,Gampaha,51,100000.0,1500.0,1960.7843137254902,0
+Isuzu Other Model,Isuzu,Used,Manual,SUV / 4x4,Diesel,Gampaha,23,220000.0,2500.0,9565.217391304348,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,47800.0,660.0,11950.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,14,90000.0,1300.0,6428.571428571428,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Gampaha,8,96000.0,1800.0,12000.0,0
+Maruti Other Model,Maruti,Used,Manual,Hatchback,Petrol,Puttalam,14,45000.0,800.0,3214.285714285714,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,21,170000.0,1490.0,8095.238095238095,0
+Mitsubishi Galant,Mitsubishi,Used,Tiptronic,Saloon,Petrol,Gampaha,22,35000.0,1999.0,1590.909090909091,0
+Honda Grace,Honda,Used,Automatic,Saloon,Hybrid,Colombo,6,70000.0,1490.0,11666.666666666666,0
+Toyota Starlet,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,26,100000.0,1330.0,3846.153846153846,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,41,,1400.0,,0
+Mitsubishi Outlander,Mitsubishi,Used,Tiptronic,Station wagon,Hybrid,Colombo,6,36000.0,2000.0,6000.0,0
+Suzuki Wagon R FX,Suzuki,New,Automatic,Hatchback,Petrol,Colombo,4,0.0,660.0,0.0,0
+Toyota CHR,Toyota,Reconditioned,Tiptronic,SUV / 4x4,Petrol,Colombo,4,18000.0,1200.0,4500.0,1
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Kurunegala,8,96000.0,1500.0,12000.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,8,79900.0,1790.0,9987.5,0
+Nissan Sylphy,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,10,164000.0,1500.0,16400.0,0
+Proton Wira,Proton,Used,Manual,Saloon,Petrol,Matale,15,167000.0,1500.0,11133.333333333334,0
+BMW 740Le,BMW,New,Automatic,Saloon,Petrol,Colombo,4,220.0,2000.0,55.0,0
+Mitsubishi Montero,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Puttalam,26,210000.0,2800.0,8076.923076923077,0
+Micro Panda Cross,Micro,Used,Automatic,,Petrol,Kalutara,4,47300.0,1000.0,11825.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Kalutara,13,155000.0,1490.0,11923.076923076924,0
+Hyundai Eon,Hyundai,Used,Manual,,Petrol,Colombo,6,69388.0,800.0,11564.666666666666,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Ratnapura,6,76000.0,600.0,12666.666666666666,0
+Mercedes Benz A180,Mercedes Benz,Used,Tiptronic,Hatchback,Petrol,Colombo,8,38000.0,1600.0,4750.0,0
+Toyota Aqua,Toyota,Used,Tiptronic,Hatchback,Hybrid,Gampaha,5,90000.0,1500.0,18000.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,12,79500.0,1790.0,6625.0,0
+Mitsubishi eK Space,Mitsubishi,Used,Automatic,Hatchback,Petrol,Colombo,5,25000.0,650.0,5000.0,0
+Honda N-WGN,Honda,Used,Automatic,Hatchback,Petrol,Colombo,4,50000.0,650.0,12500.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Anuradhapura,6,76500.0,1500.0,12750.0,0
+Mercedes Benz E300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Colombo,6,13000.0,2200.0,2166.6666666666665,0
+Toyota Hilux,Toyota,Used,Tiptronic,SUV / 4x4,Diesel,Kurunegala,5,67000.0,2990.0,13400.0,0
+Daihatsu F50,Daihatsu,Used,Manual,SUV / 4x4,Diesel,Colombo,41,100000.0,2500.0,2439.0243902439024,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,71843.0,1500.0,11973.833333333334,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Colombo,45,78385.0,1300.0,1741.888888888889,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,39854.0,660.0,7970.8,0
+Micro Panda,Micro,Used,Manual,,Petrol,Colombo,5,5675.0,1000.0,1135.0,0
+Daihatsu Esse,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,11,127323.0,660.0,11574.818181818182,0
+Toyota Alphard,Toyota,Used,Automatic,MPV,Hybrid,Colombo,8,48000.0,2400.0,6000.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,6,81000.0,1500.0,13500.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,7,65000.0,650.0,9285.714285714286,0
+Mercedes Benz E300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Gampaha,6,147000.0,2143.0,24500.0,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Kandy,8,75000.0,2000.0,9375.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,18,170000.0,1300.0,9444.444444444445,0
+Toyota Prius,Toyota,Used,Automatic,,Hybrid,Colombo,13,140000.0,1500.0,10769.23076923077,0
+Tata Indica,Tata,Used,Manual,Hatchback,Petrol,Gampaha,7,73000.0,850.0,10428.57142857143,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,14,173296.0,1000.0,12378.285714285714,0
+Daihatsu Mira,Daihatsu,Used,Automatic,,Petrol,Colombo,11,102000.0,650.0,9272.727272727272,0
+Daihatsu Terios,Daihatsu,Used,Automatic,SUV / 4x4,Petrol,Colombo,10,110000.0,1500.0,11000.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,91000.0,800.0,18200.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,13,148000.0,650.0,11384.615384615385,0
+Peugeot 5008,Peugeot,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,55000.0,1600.0,18333.333333333332,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,6,42906.0,2690.0,7151.0,0
+Audi A6,Audi,Used,Tiptronic,Saloon,Petrol,Colombo,8,8750.0,1990.0,1093.75,0
+Peugeot Other Model,Peugeot,Used,Manual,Coupe/Sports,CNG,Kurunegala,9,76000.0,1590.0,8444.444444444445,0
+Honda Vezel,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,7,89000.0,1500.0,12714.285714285714,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,6,49000.0,650.0,8166.666666666667,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Galle,5,49000.0,1000.0,9800.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Other transmission,Saloon,Petrol,Galle,35,234774.0,1500.0,6707.828571428571,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Galle,8,61000.0,1500.0,7625.0,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Jaffna,35,50000.0,1500.0,1428.5714285714287,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,48000.0,800.0,8000.0,0
+Kia Sorento,Kia,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,105000.0,2200.0,17500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,42000.0,800.0,7000.0,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,5,73000.0,800.0,14600.0,0
+BMW 740Le,BMW,Used,Automatic,Saloon,Hybrid,Colombo,5,13000.0,2000.0,2600.0,0
+Mazda Demio,Mazda,Used,Automatic,Hatchback,Petrol,Colombo,12,92000.0,1300.0,7666.666666666667,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Matara,3,35500.0,660.0,11833.333333333334,0
+Toyota Allion,Toyota,Used,Automatic,,Petrol,Kurunegala,36,300000.0,1500.0,8333.333333333334,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Kandy,6,98500.0,1500.0,16416.666666666668,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,6,76800.0,650.0,12800.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Diesel,Kurunegala,24,196265.0,1970.0,8177.708333333333,0
+Toyota Prius,Toyota,Used,Automatic,,Hybrid,Colombo,7,142460.0,1800.0,20351.428571428572,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,6,54000.0,1500.0,9000.0,0
+Honda Civic,Honda,Used,Automatic,Hatchback,Petrol,Colombo,4,51000.0,1000.0,12750.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,99897.0,800.0,9081.545454545454,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,8,142000.0,1800.0,17750.0,0
+Chery QQ,Chery,Used,Manual,Hatchback,Petrol,Gampaha,13,57230.0,812.0,4402.307692307692,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,5,51000.0,1500.0,10200.0,0
+Honda Vezel,Honda,Used,Automatic,,Petrol,Colombo,3,13000.0,1500.0,4333.333333333333,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,69000.0,660.0,11500.0,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Kandy,9,169000.0,625.0,18777.777777777777,0
+Toyota Avanza,Toyota,Used,Automatic,MPV,Petrol,Colombo,8,97706.0,1498.0,12213.25,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Matara,20,113000.0,1500.0,5650.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,14,120000.0,1300.0,8571.42857142857,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,8,86000.0,3200.0,10750.0,0
+Hyundai Venue,Hyundai,Used,Automatic,Hatchback,Petrol,Colombo,2,3347.0,1000.0,1673.5,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Ampara,7,37150.0,800.0,5307.142857142857,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Kalutara,5,16800.0,1000.0,3360.0,0
+Honda Fit Shuttle,Honda,Used,Automatic,,Petrol,Kalutara,9,82000.0,1330.0,9111.111111111111,0
+Honda S660,Honda,Used,Automatic,Coupe/Sports,Petrol,Colombo,4,25000.0,650.0,6250.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,90000.0,850.0,9000.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Polonnaruwa,7,38000.0,650.0,5428.571428571428,0
+Peugeot 508,Peugeot,Used,Automatic,Saloon,Petrol,Colombo,8,68000.0,1600.0,8500.0,0
+Toyota Passo,Toyota,Used,Automatic,,Petrol,Colombo,11,88000.0,1000.0,8000.0,0
+Toyota Avanza,Toyota,Used,Manual,Hatchback,Petrol,Colombo,14,132870.0,1299.0,9490.714285714286,0
+Perodua Viva Elite,Perodua,New,Automatic,Hatchback,Petrol,Colombo,11,72000.0,1000.0,6545.454545454545,0
+Suzuki Wagon R FX,Suzuki,New,Automatic,Hatchback,Petrol,Colombo,4,0.0,660.0,0.0,0
+Lexus HS250H,Lexus,Used,Automatic,Saloon,Hybrid,Ratnapura,10,80000.0,2350.0,8000.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Ampara,35,304812.0,1300.0,8708.914285714285,0
+BMW 218i,BMW,Used,Automatic,,Petrol,Kegalle,4,24000.0,1500.0,6000.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,5,69000.0,1500.0,13800.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,14,110000.0,1300.0,7857.142857142857,0
+Toyota Corolla,Toyota,Used,Manual,Hatchback,Petrol,Badulla,30,196000.0,1296.0,6533.333333333333,0
+Mini Cooper,Mini,Used,Tiptronic,Hatchback,Petrol,Colombo,5,67854.0,1200.0,13570.8,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Puttalam,7,199000.0,0.0,28428.571428571428,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,59000.0,650.0,14750.0,0
+Morris Mini,Morris,Used,Manual,Hatchback,Petrol,Matara,62,150000.0,1000.0,2419.3548387096776,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,12,104200.0,1500.0,8683.333333333334,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,1,6000.0,1330.0,6000.0,0
+Audi A3,Audi,Used,Automatic,Saloon,Petrol,Colombo,3,26000.0,1000.0,8666.666666666666,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,5,58263.0,650.0,11652.6,0
+Honda Vezel,Honda,Used,Automatic,Station wagon,Petrol,Colombo,7,90200.0,1490.0,12885.714285714286,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Kurunegala,18,71000.0,1300.0,3944.4444444444443,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Monaragala,35,294000.0,1450.0,8400.0,0
+Mercedes Benz GLE 300D,Mercedes Benz,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,12000.0,2200.0,4000.0,0
+Toyota Starlet,Toyota,Used,Manual,Hatchback,Diesel,Gampaha,33,175000.0,1500.0,5303.030303030303,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,103069.0,800.0,10306.9,0
+Toyota CHR,Toyota,Reconditioned,Automatic,SUV / 4x4,Petrol,Gampaha,4,10000.0,1190.0,2500.0,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Colombo,9,120000.0,624.0,13333.333333333334,0
+Toyota Fielder,Toyota,Reconditioned,Automatic,Station wagon,Hybrid,Colombo,7,23000.0,1500.0,3285.714285714286,0
+Suzuki Swift,Suzuki,Used,Tiptronic,Hatchback,Hybrid,Colombo,4,60000.0,1300.0,15000.0,0
+Porsche Cayenne,Porsche,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,10,81000.0,3000.0,8100.0,0
+Mazda CX-5,Mazda,Used,Automatic,,Petrol,Colombo,8,96000.0,1998.0,12000.0,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,25000.0,1000.0,5000.0,0
+Lexus HS250H,Lexus,Used,Automatic,Saloon,Hybrid,Kandy,11,102000.0,2000.0,9272.727272727272,0
+Honda Grace,Honda,Used,Automatic,,Petrol,Colombo,4,31000.0,1500.0,7750.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Ratnapura,23,167038.0,1500.0,7262.521739130435,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,25000.0,3000.0,4166.666666666667,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,6,51000.0,1800.0,8500.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,9,73000.0,1400.0,8111.111111111111,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,6,75000.0,660.0,12500.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,7,79000.0,1500.0,11285.714285714286,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,15,39241.0,800.0,2616.0666666666666,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,,Petrol,Colombo,4,70000.0,650.0,17500.0,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Kurunegala,8,96000.0,1500.0,12000.0,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,23,230001.0,1500.0,10000.04347826087,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,10,101000.0,2500.0,10100.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,3,18000.0,1000.0,6000.0,0
+Toyota Harrier,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,14,157000.0,2400.0,11214.285714285714,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,7,77000.0,800.0,11000.0,0
+Tata Xenon,Tata,Used,Manual,,Petrol,Gampaha,5,43000.0,2950.0,8600.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,24,137771.0,1500.0,5740.458333333333,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,39874.0,650.0,9968.5,0
+Perodua Axia,Perodua,Used,Automatic,Saloon,Petrol,Gampaha,6,103000.0,1000.0,17166.666666666668,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,13,130000.0,1590.0,10000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,53200.0,1000.0,10640.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,82000.0,3200.0,10250.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,5,63500.0,1500.0,12700.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,100000.0,3200.0,12500.0,0
+Peugeot 405,Peugeot,Used,Manual,Saloon,Petrol,Kurunegala,29,50000.0,2000.0,1724.1379310344828,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,3,15000.0,1500.0,5000.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,7,80000.0,1500.0,11428.57142857143,0
+Mahindra Other Model,Mahindra,Used,Manual,Station wagon,Diesel,Colombo,7,183000.0,2500.0,26142.85714285714,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,8329.0,1000.0,2082.25,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Kurunegala,37,200000.0,1500.0,5405.405405405405,0
+Daihatsu Charmant,Daihatsu,Used,Manual,Saloon,Petrol,Gampaha,40,60000.0,1200.0,1500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,9,127000.0,1000.0,14111.111111111111,0
+Volkswagen Beetle,Volkswagen,Used,Manual,Hatchback,Petrol,Puttalam,45,50000.0,1300.0,1111.111111111111,0
+Land Rover Range Rover Sport,Land Rover,Used,Automatic,,Diesel,Colombo,3,7000.0,2000.0,2333.3333333333335,0
+Audi A3,Audi,Used,Automatic,Saloon,Petrol,Colombo,6,30035.0,1390.0,5005.833333333333,0
+Mercedes Benz ML270,Mercedes Benz,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,17,100000.0,2800.0,5882.35294117647,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Hybrid,Kandy,11,177000.0,1800.0,16090.90909090909,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,2,10600.0,1300.0,5300.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,5,23000.0,650.0,4600.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Diesel,Puttalam,24,177000.0,2000.0,7375.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,41,145000.0,1400.0,3536.5853658536585,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Kurunegala,38,100000.0,1300.0,2631.5789473684213,0
+Hyundai Santa Fe,Hyundai,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,8,131000.0,2200.0,16375.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,9,86000.0,1000.0,9555.555555555555,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Hambantota,5,51000.0,1500.0,10200.0,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Colombo,14,160000.0,2430.0,11428.57142857143,0
+Micro Rexton,Micro,Used,Automatic,SUV / 4x4,Diesel,Colombo,7,80030.0,2000.0,11432.857142857143,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,9,195000.0,2700.0,21666.666666666668,0
+Nissan Bluebird,Nissan,Used,Automatic,Saloon,Petrol,Kalutara,31,153689.0,1800.0,4957.709677419355,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,20000.0,800.0,3333.3333333333335,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kurunegala,48,20000.0,1300.0,416.6666666666667,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,36128.0,800.0,7225.6,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,9,79000.0,1500.0,8777.777777777777,0
+Renault Other Model,Renault,Used,Automatic,SUV / 4x4,Petrol,Gampaha,2,6300.0,1000.0,3150.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Kegalle,5,59000.0,990.0,11800.0,0
+Nissan Sunny,Nissan,Used,Manual,,Petrol,Kurunegala,39,250000.0,1500.0,6410.25641025641,0
+Zotye Z100,Zotye,New,Manual,,Petrol,Colombo,1,0.0,1000.0,0.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Saloon,Hybrid,Colombo,4,62000.0,660.0,15500.0,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,35000.0,1000.0,11666.666666666666,0
+Other brand Other model,Other brand,Used,Manual,Saloon,Petrol,Gampaha,29,113376.0,1200.0,3909.5172413793102,0
+Kia Picanto,Kia,Used,Automatic,,Petrol,Kegalle,10,86000.0,998.0,8600.0,0
+Toyota Sienta,Toyota,Used,Automatic,Station wagon,Hybrid,Colombo,5,59000.0,1490.0,11800.0,0
+Toyota Allion,Toyota,Used,Automatic,,Petrol,Gampaha,8,124000.0,1500.0,15500.0,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,4,63700.0,799.0,15925.0,0
+BMW 520d,BMW,Used,Tiptronic,Saloon,Diesel,Colombo,8,58000.0,2000.0,7250.0,0
+Isuzu Gemini,Isuzu,Used,Manual,Saloon,Diesel,Gampaha,31,100000.0,1200.0,3225.8064516129034,0
+Daihatsu F50,Daihatsu,Used,Manual,SUV / 4x4,Diesel,Colombo,21,120000.0,2600.0,5714.285714285715,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,5,50000.0,1500.0,10000.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,23,285000.0,1500.0,12391.304347826086,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,9,195000.0,1490.0,21666.666666666668,0
+Toyota Corolla,Toyota,Used,Automatic,Station wagon,Petrol,Puttalam,15,180000.0,1500.0,12000.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Puttalam,17,131250.0,650.0,7720.588235294118,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matale,20,120000.0,1500.0,6000.0,0
+Daihatsu Copen,Daihatsu,Used,Automatic,Convertible,Petrol,Colombo,5,9567.0,650.0,1913.4,0
+Volvo Other Model,Volvo,Used,Manual,Saloon,Petrol,Hambantota,37,120000.0,1400.0,3243.2432432432433,0
+Toyota RAV4,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,25,198000.0,1900.0,7920.0,0
+BMW 318i,BMW,Used,Automatic,Saloon,Petrol,Colombo,4,28000.0,1490.0,7000.0,0
+Toyota Prius,Toyota,Reconditioned,Automatic,Saloon,Petrol,Colombo,9,21000.0,1800.0,2333.3333333333335,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,47864.0,650.0,7977.333333333333,0
+BMW 740d,BMW,New,Automatic,Saloon,Diesel,Colombo,3,0.0,2000.0,0.0,0
+Mitsubishi Eclipse Cross,Mitsubishi,Used,Tiptronic,MPV,Petrol,Colombo,1,11000.0,1500.0,11000.0,0
+Daihatsu Terios,Daihatsu,Used,Automatic,SUV / 4x4,Petrol,Gampaha,19,100000.0,1300.0,5263.1578947368425,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,4,66000.0,1000.0,16500.0,0
+BMW 320d,BMW,Used,Automatic,Saloon,Diesel,Colombo,8,105000.0,2000.0,13125.0,0
+Honda Fit,Honda,Used,Tiptronic,Hatchback,Hybrid,Kalutara,8,105000.0,1500.0,13125.0,0
+Toyota Tank,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,2017.0,1000.0,504.25,0
+Toyota Yaris,Toyota,Used,Automatic,Saloon,Petrol,Colombo,11,97000.0,1300.0,8818.181818181818,0
+Toyota Aqua,Toyota,Used,Automatic,,Hybrid,Colombo,9,120000.0,1490.0,13333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,8,,800.0,,0
+Toyota Land Cruiser Prado,Toyota,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,7,98500.0,3000.0,14071.42857142857,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Kandy,44,28552.0,1200.0,648.9090909090909,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kurunegala,38,445240.0,1500.0,11716.842105263158,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,36254.0,1000.0,9063.5,0
+Micro Geely,Micro,Used,Manual,,Petrol,Colombo,7,118000.0,1500.0,16857.14285714286,0
+Mitsubishi Pajero,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Matale,22,220629.0,1800.0,10028.59090909091,0
+Honda Fit,Honda,Used,Automatic,Saloon,Hybrid,Colombo,6,51000.0,1500.0,8500.0,0
+Land Rover Range Rover Sport,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,10,70000.0,5000.0,7000.0,0
+Toyota Yaris,Toyota,New,Automatic,Saloon,Petrol,Colombo,11,97000.0,1300.0,8818.181818181818,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,52000.0,1000.0,8666.666666666666,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,2,39000.0,1500.0,19500.0,0
+Audi Q5,Audi,Used,Automatic,SUV / 4x4,Petrol,Colombo,9,56000.0,2000.0,6222.222222222223,0
+Honda Vezel,Honda,Used,Tiptronic,SUV / 4x4,Hybrid,Colombo,4,43000.0,1500.0,10750.0,0
+Kia Picanto,Kia,Used,Automatic,,Petrol,Colombo,4,28794.0,1000.0,7198.5,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,2,9000.0,1000.0,4500.0,0
+DFSK Glory,DFSK,Used,Manual,MPV,Diesel,Kandy,5,102000.0,1240.0,20400.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,5,109500.0,1490.0,21900.0,0
+Peugeot Other Model,Peugeot,Used,Manual,Saloon,Petrol,Gampaha,46,50000.0,1600.0,1086.9565217391305,0
+Mazda Carol,Mazda,Used,Automatic,Hatchback,Petrol,Colombo,5,46856.0,650.0,9371.2,0
+Daihatsu Boon,Daihatsu,Used,Automatic,,Petrol,Colombo,4,34000.0,990.0,8500.0,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Gampaha,4,49000.0,800.0,12250.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,9,79000.0,1300.0,8777.777777777777,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,9,124000.0,2500.0,13777.777777777777,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,48000.0,1500.0,12000.0,0
+Kia Sorento,Kia,Used,Tiptronic,Station wagon,Diesel,Colombo,7,93000.0,2200.0,13285.714285714286,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Gampaha,23,197000.0,2500.0,8565.217391304348,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Colombo,7,10730.0,2500.0,1532.857142857143,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,4,45000.0,1500.0,11250.0,0
+Nissan Other Model,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,21,129000.0,2000.0,6142.857142857143,0
+BMW 520d,BMW,Used,Tiptronic,Saloon,Diesel,Colombo,14,127700.0,2000.0,9121.42857142857,0
+Nissan Juke,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,7,70997.0,1490.0,10142.42857142857,0
+Suzuki Alto,Suzuki,Used,Tiptronic,Hatchback,Petrol,Colombo,5,141734.0,998.0,28346.8,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Anuradhapura,4,9030.0,1000.0,2257.5,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,80000.0,660.0,13333.333333333334,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kalutara,39,90000.0,1500.0,2307.6923076923076,0
+Toyota CHR,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,24000.0,1200.0,8000.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,20,145000.0,1500.0,7250.0,0
+Mitsubishi Pajero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Matara,26,120000.0,2800.0,4615.384615384615,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,22,132000.0,3200.0,6000.0,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,1,15000.0,2700.0,15000.0,0
+Nissan Dutsun,Nissan,Used,Manual,SUV / 4x4,Diesel,Anuradhapura,30,311000.0,2650.0,10366.666666666666,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Colombo,20,156000.0,2000.0,7800.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Kandy,3,74000.0,660.0,24666.666666666668,0
+Volkswagen UP,Volkswagen,Used,Automatic,Hatchback,Petrol,Kurunegala,6,70400.0,1000.0,11733.333333333334,0
+Honda N-Box,Honda,Used,Tiptronic,Hatchback,Petrol,Colombo,5,48000.0,660.0,9600.0,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,3,40000.0,1200.0,13333.333333333334,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,8,88000.0,1500.0,11000.0,0
+Tesla Model S,Tesla,Used,Automatic,Saloon,Electric,Colombo,5,13000.0,0.0,2600.0,0
+Hyundai Accent,Hyundai,Used,Manual,Saloon,Petrol,Colombo,21,182074.0,1500.0,8670.190476190477,0
+Nissan Leaf,Nissan,Used,Automatic,Saloon,Electric,Colombo,8,40000.0,0.0,5000.0,0
+Kia Sorento,Kia,Reconditioned,Automatic,SUV / 4x4,Diesel,Colombo,11,123000.0,2000.0,11181.818181818182,0
+Ford Laser,Ford,Used,Manual,Saloon,Petrol,Kandy,28,155000.0,1300.0,5535.714285714285,0
+Mercedes Benz S350,Mercedes Benz,Used,Automatic,Saloon,Petrol,Kandy,16,90000.0,3700.0,5625.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,44000.0,1000.0,7333.333333333333,0
+Toyota Avanza,Toyota,Used,Manual,Station wagon,Petrol,Colombo,14,171000.0,1300.0,12214.285714285714,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,13,137000.0,1300.0,10538.461538461539,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,74263.0,650.0,14852.6,0
+Micro Panda,Micro,Used,Automatic,Hatchback,Petrol,Colombo,14,61000.0,1000.0,4357.142857142857,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,4,74563.0,650.0,18640.75,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,2,27690.0,1300.0,13845.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,6,72200.0,2800.0,12033.333333333334,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,10,146000.0,4500.0,14600.0,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,8,85000.0,1800.0,10625.0,0
+Toyota Roomy,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,39874.0,1000.0,9968.5,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Colombo,7,86000.0,0.0,12285.714285714286,0
+Mercedes Benz E300,Mercedes Benz,Used,Tiptronic,Saloon,Diesel,Colombo,7,57000.0,2000.0,8142.857142857143,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,5,71500.0,1490.0,14300.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Petrol,Colombo,16,61500.0,2700.0,3843.75,0
+Daihatsu Wake,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,5,34194.0,650.0,6838.8,0
+Mitsubishi Libero,Mitsubishi,Used,Automatic,Hatchback,Petrol,Anuradhapura,21,120000.0,1300.0,5714.285714285715,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,3,58000.0,800.0,19333.333333333332,0
+Land Rover Discovery Sport,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,5,55000.0,2200.0,11000.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,4,66000.0,2700.0,16500.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,49000.0,650.0,12250.0,0
+Mercedes Benz C180,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,6,60000.0,1600.0,10000.0,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,14,85000.0,1500.0,6071.428571428572,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Ratnapura,13,128000.0,1500.0,9846.153846153846,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,47523.0,796.0,7920.5,0
+Toyota CHR,Toyota,New,Manual,SUV / 4x4,Petrol,Colombo,2,0.0,1200.0,0.0,0
+Toyota Ceres,Toyota,Used,Automatic,Saloon,Petrol,Kegalle,26,120000.0,1500.0,4615.384615384615,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Gampaha,35,200000.0,1300.0,5714.285714285715,0
+BMW 520d,BMW,Used,Automatic,,Diesel,Colombo,6,70000.0,2000.0,11666.666666666666,0
+Toyota Allion,Toyota,Used,Automatic,,Petrol,Colombo,9,125000.0,1500.0,13888.888888888889,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Hybrid,Colombo,4,44000.0,660.0,11000.0,0
+Audi A3,Audi,Reconditioned,Automatic,Coupe/Sports,Petrol,Gampaha,5,20800.0,1400.0,4160.0,1
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Petrol,Gampaha,7,170000.0,1496.0,24285.714285714286,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,18,180000.0,1500.0,10000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,13,132000.0,1500.0,10153.846153846154,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Matale,20,166000.0,1000.0,8300.0,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,40875.0,1000.0,13625.0,0
+Perodua Bezza,Perodua,Used,Automatic,,Petrol,Colombo,3,57000.0,1000.0,19000.0,0
+Suzuki Alto,Suzuki,Used,Tiptronic,Hatchback,Petrol,Colombo,5,55000.0,660.0,11000.0,0
+Toyota Passo,Toyota,Used,Automatic,,Petrol,Colombo,5,33650.0,1000.0,6730.0,0
+Honda Civic,Honda,Used,Automatic,,Petrol,Colombo,14,100000.0,1800.0,7142.857142857143,0
+Suzuki Spacia,Suzuki,Used,Automatic,,Petrol,Colombo,3,58450.0,650.0,19483.333333333332,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Monaragala,25,86000.0,1500.0,3440.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Colombo,38,90000.0,1400.0,2368.4210526315787,0
+Mitsubishi Colt,Mitsubishi,Used,Manual,Coupe/Sports,Petrol,Gampaha,38,42000.0,1300.0,1105.2631578947369,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Kegalle,26,143000.0,1000.0,5500.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,,Diesel,Colombo,8,70000.0,3200.0,8750.0,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Gampaha,32,270000.0,1500.0,8437.5,0
+Rover Other Model,Rover,Used,Automatic,Hatchback,Petrol,Colombo,58,70000.0,1500.0,1206.896551724138,0
+MG ZS,MG,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,27000.0,1000.0,13500.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Kegalle,13,90000.0,1300.0,6923.076923076923,0
+Mitsubishi Pajero,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Colombo,31,271495.0,2500.0,8757.90322580645,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,4,38000.0,1500.0,9500.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Hybrid,Colombo,3,43000.0,650.0,14333.333333333334,0
+Micro Kyron,Micro,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,12,120000.0,2000.0,10000.0,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,36000.0,1000.0,6000.0,0
+Mitsubishi L200,Mitsubishi,Used,Manual,,Diesel,Colombo,24,290000.0,2500.0,12083.333333333334,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Diesel,Gampaha,8,76000.0,1500.0,9500.0,0
+Toyota Raize,Toyota,New,Automatic,SUV / 4x4,Petrol,Colombo,2,0.0,1000.0,0.0,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,19000.0,1000.0,4750.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,32000.0,650.0,8000.0,0
+Mitsubishi Other Model,Mitsubishi,Used,Manual,Saloon,Petrol,Colombo,11,112000.0,1500.0,10181.818181818182,0
+Micro Panda Cross,Micro,Used,Manual,,Petrol,Colombo,9,93000.0,1300.0,10333.333333333334,0
+Toyota Corolla,Toyota,Used,Manual,Hatchback,Petrol,Kandy,34,324000.0,1400.0,9529.411764705883,0
+Suzuki Celerio,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,42000.0,1000.0,7000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,35900.0,1000.0,5983.333333333333,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Gampaha,20,204000.0,1990.0,10200.0,0
+Toyota Roomy,Toyota,Used,Tiptronic,Hatchback,Petrol,Colombo,3,12500.0,1000.0,4166.666666666667,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,7,19500.0,1495.0,2785.714285714286,0
+Mercedes Benz E300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Gampaha,7,36000.0,2150.0,5142.857142857143,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Petrol,Colombo,41,76882.0,1000.0,1875.1707317073171,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,20,147813.0,2000.0,7390.65,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Colombo,3,69500.0,2755.0,23166.666666666668,0
+Proton Wira,Proton,Used,Manual,Saloon,Petrol,Colombo,18,150658.0,1299.0,8369.888888888889,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,60974.0,650.0,10162.333333333334,0
+Ford Laser,Ford,Used,Manual,Saloon,Petrol,Kandy,23,200000.0,1600.0,8695.652173913044,0
+Mini Cooper,Mini,Used,Tiptronic,Hatchback,Petrol,Colombo,4,31500.0,1200.0,7875.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,129000.0,1490.0,21500.0,0
+Perodua Viva Elite,Perodua,Used,Manual,Hatchback,Petrol,Colombo,10,56000.0,1000.0,5600.0,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,5,25069.0,800.0,5013.8,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Matale,39,15000.0,1500.0,384.61538461538464,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Badulla,36,180000.0,1300.0,5000.0,0
+Micro Panda Cross,Micro,Used,Manual,,Petrol,Colombo,8,100000.0,1300.0,12500.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Galle,7,68000.0,650.0,9714.285714285714,0
+Nissan Tiida,Nissan,Used,Automatic,Saloon,Petrol,Galle,13,83570.0,1500.0,6428.461538461538,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,7,100000.0,1500.0,14285.714285714286,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Gampaha,33,180000.0,1500.0,5454.545454545455,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Colombo,34,189560.0,1500.0,5575.294117647059,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,20000.0,1200.0,10000.0,0
+Chevrolet Aveo,Chevrolet,Used,Manual,Saloon,Petrol,Badulla,10,106000.0,1400.0,10600.0,0
+Audi A3,Audi,Used,Automatic,Saloon,Petrol,Colombo,1,24000.0,1000.0,24000.0,0
+Volkswagen Passat,Volkswagen,Used,Tiptronic,Saloon,Diesel,Gampaha,18,142000.0,1900.0,7888.888888888889,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Colombo,13,173000.0,2982.0,13307.692307692309,0
+Morris Minor,Morris,Used,Automatic,,Petrol,Colombo,50,94049.0,1098.0,1880.98,0
+BMW 320i,BMW,Used,Automatic,Saloon,Petrol,Colombo,14,120000.0,1600.0,8571.42857142857,0
+Honda Fit Shuttle,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,8,127000.0,1300.0,15875.0,0
+Honda Vezel,Honda,Used,Automatic,,Petrol,Colombo,8,90000.0,1498.0,11250.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Matara,4,56000.0,650.0,14000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,5,28000.0,1500.0,5600.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,7,78000.0,1500.0,11142.857142857143,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,49000.0,2000.0,6125.0,0
+Tata Indica,Tata,Used,Manual,Hatchback,Petrol,Monaragala,6,59000.0,1000.0,9833.333333333334,0
+Datsun Redi Go,Datsun,Used,Automatic,Hatchback,Petrol,Colombo,4,45000.0,800.0,11250.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Hambantota,37,115359.0,1270.0,3117.810810810811,0
+Jeep Cherokee,Jeep,Used,Automatic,Saloon,Petrol,Colombo,14,107000.0,3700.0,7642.857142857143,0
+Nissan Bluebird,Nissan,Used,Automatic,,Petrol,Colombo,11,160000.0,1500.0,14545.454545454546,0
+Toyota CHR,Toyota,Used,Automatic,Hatchback,Petrol,Galle,3,30000.0,1200.0,10000.0,0
+Mini Cooper,Mini,Used,Automatic,Hatchback,Petrol,Kurunegala,61,100000.0,1000.0,1639.344262295082,0
+Mercedes Benz ML270,Mercedes Benz,Used,Automatic,,Diesel,Gampaha,20,167000.0,2700.0,8350.0,0
+Hyundai Accent,Hyundai,Used,Manual,Saloon,Petrol,Colombo,19,290000.0,1500.0,15263.157894736842,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Ampara,13,162000.0,2500.0,12461.538461538461,0
+Kia Carens,Kia,Used,Automatic,SUV / 4x4,Petrol,Colombo,14,151000.0,2000.0,10785.714285714286,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,63000.0,800.0,6300.0,0
+Mitsubishi L200,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,15,105000.0,2500.0,7000.0,0
+Mazda Other Model,Mazda,Used,Manual,Hatchback,Petrol,Kegalle,26,200000.0,1500.0,7692.307692307692,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,19,115000.0,3200.0,6052.631578947368,0
+Honda Vezel,Honda,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,3,32000.0,1500.0,10666.666666666666,0
+Hyundai Matrix,Hyundai,Used,Automatic,Hatchback,Petrol,Gampaha,20,162000.0,1590.0,8100.0,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Kalutara,4,39800.0,1300.0,9950.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Colombo,6,80100.0,1500.0,13350.0,0
+Honda Vezel,Honda,Used,Automatic,,Hybrid,Kandy,3,35000.0,1500.0,11666.666666666666,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,Station wagon,Diesel,Gampaha,4,7112.0,4461.0,1778.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Diesel,Matale,25,253392.0,1970.0,10135.68,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Puttalam,19,150000.0,1500.0,7894.736842105263,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,37108.0,998.0,7421.6,0
+Mercedes Benz ML270,Mercedes Benz,Used,Manual,SUV / 4x4,Diesel,Colombo,21,200000.0,3000.0,9523.809523809523,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Galle,20,140000.0,1500.0,7000.0,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Matara,7,81500.0,0.0,11642.857142857143,0
+BMW ActiveHybrid 5,BMW,Used,Automatic,Saloon,Petrol,Colombo,8,49800.0,3000.0,6225.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Hambantota,8,77350.0,1300.0,9668.75,0
+Land Rover Discovery,Land Rover,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,5,15000.0,3000.0,3000.0,0
+Hyundai Matrix,Hyundai,Used,Manual,Hatchback,Petrol,Puttalam,20,167000.0,1600.0,8350.0,0
+BMW 740d,BMW,Used,Tiptronic,Saloon,Diesel,Colombo,2,18000.0,2250.0,9000.0,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Gampaha,23,180000.0,1500.0,7826.086956521739,0
+Tata GenX Nano,Tata,Used,Manual,Hatchback,Petrol,Kurunegala,7,65000.0,650.0,9285.714285714286,0
+Kia Sportage,Kia,Used,Manual,SUV / 4x4,Diesel,Colombo,21,258482.0,1993.0,12308.666666666666,0
+Volkswagen Passat,Volkswagen,Used,Tiptronic,Saloon,Petrol,Colombo,19,114000.0,1800.0,6000.0,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,7,80000.0,1000.0,11428.57142857143,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,13,105000.0,1300.0,8076.923076923077,0
+Mazda Demio,Mazda,Used,Manual,Hatchback,Petrol,Gampaha,20,85000.0,1330.0,4250.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,14,150000.0,1300.0,10714.285714285714,0
+Land Rover Discovery,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,110000.0,3000.0,18333.333333333332,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Ampara,20,116445.0,1500.0,5822.25,0
+Morris Minor,Morris,Used,Manual,Saloon,Petrol,Colombo,61,214500.0,1000.0,3516.3934426229507,0
+Toyota CHR,Toyota,Used,Automatic,Hatchback,Petrol,Kalutara,4,49000.0,1200.0,12250.0,0
+Mercedes Benz C200,Mercedes Benz,Used,Manual,Saloon,Petrol,Colombo,27,162000.0,1998.0,6000.0,0
+Mercedes Benz B250e,Mercedes Benz,Used,Automatic,SUV / 4x4,Electric,Colombo,6,35000.0,0.0,5833.333333333333,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,60000.0,650.0,15000.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Diesel,Kurunegala,40,300000.0,600.0,7500.0,0
+Toyota Allion,Toyota,Used,Automatic,,Petrol,Colombo,13,100000.0,1500.0,7692.307692307692,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Ratnapura,31,12345.0,1300.0,398.2258064516129,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Kalutara,6,57000.0,2700.0,9500.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,15,130000.0,1490.0,8666.666666666666,0
+BMW Mini Cooper,BMW,Reconditioned,Tiptronic,Hatchback,Petrol,Colombo,5,5000.0,1200.0,1000.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Hybrid,Kalutara,7,56000.0,650.0,8000.0,0
+Micro Panda,Micro,Used,Manual,,Petrol,Colombo,10,70000.0,1300.0,7000.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Saloon,Hybrid,Colombo,3,53000.0,650.0,17666.666666666668,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,38000.0,800.0,6333.333333333333,0
+Lexus NX300H,Lexus,Used,Automatic,Saloon,Petrol,Colombo,4,5200.0,2494.0,1300.0,0
+Nissan March,Nissan,Used,Manual,,Petrol,Gampaha,23,160000.0,1200.0,6956.521739130435,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,14,168000.0,2800.0,12000.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,6,62000.0,1500.0,10333.333333333334,0
+Mercedes Benz C220,Mercedes Benz,Used,Automatic,Saloon,Diesel,Colombo,8,65000.0,1500.0,8125.0,0
+Honda Accord,Honda,Used,Manual,Saloon,Petrol,Monaragala,26,230000.0,2000.0,8846.153846153846,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kurunegala,36,158000.0,1800.0,4388.888888888889,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,39854.0,650.0,13284.666666666666,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Gampaha,43,500000.0,1400.0,11627.906976744185,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,2,8000.0,1000.0,4000.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,27700.0,800.0,4616.666666666667,0
+DFSK Glory,DFSK,Used,Manual,Station wagon,Petrol,Colombo,5,24000.0,1500.0,4800.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,38000.0,2000.0,6333.333333333333,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Monaragala,37,300000.0,,8108.108108108108,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,7,53000.0,1600.0,7571.428571428572,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Badulla,41,65493.0,1200.0,1597.3902439024391,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kandy,40,70833.0,1200.0,1770.825,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Gampaha,1,9453.0,2755.0,9453.0,0
+Nissan Navara,Nissan,Used,Automatic,SUV / 4x4,Diesel,Colombo,13,69000.0,2500.0,5307.692307692308,0
+Toyota Camry,Toyota,Used,Automatic,Saloon,Petrol,Kalutara,6,128000.0,2500.0,21333.333333333332,0
+Nissan Bluebird,Nissan,Used,Automatic,Saloon,Petrol,Colombo,10,154500.0,1500.0,15450.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Galle,9,45000.0,1330.0,5000.0,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,85150.0,800.0,17030.0,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,14,160000.0,2400.0,11428.57142857143,0
+Toyota Harrier,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,6,56392.0,2000.0,9398.666666666666,0
+Tata Indica,Tata,Used,Manual,Hatchback,Petrol,Colombo,6,140000.0,1200.0,23333.333333333332,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,5,35000.0,650.0,7000.0,0
+Mitsubishi Other Model,Mitsubishi,Used,Manual,Saloon,Petrol,Colombo,39,327600.0,1400.0,8400.0,0
+Toyota Camry,Toyota,Used,Automatic,SUV / 4x4,Hybrid,Colombo,7,77146.0,2490.0,11020.857142857143,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,14,160000.0,1800.0,11428.57142857143,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,3,3700.0,1000.0,1233.3333333333333,0
+Mercedes Benz GLE 300D,Mercedes Benz,New,Tiptronic,SUV / 4x4,Diesel,Colombo,1,0.0,2000.0,0.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,6,78000.0,660.0,13000.0,0
+Chery QQ,Chery,Used,Manual,Hatchback,Petrol,Colombo,7,58264.0,800.0,8323.42857142857,0
+Mercedes Benz C180,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Gampaha,10,104000.0,1600.0,10400.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,16,78940.0,800.0,4933.75,0
+Austin Cambridge,Austin,Used,Manual,Saloon,Petrol,Colombo,62,80000.0,1500.0,1290.3225806451612,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,4,28000.0,2700.0,7000.0,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Colombo,38,300000.0,1400.0,7894.736842105263,0
+Toyota Carina,Toyota,Used,Automatic,,Diesel,Kurunegala,24,185000.0,1990.0,7708.333333333333,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Colombo,14,209872.0,2477.0,14990.857142857143,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Diesel,Ratnapura,33,131000.0,1700.0,3969.6969696969695,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,7150.0,1000.0,2383.3333333333335,0
+Volkswagen Passat,Volkswagen,Used,Tiptronic,Saloon,Petrol,Badulla,19,182000.0,1799.0,9578.947368421053,0
+Mazda Demio,Mazda,Used,Automatic,Hatchback,Petrol,Kandy,13,125000.0,1340.0,9615.384615384615,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,150769.0,1598.0,11597.615384615385,0
+Toyota Allion,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,13,97000.0,1500.0,7461.538461538462,0
+Honda Civic,Honda,Used,Automatic,,Petrol,Colombo,3,40000.0,1000.0,13333.333333333334,0
+Chevrolet Aveo,Chevrolet,Used,Manual,Hatchback,Petrol,Colombo,13,63905.0,1200.0,4915.7692307692305,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,18,170000.0,1500.0,9444.444444444445,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Colombo,3,31000.0,0.0,10333.333333333334,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,39,9200.0,1400.0,235.89743589743588,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,7,104632.0,1500.0,14947.42857142857,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,5,66400.0,800.0,13280.0,0
+Honda CRV,Honda,Used,Automatic,Station wagon,Petrol,Colombo,3,8000.0,1500.0,2666.6666666666665,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Colombo,21,164795.0,1290.0,7847.380952380952,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,24,180000.0,2800.0,7500.0,0
+Toyota CHR,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Jaffna,3,48000.0,1200.0,16000.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Diesel,Colombo,21,212000.0,2000.0,10095.238095238095,0
+Land Rover Range Rover Evoque,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Kandy,8,132000.0,2000.0,16500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,33000.0,800.0,6600.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,25000.0,650.0,6250.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,11,93000.0,1500.0,8454.545454545454,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,11,124000.0,1000.0,11272.727272727272,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,20,175000.0,1998.0,8750.0,0
+Toyota Aqua,Toyota,Used,Automatic,,Petrol,Colombo,9,82567.0,1500.0,9174.111111111111,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Diesel,Colombo,24,194000.0,2000.0,8083.333333333333,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Kandy,4,75000.0,650.0,18750.0,0
+Hyundai Eon,Hyundai,Used,Manual,,Petrol,Colombo,6,88000.0,800.0,14666.666666666666,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,18,64277.0,800.0,3570.9444444444443,0
+Audi A6,Audi,Used,Automatic,Saloon,Diesel,Colombo,18,147000.0,2000.0,8166.666666666667,0
+BMW 316i,BMW,Reconditioned,Tiptronic,Saloon,Petrol,Colombo,6,9600.0,1598.0,1600.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,8,81323.0,1500.0,10165.375,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,7,62000.0,800.0,8857.142857142857,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Kurunegala,38,17000.0,1300.0,447.36842105263156,0
+Honda Civic,Honda,Used,Automatic,,Petrol,Colombo,9,100000.0,1600.0,11111.111111111111,0
+Toyota IST,Toyota,Used,Automatic,Hatchback,Petrol,Puttalam,18,120000.0,1300.0,6666.666666666667,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matara,29,12000.0,1500.0,413.7931034482759,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,Hatchback,Petrol,Hambantota,7,138000.0,1990.0,19714.285714285714,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,3,8900.0,1000.0,2966.6666666666665,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,6,67000.0,3000.0,11166.666666666666,0
+Nissan Qashqai,Nissan,Used,Tiptronic,Hatchback,Petrol,Ratnapura,3,30000.0,1200.0,10000.0,0
+Toyota Other Model,Toyota,Used,Manual,Saloon,Petrol,Polonnaruwa,28,300000.0,1500.0,10714.285714285714,0
+Honda Fit,Honda,Used,Tiptronic,Hatchback,Hybrid,Colombo,10,88700.0,1330.0,8870.0,0
+Toyota Corolla,Toyota,Used,Manual,Hatchback,Petrol,Gampaha,25,189000.0,1330.0,7560.0,0
+Land Rover Range Rover Evoque,Land Rover,Used,Tiptronic,,Petrol,Colombo,10,84000.0,2000.0,8400.0,0
+Mitsubishi Galant,Mitsubishi,Used,Manual,Saloon,Petrol,Ratnapura,39,268000.0,2000.0,6871.794871794872,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,6,40000.0,998.0,6666.666666666667,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,7,92000.0,1500.0,13142.857142857143,0
+Honda Vezel,Honda,Used,Automatic,,Petrol,Colombo,4,15000.0,1500.0,3750.0,0
+Toyota Axio,Toyota,Reconditioned,Automatic,Saloon,Petrol,Colombo,7,50000.0,1500.0,7142.857142857143,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Galle,10,88754.0,1500.0,8875.4,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,3,31000.0,1000.0,10333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,36,85000.0,1000.0,2361.1111111111113,0
+Land Rover Discovery,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,4,45100.0,2000.0,11275.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Colombo,20,165000.0,1600.0,8250.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,7,82000.0,1500.0,11714.285714285714,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,9,31000.0,1000.0,3444.4444444444443,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,1,7000.0,2800.0,7000.0,0
+BMW 430i,BMW,Used,Tiptronic,Convertible,Petrol,Gampaha,4,30000.0,2000.0,7500.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Matale,6,124000.0,1500.0,20666.666666666668,0
+Suzuki Spacia,Suzuki,Used,Automatic,MPV,Petrol,Colombo,5,70000.0,600.0,14000.0,0
+Daihatsu Move,Daihatsu,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,6,11700.0,650.0,1950.0,0
+DFSK Glory,DFSK,New,Automatic,,Petrol,Colombo,0,0.0,1498.0,0.0,0
+Subaru Impreza,Subaru,Used,Tiptronic,Saloon,Petrol,Colombo,12,135100.0,1500.0,11258.333333333334,0
+Mitsubishi L200,Mitsubishi,Used,Manual,MPV,Diesel,Hambantota,24,200000.0,2500.0,8333.333333333334,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,10,80000.0,650.0,8000.0,0
+Peugeot 406,Peugeot,Used,Manual,Saloon,Petrol,Colombo,20,150000.0,1800.0,7500.0,0
+Nissan Presea,Nissan,Used,Automatic,Saloon,Petrol,Colombo,22,122692.0,1490.0,5576.909090909091,0
+Mazda Flair,Mazda,Used,Automatic,Hatchback,Hybrid,Colombo,4,89081.0,650.0,22270.25,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Petrol,Hambantota,16,132000.0,2700.0,8250.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Matara,4,65000.0,1500.0,16250.0,0
+BMW 740Le,BMW,Used,Automatic,Saloon,Petrol,Colombo,3,30000.0,2000.0,10000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Hambantota,4,16000.0,1500.0,4000.0,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Kandy,32,350000.0,1500.0,10937.5,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,9,42000.0,800.0,4666.666666666667,0
+Nissan Pulsar,Nissan,Used,Manual,Saloon,Petrol,Gampaha,37,65000.0,1500.0,1756.7567567567567,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,8,105700.0,1490.0,13212.5,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kurunegala,38,96000.0,1350.0,2526.315789473684,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,19,209000.0,1000.0,11000.0,0
+Mitsubishi RVR,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Colombo,24,230000.0,2000.0,9583.333333333334,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,3,85000.0,2800.0,28333.333333333332,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Automatic,Coupe/Sports,Petrol,Colombo,1,8000.0,1300.0,8000.0,0
+Micro Panda Cross,Micro,Used,Manual,,Petrol,Kalutara,6,32600.0,1300.0,5433.333333333333,0
+Nissan Navara,Nissan,Used,Manual,SUV / 4x4,Diesel,Ratnapura,13,156000.0,2500.0,12000.0,0
+Mercedes Benz E350,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,4,20000.0,2000.0,5000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,12,91108.0,1790.0,7592.333333333333,0
+Land Rover Range Rover,Land Rover,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,3,10000.0,2000.0,3333.3333333333335,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,4,45000.0,650.0,11250.0,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,3,5700.0,1200.0,1900.0,0
+Micro Lifan,Micro,Used,Manual,Saloon,Petrol,Ratnapura,12,100000.0,1600.0,8333.333333333334,0
+BMW X2,BMW,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,10000.0,1500.0,5000.0,0
+Toyota CHR,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,30000.0,1200.0,10000.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Ratnapura,3,9600.0,660.0,3200.0,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,16,73000.0,800.0,4562.5,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,14,85000.0,1800.0,6071.428571428572,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,37,184000.0,1300.0,4972.972972972973,0
+BMW ActiveHybrid 7,BMW,Used,Automatic,Saloon,Petrol,Colombo,7,44000.0,3000.0,6285.714285714285,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Colombo,14,163000.0,3800.0,11642.857142857143,0
+Other brand Other model,Other brand,Used,Manual,SUV / 4x4,Diesel,Gampaha,54,100000.0,3000.0,1851.851851851852,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,13,120000.0,1500.0,9230.76923076923,0
+Perodua Viva Elite,Perodua,Used,Automatic,,Petrol,Colombo,8,83565.0,989.0,10445.625,0
+Honda Vezel,Honda,Used,Tiptronic,SUV / 4x4,Hybrid,Colombo,4,70000.0,1500.0,17500.0,0
+Toyota Camry,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,10,75000.0,2362.0,7500.0,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Colombo,34,252000.0,1300.0,7411.764705882353,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,13,10000.0,1000.0,769.2307692307693,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Colombo,9,119000.0,650.0,13222.222222222223,0
+Mitsubishi 4DR,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Kalutara,43,60000.0,2500.0,1395.3488372093022,0
+Perodua Axia,Perodua,Used,Automatic,Hatchback,Petrol,Gampaha,5,51000.0,1000.0,10200.0,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Hybrid,Colombo,6,99000.0,1990.0,16500.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,11,88000.0,1800.0,8000.0,0
+Mitsubishi 4DR,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Ratnapura,42,48000.0,2659.0,1142.857142857143,0
+Volkswagen Bora,Volkswagen,Used,Manual,Saloon,Petrol,Colombo,18,145638.0,1500.0,8091.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Colombo,42,320000.0,1400.0,7619.047619047619,0
+Chrysler Other Model,Chrysler,Used,Automatic,MPV,Petrol,Colombo,17,80000.0,3300.0,4705.882352941177,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kalutara,34,179791.0,1500.0,5287.970588235294,0
+Mercedes Benz S400,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,6,25000.0,3500.0,4166.666666666667,0
+Mitsubishi Delica,Mitsubishi,Used,Tiptronic,MPV,Diesel,Ampara,41,919233.0,1830.0,22420.317073170732,0
+Toyota Tercel,Toyota,Used,Manual,Hatchback,Diesel,Gampaha,32,120000.0,1987.0,3750.0,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Colombo,24,90624.0,990.0,3776.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,3,55000.0,660.0,18333.333333333332,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Gampaha,14,90000.0,2500.0,6428.571428571428,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matara,45,21100.0,1200.0,468.8888888888889,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,21,123407.0,990.0,5876.523809523809,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,3,28999.0,2800.0,9666.333333333334,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,10,35600.0,1300.0,3560.0,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,13,192000.0,2800.0,14769.23076923077,0
+Toyota IST,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,17,145975.0,1298.0,8586.764705882353,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Matara,37,250000.0,1500.0,6756.756756756757,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,12,213870.0,1800.0,17822.5,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Diesel,Galle,34,150000.0,900.0,4411.764705882353,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,7,114000.0,1500.0,16285.714285714286,0
+Toyota Starlet,Toyota,Used,Manual,Hatchback,Petrol,Gampaha,30,97856.0,1300.0,3261.866666666667,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Gampaha,38,120000.0,1500.0,3157.8947368421054,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,48000.0,650.0,12000.0,0
+Toyota Pixis,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,2500.0,650.0,833.3333333333334,0
+Zotye Nomad,Zotye,Used,Manual,,Petrol,Colombo,10,149105.0,1499.0,14910.5,0
+DFSK Glory,DFSK,New,Tiptronic,,Petrol,Colombo,0,0.0,1500.0,0.0,0
+Lexus CT-200H,Lexus,Used,Automatic,Hatchback,Hybrid,Kalutara,10,95000.0,1800.0,9500.0,0
+Nissan Patrol,Nissan,Used,Manual,Saloon,Petrol,Kandy,36,200000.0,1500.0,5555.555555555556,0
+Toyota Platz,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,21,110000.0,1000.0,5238.0952380952385,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,33311.0,1000.0,8327.75,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,10,90000.0,1400.0,9000.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Tiptronic,Hatchback,Hybrid,Jaffna,5,73000.0,650.0,14600.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,31300.0,660.0,7825.0,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,95000.0,800.0,9500.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Kalutara,11,92800.0,2700.0,8436.363636363636,0
+Nissan AD Wagon,Nissan,Used,Automatic,Station wagon,Petrol,Mullativu,24,172000.0,1290.0,7166.666666666667,0
+Kia Other Model,Kia,Used,Manual,Hatchback,Petrol,Gampaha,22,184800.0,1300.0,8400.0,0
+Morris Mini,Morris,Used,Automatic,Hatchback,Petrol,Colombo,60,96000.0,850.0,1600.0,0
+Mitsubishi Montero,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Gampaha,3,,2500.0,,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,75000.0,800.0,6818.181818181818,0
+Mazda Familia,Mazda,Used,Manual,Hatchback,Petrol,Matara,32,224000.0,1290.0,7000.0,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,13,137364.0,1000.0,10566.461538461539,0
+Kia soul,Kia,Used,Automatic,Hatchback,Petrol,Colombo,10,164078.0,1600.0,16407.8,0
+Hyundai Tucson,Hyundai,Used,Manual,SUV / 4x4,Petrol,Colombo,16,162000.0,2000.0,10125.0,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,21,100000.0,800.0,4761.9047619047615,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Gampaha,26,300000.0,3000.0,11538.461538461539,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Anuradhapura,22,170000.0,1500.0,7727.272727272727,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,24000.0,1200.0,12000.0,0
+Nissan X-Trail,Nissan,Used,Automatic,,Petrol,Colombo,5,60000.0,2000.0,12000.0,0
+Daihatsu Boon,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,4,57828.0,1000.0,14457.0,0
+Nissan Other Model,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,12,92000.0,1300.0,7666.666666666667,0
+Mazda 6,Mazda,Used,Tiptronic,Saloon,Petrol,Colombo,7,68000.0,2500.0,9714.285714285714,0
+Honda Vezel,Honda,Used,Automatic,Saloon,Petrol,Puttalam,19,174000.0,1500.0,9157.894736842105,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,9,111813.0,1490.0,12423.666666666666,0
+Suzuki Vitara,Suzuki,Used,Manual,SUV / 4x4,Petrol,Gampaha,27,247000.0,1600.0,9148.148148148148,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,5,32425.0,660.0,6485.0,0
+Mazda 3,Mazda,Reconditioned,Automatic,,Petrol,Colombo,7,112930.0,1600.0,16132.857142857143,0
+Mercedes Benz Other Model,Mercedes Benz,Used,Automatic,,Diesel,Colombo,5,29000.0,3000.0,5800.0,0
+Audi A3,Audi,Reconditioned,Automatic,Coupe/Sports,Petrol,Gampaha,5,20800.0,1400.0,4160.0,1
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Gampaha,10,135000.0,2500.0,13500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,14,102370.0,800.0,7312.142857142857,0
+BMW 318i,BMW,Used,Automatic,Saloon,Petrol,Colombo,4,51300.0,1500.0,12825.0,0
+Tata Xenon,Tata,Reconditioned,Manual,SUV / 4x4,Diesel,Anuradhapura,6,29000.0,3000.0,4833.333333333333,0
+Honda Insight,Honda,Used,Automatic,Station wagon,Hybrid,Ratnapura,12,121000.0,1330.0,10083.333333333334,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,27195.0,990.0,5439.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,47956.0,1490.0,11989.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,12,112000.0,1000.0,9333.333333333334,0
+Toyota Raize,Toyota,New,Automatic,SUV / 4x4,Petrol,Colombo,1,0.0,1000.0,0.0,0
+Hyundai Excel,Hyundai,Used,Manual,Saloon,Petrol,Colombo,28,135000.0,1500.0,4821.428571428572,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,6,80000.0,3200.0,13333.333333333334,0
+Toyota Corsa,Toyota,Used,Manual,Hatchback,Petrol,Colombo,32,120000.0,1300.0,3750.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,35622.0,650.0,8905.5,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,58000.0,2800.0,19333.333333333332,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,13,93345.0,1000.0,7180.384615384615,0
+Fiat Uno,Fiat,Used,Manual,Hatchback,Petrol,Kalutara,33,110000.0,1200.0,3333.3333333333335,0
+Zotye Z100,Zotye,Used,Manual,Hatchback,Petrol,Matara,3,24400.0,1000.0,8133.333333333333,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,4,75400.0,2750.0,18850.0,0
+Nissan Other Model,Nissan,Used,Manual,SUV / 4x4,Diesel,Matara,14,163000.0,3000.0,11642.857142857143,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,14,157000.0,1500.0,11214.285714285714,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Anuradhapura,38,215307.0,1800.0,5665.973684210527,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,5,51000.0,1000.0,10200.0,0
+Toyota Land Cruiser Prado,Toyota,Reconditioned,Automatic,SUV / 4x4,Petrol,Colombo,4,2060.0,2700.0,515.0,0
+Honda Fit Shuttle,Honda,Used,Automatic,Hatchback,Petrol,Colombo,9,119000.0,1300.0,13222.222222222223,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,Station wagon,Diesel,Kandy,7,86000.0,3000.0,12285.714285714286,0
+Honda CRV,Honda,Used,Automatic,Station wagon,Petrol,Colombo,3,71000.0,1500.0,23666.666666666668,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Ratnapura,16,120000.0,1500.0,7500.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Anuradhapura,4,57000.0,650.0,14250.0,0
+DFSK Glory,DFSK,New,Tiptronic,,Petrol,Colombo,0,0.0,1498.0,0.0,0
+Hyundai Sonata,Hyundai,Used,Automatic,Saloon,Petrol,Kegalle,21,194233.0,1997.0,9249.190476190477,0
+Peugeot 3008,Peugeot,Used,Automatic,Station wagon,Petrol,Colombo,4,25000.0,1200.0,6250.0,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Colombo,5,81431.0,1400.0,16286.2,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,7,70000.0,1500.0,10000.0,0
+Kia Picanto,Kia,Used,Tiptronic,Hatchback,Petrol,Colombo,5,72000.0,1000.0,14400.0,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,13,82000.0,4200.0,6307.692307692308,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Ampara,3,24000.0,1000.0,8000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,17,77000.0,1600.0,4529.411764705882,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,10,140000.0,1330.0,14000.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,3,77000.0,660.0,25666.666666666668,0
+Mitsubishi L200,Mitsubishi,Used,Manual,,Diesel,Galle,22,200000.0,3000.0,9090.90909090909,0
+Suzuki Swift,Suzuki,Used,Tiptronic,Hatchback,Hybrid,Colombo,4,41000.0,1300.0,10250.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,13,92000.0,650.0,7076.923076923077,0
+Mazda Familia,Mazda,Used,Manual,,Petrol,Colombo,31,130000.0,1300.0,4193.548387096775,0
+Nissan Dayz,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,6,43244.0,650.0,7207.333333333333,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,2,24900.0,1500.0,12450.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Automatic,Saloon,Petrol,Kalutara,21,177000.0,1500.0,8428.57142857143,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Diesel,Gampaha,25,175000.0,1974.0,7000.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Kandy,37,420000.0,1290.0,11351.351351351352,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,6,51000.0,1000.0,8500.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Saloon,Petrol,Ratnapura,25,71692.0,800.0,2867.68,0
+Mercedes Benz E220,Mercedes Benz,Used,Manual,Saloon,Petrol,Colombo,24,176320.0,2200.0,7346.666666666667,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Colombo,22,17000.0,1500.0,772.7272727272727,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,60000.0,800.0,10000.0,0
+Honda Freed,Honda,Used,Automatic,MPV,Hybrid,Colombo,8,85000.0,1500.0,10625.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,36216.0,650.0,9054.0,0
+Suzuki Hustler,Suzuki,Used,Automatic,,Hybrid,Colombo,6,52351.0,650.0,8725.166666666666,0
+Toyota RAV4,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Gampaha,9,104000.0,2400.0,11555.555555555555,0
+Land Rover Range Rover,Land Rover,Reconditioned,Automatic,SUV / 4x4,Petrol,Colombo,2,34000.0,2000.0,17000.0,1
+Suzuki A-Star,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,90000.0,1000.0,9000.0,0
+Toyota Axio,Toyota,Used,Automatic,Station wagon,Petrol,Colombo,13,152000.0,1500.0,11692.307692307691,0
+Honda N-WGN,Honda,Used,Automatic,Hatchback,Petrol,Colombo,5,19000.0,650.0,3800.0,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Monaragala,30,360000.0,1490.0,12000.0,0
+Toyota Esquire,Toyota,Used,Automatic,MPV,Hybrid,Kurunegala,6,92000.0,1800.0,15333.333333333334,0
+Land Rover Defender,Land Rover,Used,Manual,SUV / 4x4,Diesel,Colombo,12,46000.0,2500.0,3833.3333333333335,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Colombo,7,127583.0,1498.0,18226.14285714286,0
+Mitsubishi Pajero,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Kurunegala,32,200000.0,3200.0,6250.0,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Colombo,9,73000.0,1500.0,8111.111111111111,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Colombo,32,95000.0,1500.0,2968.75,0
+Toyota Vios,Toyota,Used,Automatic,,Petrol,Gampaha,14,71000.0,1500.0,5071.428571428572,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kalutara,7,117000.0,800.0,16714.285714285714,0
+Toyota Tank,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,40000.0,1000.0,10000.0,0
+Ford Ranger,Ford,Used,Manual,SUV / 4x4,Diesel,Colombo,6,85456.0,3200.0,14242.666666666666,0
+Mitsubishi Mirage,Mitsubishi,Used,Manual,,Petrol,Colombo,27,248000.0,1490.0,9185.185185185184,0
+Jeep Wrangler,Jeep,Used,Automatic,SUV / 4x4,Petrol,Colombo,8,61000.0,3600.0,7625.0,0
+Datsun Other Model,Datsun,Used,Manual,Saloon,Petrol,Ratnapura,47,66250.0,1300.0,1409.5744680851064,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kalutara,6,42641.0,800.0,7106.833333333333,0
+Kia Carens,Kia,Used,Manual,Station wagon,Petrol,Colombo,18,88000.0,2200.0,4888.888888888889,0
+Isuzu Gemini,Isuzu,Used,Manual,Saloon,Petrol,Jaffna,33,34000.0,1500.0,1030.3030303030303,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Petrol,Gampaha,15,138000.0,2600.0,9200.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Puttalam,9,147000.0,1400.0,16333.333333333334,0
+Suzuki A-Star,Suzuki,Used,Automatic,Saloon,Petrol,Kalutara,9,60000.0,1000.0,6666.666666666667,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,10,78000.0,800.0,7800.0,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,2,4000.0,650.0,2000.0,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,8,110286.0,1800.0,13785.75,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,23,39882.0,800.0,1734.0,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,14,139000.0,3000.0,9928.57142857143,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,21244.0,1000.0,5311.0,0
+Toyota Corolla,Toyota,Used,Manual,Hatchback,Petrol,Gampaha,37,318667.0,1500.0,8612.621621621622,0
+Peugeot 5008,Peugeot,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,3800.0,1200.0,1900.0,0
+Zotye Nomad,Zotye,Used,Manual,Hatchback,Petrol,Gampaha,14,190000.0,1300.0,13571.42857142857,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,11,89900.0,1500.0,8172.727272727273,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,5,32400.0,1000.0,6480.0,0
+Other brand Other model,Other brand,Used,Manual,,Petrol,Kandy,3,12500.0,216.0,4166.666666666667,0
+Toyota Land Cruiser Sahara,Toyota,New,Tiptronic,MPV,Diesel,Colombo,5,0.0,4600.0,0.0,0
+Toyota Yaris,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,135000.0,1300.0,10384.615384615385,0
+Mahindra Bolero,Mahindra,Used,Manual,SUV / 4x4,Diesel,Kurunegala,3,45000.0,2550.0,15000.0,0
+Suzuki Hustler,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,52300.0,660.0,13075.0,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Ratnapura,20,145000.0,1490.0,7250.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Ratnapura,35,100000.0,1290.0,2857.1428571428573,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,7,118000.0,1500.0,16857.14285714286,0
+Honda Vezel,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,7,96000.0,1500.0,13714.285714285714,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,146080.0,796.0,14608.0,0
+Toyota Aqua,Toyota,Used,Automatic,,Hybrid,Colombo,6,62000.0,1500.0,10333.333333333334,0
+Toyota Corolla,Toyota,Used,Automatic,,Petrol,Kalutara,13,105000.0,1600.0,8076.923076923077,0
+Mercedes Benz C180,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,5,16000.0,1600.0,3200.0,0
+Honda Grace,Honda,Used,Automatic,Saloon,Petrol,Colombo,4,95000.0,1500.0,23750.0,0
+Honda Fit,Honda,Used,Automatic,Saloon,Hybrid,Colombo,10,97000.0,1330.0,9700.0,0
+Daihatsu Mira,Daihatsu,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,77775.0,650.0,19443.75,0
+Honda Insight,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,12,82128.0,1500.0,6844.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,7,107000.0,1800.0,15285.714285714286,0
+Toyota RAV4,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,13,125000.0,2390.0,9615.384615384615,0
+Chevrolet Cruze,Chevrolet,Used,Automatic,Hatchback,Petrol,Colombo,18,125000.0,1300.0,6944.444444444444,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,54000.0,800.0,9000.0,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,4,61110.0,998.0,15277.5,0
+Suzuki Wagon R,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,10,72000.0,1000.0,7200.0,0
+Toyota Vitz,Toyota,Used,Tiptronic,Hatchback,Petrol,Colombo,5,60000.0,1000.0,12000.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Anuradhapura,45,180000.0,1300.0,4000.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,11,214000.0,1600.0,19454.545454545456,0
+Toyota IST,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,18,123000.0,1300.0,6833.333333333333,0
+Toyota Avanza,Toyota,Used,Manual,SUV / 4x4,Petrol,Kurunegala,14,160000.0,1300.0,11428.57142857143,0
+Audi Q7,Audi,Used,Tiptronic,Station wagon,Petrol,Colombo,4,35000.0,2000.0,8750.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Kurunegala,28,185000.0,1330.0,6607.142857142857,0
+BMW ActiveHybrid 7,BMW,Used,Tiptronic,Saloon,Hybrid,Colombo,7,20000.0,3000.0,2857.1428571428573,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,6,120000.0,1500.0,20000.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,45000.0,650.0,11250.0,0
+Toyota Hilux,Toyota,Used,Automatic,,Diesel,Colombo,3,15416.0,2800.0,5138.666666666667,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,14,108000.0,3000.0,7714.285714285715,0
+Mercedes Benz C200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,2,20000.0,1500.0,10000.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Colombo,42,99000.0,1400.0,2357.1428571428573,0
+Mercedes Benz E220,Mercedes Benz,Used,Automatic,Saloon,Diesel,Colombo,15,112000.0,2200.0,7466.666666666667,0
+Toyota Tank,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,40875.0,1000.0,8175.0,0
+Nissan Dayz,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,4,43000.0,650.0,10750.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,4,70000.0,650.0,17500.0,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Kalutara,11,91000.0,3000.0,8272.727272727272,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,18,93153.0,800.0,5175.166666666667,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Galle,10,80000.0,1500.0,8000.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Ratnapura,48,200000.0,1200.0,4166.666666666667,0
+Mitsubishi Other Model,Mitsubishi,Used,Tiptronic,Saloon,Petrol,Matara,19,55000.0,3500.0,2894.7368421052633,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Ampara,11,107000.0,799.0,9727.272727272728,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,7,72000.0,1500.0,10285.714285714286,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kandy,40,500000.0,1400.0,12500.0,0
+Tata Indica,Tata,Used,Manual,Hatchback,Petrol,Ampara,15,72000.0,1400.0,4800.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,8,160000.0,1500.0,20000.0,0
+BMW X5,BMW,Used,Automatic,SUV / 4x4,Petrol,Colombo,4,30000.0,2000.0,7500.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Kalutara,36,130000.0,1500.0,3611.1111111111113,0
+Toyota Harrier,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,21,173704.0,2100.0,8271.619047619048,0
+BMW M6,BMW,Used,Tiptronic,Saloon,Petrol,Colombo,7,14000.0,4400.0,2000.0,0
+Toyota Camry,Toyota,Used,Automatic,Saloon,Petrol,Colombo,14,148000.0,2400.0,10571.42857142857,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Monaragala,4,14800.0,1490.0,3700.0,0
+BMW 523i,BMW,Used,Automatic,Saloon,Petrol,Colombo,10,38000.0,2500.0,3800.0,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,35000.0,1000.0,7000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Colombo,7,120000.0,1500.0,17142.85714285714,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Gampaha,47,150000.0,1200.0,3191.4893617021276,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Petrol,Gampaha,6,63500.0,1500.0,10583.333333333334,0
+BMW X5 eDrive,BMW,Used,Automatic,SUV / 4x4,Hybrid,Colombo,4,30000.0,2000.0,7500.0,0
+Mercedes Benz C350,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,5,60000.0,1300.0,12000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Kalutara,14,110000.0,1000.0,7857.142857142857,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,4,38600.0,800.0,9650.0,0
+Suzuki Liana,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,17,123703.0,1328.0,7276.64705882353,0
+Suzuki Spacia,Suzuki,New,Automatic,MPV,Hybrid,Colombo,5,80000.0,650.0,16000.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,6,132000.0,1500.0,22000.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Colombo,10,156000.0,1800.0,15600.0,0
+Suzuki Escudo,Suzuki,Used,Automatic,SUV / 4x4,Petrol,Colombo,29,185000.0,1600.0,6379.310344827586,0
+Toyota Land Cruiser Prado,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,6,64000.0,2800.0,10666.666666666666,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Kegalle,36,150000.0,1495.0,4166.666666666667,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,43000.0,660.0,10750.0,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Ratnapura,9,80000.0,624.0,8888.888888888889,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Anuradhapura,15,150000.0,1300.0,10000.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Other fuel type,Matara,3,68000.0,650.0,22666.666666666668,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Matara,5,42000.0,1300.0,8400.0,0
+Toyota Premio,Toyota,Used,Automatic,,Petrol,Colombo,8,106700.0,1500.0,13337.5,0
+Toyota Tank,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,13000.0,1000.0,4333.333333333333,0
+Suzuki Alto,Suzuki,Used,Automatic,,Petrol,Colombo,18,152846.0,796.0,8491.444444444445,0
+Austin Mini Cooper,Austin,Used,Automatic,Hatchback,Petrol,Colombo,61,585683.0,1275.0,9601.360655737704,0
+Mitsubishi Montero,Mitsubishi,Reconditioned,Automatic,SUV / 4x4,Petrol,Gampaha,19,232000.0,3500.0,12210.526315789473,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,7,36000.0,2800.0,5142.857142857143,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Colombo,10,130000.0,624.0,13000.0,0
+Suzuki Estilo,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,10,110000.0,1000.0,11000.0,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,15,89000.0,800.0,5933.333333333333,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,3,35000.0,650.0,11666.666666666666,0
+Ford Other Model,Ford,Used,Manual,Saloon,Diesel,Kandy,42,50000.0,1830.0,1190.4761904761904,0
+Suzuki A-Star,Suzuki,Used,Manual,,Petrol,Colombo,9,58000.0,1000.0,6444.444444444444,0
+Mazda Other Model,Mazda,Used,Manual,Hatchback,Petrol,Kalutara,31,127000.0,1320.0,4096.774193548387,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,6,79450.0,1500.0,13241.666666666666,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,27900.0,660.0,9300.0,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,3,6200.0,1000.0,2066.6666666666665,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Anuradhapura,9,109000.0,0.0,12111.111111111111,0
+Toyota Avanza,Toyota,Used,Manual,MPV,Petrol,Colombo,9,135000.0,1300.0,15000.0,0
+Toyota Prius,Toyota,Used,Automatic,,Hybrid,Colombo,8,118731.0,1500.0,14841.375,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,3,34501.0,800.0,11500.333333333334,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,15,85000.0,800.0,5666.666666666667,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Colombo,7,85000.0,1490.0,12142.857142857143,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,38,40000.0,1400.0,1052.6315789473683,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,19,167532.0,1500.0,8817.473684210527,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,6,102000.0,2900.0,17000.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,66000.0,1300.0,16500.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kegalle,39,85000.0,1400.0,2179.4871794871797,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kegalle,36,3000.0,1400.0,83.33333333333333,0
+Micro Panda,Micro,Used,Manual,SUV / 4x4,Petrol,Jaffna,6,30000.0,1000.0,5000.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,18,144357.0,1320.0,8019.833333333333,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,69915.0,800.0,11652.5,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Matara,8,70000.0,1500.0,8750.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,47800.0,1000.0,7966.666666666667,0
+Daihatsu Boon,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,4,35095.0,1000.0,8773.75,0
+Chery QQ,Chery,Used,Manual,Hatchback,Petrol,Anuradhapura,10,53413.0,812.0,5341.3,0
+Mahindra Bolero,Mahindra,Used,Manual,SUV / 4x4,Diesel,Matale,6,65000.0,800.0,10833.333333333334,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Kegalle,19,158000.0,2600.0,8315.78947368421,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,120000.0,798.0,10909.09090909091,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,47000.0,660.0,11750.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kegalle,29,190000.0,1500.0,6551.724137931034,0
+Hyundai Santa Fe,Hyundai,Used,Automatic,SUV / 4x4,Diesel,Colombo,9,108000.0,2200.0,12000.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Kegalle,16,169000.0,1500.0,10562.5,0
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Petrol,Kandy,8,60000.0,1500.0,7500.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Kurunegala,19,139000.0,1000.0,7315.789473684211,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Colombo,14,173273.0,1500.0,12376.642857142857,0
+Hyundai Sonata,Hyundai,Used,Automatic,Saloon,Petrol,Colombo,16,140000.0,2000.0,8750.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,7,86000.0,1500.0,12285.714285714286,0
+Micro Panda,Micro,Used,Automatic,Hatchback,Petrol,Gampaha,4,18500.0,1000.0,4625.0,0
+Mercedes Benz C220,Mercedes Benz,Used,Automatic,Saloon,Diesel,Gampaha,8,58000.0,2200.0,7250.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,40000.0,1000.0,8000.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,7,110600.0,1500.0,15800.0,0
+Mazda RX,Mazda,Used,Manual,Coupe/Sports,Petrol,Colombo,10,56000.0,1300.0,5600.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Colombo,16,206000.0,1300.0,12875.0,0
+Audi A6,Audi,Used,Tiptronic,Saloon,Diesel,Kegalle,8,100000.0,1998.0,12500.0,0
+Honda Odyssey,Honda,Used,Automatic,Station wagon,Petrol,Colombo,22,122000.0,2250.0,5545.454545454545,0
+Mercedes Benz C200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,2,3700.0,1500.0,1850.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,13,125000.0,1500.0,9615.384615384615,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,15,118000.0,800.0,7866.666666666667,0
+Nissan Bluebird,Nissan,Used,Manual,,Petrol,Puttalam,36,86000.0,1600.0,2388.8888888888887,0
+Hyundai Accent,Hyundai,Used,Automatic,Saloon,Petrol,Matale,21,174800.0,1500.0,8323.809523809523,0
+Peugeot 206,Peugeot,Used,Manual,Hatchback,Petrol,Colombo,17,105718.0,1350.0,6218.705882352941,0
+Renault KWID,Renault,Used,Manual,,Petrol,Kalutara,5,40000.0,800.0,8000.0,0
+Toyota Harrier,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,4,59000.0,2000.0,14750.0,0
+Ford Ranger,Ford,Used,Automatic,SUV / 4x4,Diesel,Ratnapura,10,123000.0,2950.0,12300.0,0
+Proton Persona,Proton,Used,Automatic,Saloon,Petrol,Colombo,18,20000.0,1500.0,1111.111111111111,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,9,97400.0,1500.0,10822.222222222223,0
+Jaguar X-Type,Jaguar,Used,Automatic,,Petrol,Colombo,18,98000.0,2000.0,5444.444444444444,0
+MG 6,MG,Used,Manual,Saloon,Petrol,Kandy,7,84500.0,1800.0,12071.42857142857,0
+Micro Rexton,Micro,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,7,168000.0,2000.0,24000.0,0
+Audi A4,Audi,Used,Tiptronic,Saloon,Petrol,Kalutara,10,79000.0,1800.0,7900.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,2,32000.0,1500.0,16000.0,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,4,11600.0,650.0,2900.0,0
+Nissan Pulsar,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,24,187000.0,1500.0,7791.666666666667,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,4,45000.0,800.0,11250.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kegalle,43,325000.0,1400.0,7558.139534883721,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Badulla,37,230000.0,1300.0,6216.216216216216,0
+Toyota Premio,Toyota,Used,Manual,Saloon,Diesel,Gampaha,22,150000.0,2000.0,6818.181818181818,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,3,6500.0,1000.0,2166.6666666666665,0
+Land Rover Defender,Land Rover,Used,Manual,SUV / 4x4,Diesel,Colombo,7,58171.0,2198.0,8310.142857142857,0
+Daihatsu Wake,Daihatsu,Used,Automatic,Saloon,Petrol,Ampara,6,95000.0,660.0,15833.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,4,46000.0,800.0,11500.0,0
+Micro Korondo,Micro,Used,Automatic,SUV / 4x4,Diesel,Colombo,7,47956.0,1998.0,6850.857142857143,0
+Toyota Land Cruiser Prado,Toyota,New,Tiptronic,MPV,Petrol,Colombo,1,0.0,2700.0,0.0,0
+Tata Indigo,Tata,Used,Manual,Saloon,Petrol,Colombo,11,105000.0,1193.0,9545.454545454546,0
+Honda Fit Shuttle,Honda,Used,Automatic,Saloon,Petrol,Gampaha,7,129000.0,1300.0,18428.571428571428,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,8,88000.0,1500.0,11000.0,0
+Hyundai Santa Fe,Hyundai,Used,Automatic,,Diesel,Colombo,14,96452.0,2183.0,6889.428571428572,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,41000.0,1490.0,10250.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Batticaloa,30,55000.0,1290.0,1833.3333333333333,0
+Datsun Redi Go,Datsun,Used,Manual,Hatchback,Petrol,Colombo,5,73000.0,800.0,14600.0,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Gampaha,7,65000.0,1500.0,9285.714285714286,0
+Nissan Dayz,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,4,9100.0,650.0,2275.0,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Automatic,Coupe/Sports,Petrol,Colombo,1,19000.0,1332.0,19000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,7,78000.0,1500.0,11142.857142857143,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,6,82000.0,1500.0,13666.666666666666,0
+Toyota Prius,Toyota,Used,Automatic,,Petrol,Gampaha,8,118000.0,1800.0,14750.0,0
+Daihatsu Terios,Daihatsu,Used,Automatic,SUV / 4x4,Petrol,Colombo,9,81000.0,1500.0,9000.0,0
+Peugeot 406,Peugeot,Used,Manual,Hatchback,Petrol,Colombo,19,156520.0,2000.0,8237.894736842105,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,20,168994.0,1000.0,8449.7,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,,Petrol,Colombo,2,7000.0,1000.0,3500.0,0
+Suzuki Alto,Suzuki,Used,Automatic,,Petrol,Colombo,7,65000.0,650.0,9285.714285714286,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,15,88380.0,800.0,5892.0,0
+Morris Mini,Morris,Used,Manual,Coupe/Sports,Petrol,Colombo,57,100000.0,1300.0,1754.3859649122808,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Kurunegala,12,130000.0,1000.0,10833.333333333334,0
+Honda Fit,Honda,Used,Tiptronic,Hatchback,Hybrid,Kegalle,6,57000.0,1500.0,9500.0,0
+Lexus HS250H,Lexus,Used,Automatic,Saloon,Hybrid,Colombo,8,114860.0,2500.0,14357.5,0
+Honda Fit She's,Honda,Used,Automatic,Hatchback,Hybrid,Kegalle,9,119000.0,1330.0,13222.222222222223,0
+Mitsubishi 4DR,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Nuwara Eliya,49,46000.0,2200.0,938.7755102040817,0
+Ford Laser,Ford,Used,Manual,Saloon,Petrol,Colombo,30,300000.0,1300.0,10000.0,0
+Micro Emgrand,Micro,Used,Automatic,Saloon,Petrol,Colombo,6,69124.0,1798.0,11520.666666666666,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Kurunegala,9,121000.0,1500.0,13444.444444444445,0
+Kia Picanto,Kia,Used,Automatic,Hatchback,Petrol,Colombo,4,37994.0,1000.0,9498.5,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,68000.0,1000.0,11333.333333333334,0
+Mercedes Benz C200,Mercedes Benz,Used,Tiptronic,,Petrol,Colombo,2,9500.0,1490.0,4750.0,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,12412.0,660.0,3103.0,0
+Nissan Navara,Nissan,Used,Manual,SUV / 4x4,Diesel,Gampaha,14,225000.0,2500.0,16071.42857142857,0
+Land Rover Discovery,Land Rover,Used,Tiptronic,SUV / 4x4,Diesel,Gampaha,9,124000.0,3000.0,13777.777777777777,0
+DFSK Glory,DFSK,Used,Manual,SUV / 4x4,Petrol,Anuradhapura,4,87000.0,1500.0,21750.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,9,96000.0,1496.0,10666.666666666666,0
+MG ZS,MG,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,30000.0,1000.0,10000.0,0
+Micro Tivoli,Micro,Used,Tiptronic,SUV / 4x4,Petrol,Kalutara,6,82000.0,1500.0,13666.666666666666,0
+Mercedes Benz E200,Mercedes Benz,Used,Manual,Saloon,Petrol,Gampaha,22,150000.0,2000.0,6818.181818181818,0
+Ssang Yong Rexton,Ssang Yong,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,66000.0,2200.0,22000.0,0
+Mazda CX-5,Mazda,Used,Tiptronic,,Petrol,Colombo,7,144000.0,1997.0,20571.428571428572,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,50000.0,1500.0,16666.666666666668,0
+Mini Cooper,Mini,Used,Manual,Hatchback,Petrol,Kurunegala,52,95800.0,1000.0,1842.3076923076924,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Gampaha,20,150000.0,1000.0,7500.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Station wagon,Hybrid,Colombo,6,68000.0,1000.0,11333.333333333334,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Petrol,Colombo,33,70689.0,1000.0,2142.090909090909,0
+Nissan Sylphy,Nissan,Used,Automatic,Saloon,Petrol,Kegalle,20,171000.0,1500.0,8550.0,0
+DFSK Glory,DFSK,Used,Manual,,Diesel,Colombo,6,45401.0,1250.0,7566.833333333333,0
+Toyota Yaris,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,15,102267.0,1300.0,6817.8,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,14,126000.0,2700.0,9000.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Gampaha,45,88806.0,1200.0,1973.4666666666667,0
+Nissan Sunny,Nissan,Used,Automatic,,Petrol,Colombo,26,172885.0,1497.0,6649.423076923077,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,38000.0,1500.0,12666.666666666666,0
+Micro Panda,Micro,Used,Automatic,Hatchback,Petrol,Colombo,3,19000.0,1000.0,6333.333333333333,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,,Diesel,Colombo,8,77000.0,2000.0,9625.0,0
+Toyota Land Cruiser Sahara,Toyota,Reconditioned,Tiptronic,SUV / 4x4,Diesel,Colombo,5,20000.0,4600.0,4000.0,0
+Mercedes Benz E200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,15,162000.0,1790.0,10800.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,5,91927.0,1500.0,18385.4,0
+Nissan Patrol,Nissan,Used,Automatic,SUV / 4x4,Diesel,Colombo,8,120000.0,3000.0,15000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Gampaha,6,105000.0,1500.0,17500.0,0
+Hyundai Tucson,Hyundai,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,7000.0,2000.0,2333.3333333333335,0
+Nissan Cefiro,Nissan,Used,Automatic,Saloon,Petrol,Colombo,21,59000.0,1999.0,2809.5238095238096,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Kurunegala,8,115000.0,1790.0,14375.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Hybrid,Gampaha,8,60940.0,1990.0,7617.5,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,,Petrol,Colombo,3,43150.0,650.0,14383.333333333334,0
+Nissan Dayz,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,4,51716.0,650.0,12929.0,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Gampaha,7,88000.0,1300.0,12571.42857142857,0
+Hyundai Santa Fe,Hyundai,Used,Automatic,,Diesel,Colombo,9,99000.0,2200.0,11000.0,0
+Mitsubishi L200,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Colombo,14,75000.0,2500.0,5357.142857142857,0
+Toyota Corolla,Toyota,Used,Automatic,Hatchback,Petrol,Puttalam,18,150000.0,1500.0,8333.333333333334,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,62381.0,800.0,10396.833333333334,0
+Nissan X-Trail,Nissan,Used,Automatic,Hatchback,Petrol,Galle,5,49500.0,2000.0,9900.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,3,43000.0,650.0,14333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,65000.0,800.0,10833.333333333334,0
+Hyundai Tucson,Hyundai,Used,Automatic,,Diesel,Colombo,9,100000.0,1995.0,11111.111111111111,0
+Chevrolet Cruze,Chevrolet,Used,Automatic,Hatchback,Petrol,Colombo,19,170000.0,1300.0,8947.368421052632,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Hybrid,Galle,12,112000.0,1800.0,9333.333333333334,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,3,65000.0,650.0,21666.666666666668,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,3,26500.0,1000.0,8833.333333333334,0
+Perodua Viva Elite,Perodua,Used,Manual,Hatchback,Petrol,Colombo,10,100000.0,1000.0,10000.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,48100.0,660.0,12025.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Matara,17,103500.0,1800.0,6088.235294117647,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Galle,38,222000.0,1300.0,5842.105263157895,0
+Volkswagen Passat,Volkswagen,Used,Tiptronic,Saloon,Petrol,Colombo,19,143000.0,1790.0,7526.315789473684,0
+BMW X1,BMW,Used,Tiptronic,SUV / 4x4,Petrol,Gampaha,3,21000.0,1500.0,7000.0,0
+Hyundai Santa Fe,Hyundai,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,13,210000.0,2200.0,16153.846153846154,0
+Nissan e-NV200,Nissan,Used,Automatic,,Petrol,Colombo,10,100000.0,1590.0,10000.0,0
+Suzuki A-Star,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,8,100000.0,1000.0,12500.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Kandy,3,13000.0,658.0,4333.333333333333,0
+Honda Jade,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,6,72000.0,1500.0,12000.0,0
+Toyota Prius,Toyota,Used,Automatic,,Petrol,Colombo,9,113000.0,1800.0,12555.555555555555,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Polonnaruwa,10,39800.0,1300.0,3980.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,6,56000.0,650.0,9333.333333333334,0
+Suzuki Spacia,Suzuki,Used,Automatic,Station wagon,Hybrid,Anuradhapura,4,71100.0,660.0,17775.0,0
+Toyota Other Model,Toyota,Used,Manual,SUV / 4x4,Diesel,Gampaha,22,188000.0,2700.0,8545.454545454546,0
+Toyota Runx,Toyota,Used,Automatic,Hatchback,Petrol,Kandy,20,140000.0,1790.0,7000.0,0
+DFSK Glory,DFSK,Used,Tiptronic,SUV / 4x4,Petrol,Kurunegala,2,15000.0,1500.0,7500.0,0
+Toyota Aqua,Toyota,Used,Automatic,,Petrol,Colombo,8,75000.0,1500.0,9375.0,0
+Chevrolet Cruze,Chevrolet,Used,Automatic,Hatchback,Petrol,Kegalle,18,140000.0,1320.0,7777.777777777777,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,4,86000.0,4700.0,21500.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Gampaha,14,115000.0,3000.0,8214.285714285714,0
+Toyota Roomy,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,38542.0,1000.0,9635.5,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Batticaloa,36,250000.0,1500.0,6944.444444444444,0
+Toyota Roomy,Toyota,Used,Automatic,,Petrol,Colombo,4,30144.0,1000.0,7536.0,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,29000.0,1000.0,9666.666666666666,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Kandy,7,130000.0,650.0,18571.428571428572,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Kalutara,6,130000.0,3000.0,21666.666666666668,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,9,78465.0,1000.0,8718.333333333334,0
+Toyota Harrier,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,37000.0,2500.0,12333.333333333334,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,57768.0,800.0,11553.6,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Colombo,42,75617.0,1400.0,1800.404761904762,0
+Mitsubishi L200,Mitsubishi,New,Automatic,,Diesel,Colombo,1,0.0,2422.0,0.0,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Gampaha,17,110000.0,660.0,6470.588235294118,0
+Audi Q2,Audi,Used,Automatic,Hatchback,Petrol,Colombo,4,59000.0,1500.0,14750.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,7,78476.0,1500.0,11210.857142857143,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,57165.0,996.0,9527.5,0
+Toyota Tank,Toyota,Used,Automatic,MPV,Petrol,Colombo,4,32754.0,1000.0,8188.5,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,45000.0,1000.0,15000.0,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Gampaha,8,72291.0,0.0,9036.375,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Matara,8,22500.0,1000.0,2812.5,0
+Land Rover Defender,Land Rover,Used,Manual,Hatchback,Diesel,Puttalam,13,173000.0,2400.0,13307.692307692309,0
+Audi Q7,Audi,Reconditioned,Tiptronic,SUV / 4x4,Petrol,Colombo,10,60000.0,2996.0,6000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Gampaha,44,165140.0,1200.0,3753.181818181818,0
+Honda Civic,Honda,Used,Automatic,Saloon,Petrol,Colombo,4,30000.0,1500.0,7500.0,0
+Micro MX 7,Micro,Used,Manual,,Petrol,Colombo,11,115000.0,1500.0,10454.545454545454,0
+Nissan AD Wagon,Nissan,Used,Automatic,Station wagon,Petrol,Kurunegala,21,135232.0,1500.0,6439.619047619048,0
+Toyota CHR,Toyota,Used,Automatic,Station wagon,Petrol,Colombo,3,40000.0,1200.0,13333.333333333334,0
+Daihatsu Mira,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,4,40120.0,650.0,10030.0,0
+BMW X3,BMW,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,6,60000.0,2000.0,10000.0,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Puttalam,14,166000.0,3000.0,11857.142857142857,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,13,134000.0,1000.0,10307.692307692309,0
+Land Rover Defender,Land Rover,Used,Automatic,SUV / 4x4,Diesel,Colombo,42,88000.0,2500.0,2095.2380952380954,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Gampaha,38,49300.0,1410.0,1297.3684210526317,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Diesel,Gampaha,9,85000.0,2800.0,9444.444444444445,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,14,110000.0,3000.0,7857.142857142857,0
+Datsun Other Model,Datsun,Used,Manual,Saloon,Petrol,Gampaha,46,65000.0,1300.0,1413.0434782608695,0
+MG ZS,MG,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,3,33000.0,1000.0,11000.0,0
+Mitsubishi Eclipse Cross,Mitsubishi,New,Automatic,SUV / 4x4,Petrol,Kurunegala,1,0.0,1500.0,0.0,0
+Hyundai Matrix,Hyundai,Used,Automatic,Station wagon,Petrol,Gampaha,17,125000.0,1600.0,7352.941176470588,0
+Suzuki Alto,Suzuki,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,5,11200.0,650.0,2240.0,1
+Toyota Passo,Toyota,Used,Automatic,,Petrol,Colombo,14,102016.0,1000.0,7286.857142857143,0
+Hyundai Santa Fe,Hyundai,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,10,110000.0,2400.0,11000.0,0
+Mercedes Benz X250d,Mercedes Benz,Used,Automatic,SUV / 4x4,Diesel,Colombo,3,12000.0,2400.0,4000.0,0
+Mercedes Benz C300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Colombo,6,47000.0,2200.0,7833.333333333333,0
+Micro Geely,Micro,Used,Manual,Saloon,Petrol,Ratnapura,8,108000.0,1500.0,13500.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Galle,38,12054.0,1400.0,317.2105263157895,0
+Micro Trend,Micro,Used,Automatic,Hatchback,Petrol,Kandy,12,52224.0,1075.0,4352.0,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,7,41287.0,650.0,5898.142857142857,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Kandy,8,38000.0,1500.0,4750.0,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,31,250000.0,2770.0,8064.5161290322585,0
+BMW i3,BMW,Used,Automatic,Hatchback,Electric,Colombo,8,19500.0,0.0,2437.5,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Colombo,6,27000.0,800.0,4500.0,0
+Nissan Presea,Nissan,Used,Manual,Saloon,Petrol,Colombo,30,154400.0,1490.0,5146.666666666667,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kurunegala,6,66000.0,800.0,11000.0,0
+Toyota Passo,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,20000.0,1000.0,5000.0,0
+Toyota Prius,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,8,71400.0,1800.0,8925.0,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,45000.0,1000.0,11250.0,0
+Toyota Corolla,Toyota,Used,Automatic,Hatchback,Diesel,Colombo,25,140000.0,1480.0,5600.0,0
+Nissan Bluebird,Nissan,Used,Manual,,Diesel,Colombo,32,200070.0,2000.0,6252.1875,0
+Mazda Familia,Mazda,Used,Manual,Saloon,Petrol,Hambantota,37,76252.0,1300.0,2060.864864864865,0
+Land Rover Range Rover,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,9000.0,2000.0,3000.0,0
+Kia Picanto,Kia,Used,Automatic,Hatchback,Petrol,Colombo,5,112000.0,1000.0,22400.0,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Kandy,9,112000.0,625.0,12444.444444444445,0
+Toyota Wigo,Toyota,Used,Automatic,Hatchback,Petrol,Kalutara,3,24000.0,1000.0,8000.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,,Petrol,Kurunegala,6,78000.0,650.0,13000.0,0
+Mazda RX,Mazda,Used,Tiptronic,Coupe/Sports,Petrol,Colombo,16,89000.0,1300.0,5562.5,0
+Toyota Passo,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,4,20000.0,1000.0,5000.0,0
+Honda N-Box,Honda,Reconditioned,Automatic,Hatchback,Petrol,Colombo,6,30000.0,660.0,5000.0,1
+Toyota Corsa,Toyota,Used,Manual,Hatchback,Petrol,Gampaha,22,110000.0,1300.0,5000.0,0
+Honda Civic,Honda,Used,Manual,Station wagon,Petrol,Ratnapura,32,268000.0,1340.0,8375.0,0
+BMW Mini Cooper,BMW,Used,Automatic,Hatchback,Petrol,Galle,3,43000.0,1200.0,14333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Kalutara,11,75000.0,800.0,6818.181818181818,0
+Toyota CHR,Toyota,Reconditioned,Automatic,Station wagon,Petrol,Colombo,4,6000.0,1200.0,1500.0,0
+Toyota Soluna,Toyota,Used,Manual,Saloon,Petrol,Gampaha,20,120000.0,1500.0,6000.0,0
+Land Rover Defender,Land Rover,Used,Manual,SUV / 4x4,Diesel,Colombo,29,75000.0,2500.0,2586.206896551724,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Puttalam,32,225000.0,2770.0,7031.25,0
+Mercedes Benz E300,Mercedes Benz,Used,Automatic,Saloon,Diesel,Gampaha,6,52000.0,2150.0,8666.666666666666,0
+Toyota CHR,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,7000.0,1200.0,1750.0,0
+Datsun Other Model,Datsun,Used,Manual,Saloon,Petrol,Gampaha,48,150000.0,1420.0,3125.0,0
+Morris Minor,Morris,Used,Manual,Saloon,Petrol,Jaffna,65,10000.0,1000.0,153.84615384615384,0
+Other brand Other model,Other brand,Used,Manual,,Petrol,Batticaloa,2,24000.0,600.0,12000.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,3,35000.0,4200.0,11666.666666666666,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Hambantota,35,115359.0,1270.0,3295.9714285714285,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,35986.0,660.0,8996.5,0
+Audi Q5,Audi,Reconditioned,Automatic,SUV / 4x4,Petrol,Colombo,6,61000.0,2000.0,10166.666666666666,0
+Maruti Suzuki 800,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Monaragala,10,48500.0,800.0,4850.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,21,152000.0,1600.0,7238.0952380952385,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Kandy,36,703200.0,1400.0,19533.333333333332,0
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Hybrid,Kalutara,6,107222.0,1490.0,17870.333333333332,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Hybrid,Gampaha,3,45204.0,660.0,15068.0,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Diesel,Matale,27,210000.0,2000.0,7777.777777777777,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,2,24000.0,1500.0,12000.0,0
+Hyundai Elantra,Hyundai,Used,Automatic,Saloon,Petrol,Anuradhapura,21,125542.0,1590.0,5978.190476190476,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,22,180000.0,1290.0,8181.818181818182,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Anuradhapura,5,45343.0,800.0,9068.6,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Polonnaruwa,14,132800.0,1000.0,9485.714285714286,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,48928.0,1200.0,4448.0,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,,Petrol,Colombo,10,159000.0,3000.0,15900.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,18,112248.0,1000.0,6236.0,0
+Daihatsu Mira,Daihatsu,Reconditioned,Automatic,Hatchback,Petrol,Gampaha,4,11851.0,650.0,2962.75,0
+Suzuki Hustler,Suzuki,Used,Automatic,Hatchback,Petrol,Kurunegala,6,47000.0,660.0,7833.333333333333,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,14,102000.0,1000.0,7285.714285714285,0
+BMW 316i,BMW,Used,Automatic,Saloon,Petrol,Gampaha,7,73000.0,1600.0,10428.57142857143,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,5,87000.0,1790.0,17400.0,0
+Audi A3,Audi,Used,Automatic,,Petrol,Colombo,3,24500.0,1000.0,8166.666666666667,0
+Toyota Land Cruiser Sahara,Toyota,Used,Tiptronic,SUV / 4x4,Diesel,Colombo,10,160000.0,4500.0,16000.0,0
+Toyota Camry,Toyota,Used,Automatic,Saloon,Petrol,Gampaha,25,194000.0,1860.0,7760.0,0
+Micro Panda Cross,Micro,Used,Manual,Hatchback,Petrol,Colombo,7,30394.0,1300.0,4342.0,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Colombo,32,175000.0,1500.0,5468.75,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Galle,9,132000.0,1490.0,14666.666666666666,0
+Mahindra Other Model,Mahindra,Used,Manual,SUV / 4x4,Diesel,Matale,6,200000.0,2500.0,33333.333333333336,0
+Mazda Familia,Mazda,Used,Manual,Station wagon,Petrol,Gampaha,33,158770.0,1300.0,4811.212121212121,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Anuradhapura,21,120000.0,1500.0,5714.285714285715,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Puttalam,12,140000.0,3000.0,11666.666666666666,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,2,20000.0,990.0,10000.0,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Colombo,10,119000.0,1500.0,11900.0,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Puttalam,18,200000.0,1400.0,11111.111111111111,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Matara,19,245000.0,1500.0,12894.736842105263,0
+Toyota Land Cruiser Sahara,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,12,89000.0,4700.0,7416.666666666667,0
+Nissan Bluebird,Nissan,Used,Automatic,Saloon,Petrol,Colombo,11,131000.0,1500.0,11909.09090909091,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Kegalle,6,60000.0,650.0,10000.0,0
+Honda Civic,Honda,Used,Automatic,Hatchback,Petrol,Colombo,3,60000.0,1000.0,20000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,14,94000.0,1000.0,6714.285714285715,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Colombo,6,82000.0,1500.0,13666.666666666666,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Petrol,Colombo,14,105000.0,1000.0,7500.0,0
+Toyota Axio,Toyota,Used,Automatic,Station wagon,Hybrid,Colombo,8,90000.0,1500.0,11250.0,0
+Suzuki Spacia,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,65000.0,660.0,16250.0,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,,Diesel,Hambantota,7,200000.0,3200.0,28571.428571428572,0
+Micro Rexton,Micro,Used,Tiptronic,SUV / 4x4,Diesel,Kurunegala,12,200000.0,2696.0,16666.666666666668,0
+Daihatsu Copen,Daihatsu,Reconditioned,Automatic,,Petrol,Colombo,3,22000.0,650.0,7333.333333333333,0
+Audi Q7,Audi,Used,Automatic,SUV / 4x4,Petrol,Colombo,6,52000.0,3000.0,8666.666666666666,0
+Subaru XV,Subaru,Used,Tiptronic,SUV / 4x4,Hybrid,Colombo,7,85000.0,2000.0,12142.857142857143,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Petrol,Puttalam,22,151000.0,1500.0,6863.636363636364,0
+Tata Sumo,Tata,Used,Manual,SUV / 4x4,Diesel,Hambantota,16,66724.0,1200.0,4170.25,0
+Perodua Axia,Perodua,Used,Automatic,Hatchback,Petrol,Colombo,4,68100.0,1000.0,17025.0,0
+Land Rover Range Rover Velar,Land Rover,New,Automatic,SUV / 4x4,Petrol,Colombo,3,125.0,2000.0,41.666666666666664,0
+Audi Q3,Audi,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,37000.0,1400.0,12333.333333333334,0
+BMW 520d,BMW,Used,Tiptronic,Saloon,Diesel,Kalutara,9,225000.0,1995.0,25000.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Station wagon,Petrol,Kalutara,38,158678.0,1400.0,4175.736842105263,0
+Toyota Avanza,Toyota,Used,Manual,SUV / 4x4,Petrol,Colombo,10,160000.0,1300.0,16000.0,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Gampaha,23,251000.0,1490.0,10913.04347826087,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,59000.0,650.0,14750.0,0
+Toyota Vitz,Toyota,Used,Automatic,,Petrol,Colombo,4,18329.0,1000.0,4582.25,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Kurunegala,35,180000.0,1290.0,5142.857142857143,0
+Toyota Carina,Toyota,Used,Automatic,Saloon,Diesel,Gampaha,23,156000.0,2000.0,6782.608695652174,0
+Toyota Belta,Toyota,Reconditioned,Automatic,Saloon,Petrol,Ratnapura,14,133000.0,1000.0,9500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,5,49800.0,796.0,9960.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Matara,18,173000.0,1490.0,9611.111111111111,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,7,117000.0,1500.0,16714.285714285714,0
+Honda Vezel,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,7,107000.0,1500.0,15285.714285714286,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Colombo,30,240000.0,1900.0,8000.0,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Gampaha,36,142799.0,1500.0,3966.6388888888887,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Hybrid,Gampaha,5,62000.0,2000.0,12400.0,0
+BMW 520d,BMW,Reconditioned,Tiptronic,Saloon,Diesel,Colombo,8,45000.0,1995.0,5625.0,0
+Suzuki Vitara,Suzuki,Used,Manual,SUV / 4x4,Petrol,Colombo,22,143852.0,1995.0,6538.727272727273,0
+Toyota Land Cruiser Sahara,Toyota,New,Tiptronic,MPV,Diesel,Colombo,1,0.0,4600.0,0.0,0
+BMW 740e,BMW,Used,Tiptronic,Saloon,Hybrid,Colombo,3,25000.0,2000.0,8333.333333333334,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Anuradhapura,10,46000.0,1000.0,4600.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,11,110000.0,2800.0,10000.0,0
+Daihatsu Terios,Daihatsu,Used,Manual,SUV / 4x4,Petrol,Colombo,14,87000.0,1500.0,6214.285714285715,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Gampaha,9,110000.0,620.0,12222.222222222223,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,11000.0,660.0,3666.6666666666665,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Gampaha,4,31400.0,1200.0,7850.0,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Kalutara,20,163000.0,1500.0,8150.0,0
+Toyota Raize,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,1,11200.0,1000.0,11200.0,0
+Nissan Other Model,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,23,120000.0,1990.0,5217.391304347826,0
+Honda Fit Shuttle,Honda,Used,Automatic,,Hybrid,Colombo,6,34400.0,1500.0,5733.333333333333,0
+Toyota Tank,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,50000.0,1000.0,10000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Gampaha,9,86000.0,1330.0,9555.555555555555,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,30000.0,800.0,6000.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Hambantota,36,50000.0,1500.0,1388.888888888889,0
+Isuzu Other Model,Isuzu,Used,Manual,,Diesel,Puttalam,27,246000.0,2500.0,9111.111111111111,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Galle,3,12500.0,2700.0,4166.666666666667,0
+Honda Fit,Honda,Used,Automatic,,Petrol,Colombo,7,74000.0,1500.0,10571.42857142857,0
+Micro Kyron,Micro,Used,Automatic,Hatchback,Diesel,Gampaha,12,120000.0,2000.0,10000.0,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Colombo,9,41500.0,0.0,4611.111111111111,0
+Mitsubishi 4DR,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Kurunegala,45,100000.0,1980.0,2222.222222222222,0
+Toyota Corolla,Toyota,Used,Manual,,Petrol,Matara,44,100000.0,1200.0,2272.7272727272725,0
+Honda Grace,Honda,Used,Automatic,Saloon,Petrol,Gampaha,7,72000.0,1000.0,10285.714285714286,0
+Kia Sephia,Kia,Used,Automatic,Saloon,Petrol,Colombo,17,113000.0,1500.0,6647.058823529412,0
+Mercedes Benz Other Model,Mercedes Benz,Used,Automatic,,Diesel,Colombo,36,200000.0,3000.0,5555.555555555556,0
+Suzuki Celerio,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,83947.0,996.0,13991.166666666666,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,6,130000.0,660.0,21666.666666666668,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Matara,6,68200.0,800.0,11366.666666666666,0
+Audi A1,Audi,Used,Automatic,Hatchback,Petrol,Colombo,4,41000.0,999.0,10250.0,0
+Honda Freed,Honda,Used,Automatic,Station wagon,Hybrid,Colombo,8,148416.0,1490.0,18552.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Kandy,49,100000.0,1160.0,2040.8163265306123,0
+Hyundai Eon,Hyundai,Used,Manual,Hatchback,Petrol,Batticaloa,6,66000.0,814.0,11000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Ratnapura,16,117000.0,1000.0,7312.5,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,15,21650.0,800.0,1443.3333333333333,0
+Honda N-Box,Honda,Used,Automatic,Station wagon,Petrol,Gampaha,6,55000.0,660.0,9166.666666666666,0
+Mazda BT-50,Mazda,Used,Manual,SUV / 4x4,Diesel,Colombo,8,135000.0,2500.0,16875.0,0
+Toyota Hilux,Toyota,Used,Automatic,SUV / 4x4,Diesel,Kegalle,13,190000.0,3000.0,14615.384615384615,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,4,68071.0,1000.0,17017.75,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Petrol,Matale,41,195000.0,1000.0,4756.09756097561,0
+Micro Panda,Micro,Used,Manual,,Petrol,Colombo,4,31556.0,1000.0,7889.0,0
+Micro Panda,Micro,Used,Manual,Hatchback,Petrol,Colombo,7,80000.0,1000.0,11428.57142857143,0
+Hyundai Elantra,Hyundai,Used,Automatic,Hatchback,Petrol,Colombo,21,216539.0,1600.0,10311.380952380952,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Diesel,Jaffna,27,150000.0,1600.0,5555.555555555556,0
+Micro Panda,Micro,Used,Manual,,Petrol,Colombo,6,41200.0,1000.0,6866.666666666667,0
+Nissan Serena,Nissan,Used,Automatic,Station wagon,Petrol,Colombo,8,104000.0,2400.0,13000.0,0
+DFSK Glory,DFSK,New,Tiptronic,,Petrol,Colombo,0,0.0,1498.0,0.0,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Petrol,Colombo,7,92000.0,1800.0,13142.857142857143,0
+Chevrolet Cruze,Chevrolet,Used,Automatic,Hatchback,Petrol,Hambantota,20,104000.0,1300.0,5200.0,0
+Toyota Carina,Toyota,Used,Manual,Saloon,Petrol,Gampaha,20,300000.0,1800.0,15000.0,0
+Honda Civic,Honda,Used,Manual,Saloon,Petrol,Colombo,23,180000.0,1500.0,7826.086956521739,0
+Suzuki Alto,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,6,33000.0,1000.0,5500.0,0
+Suzuki Wagon R FX,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,4,39874.0,660.0,9968.5,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kegalle,17,89000.0,1300.0,5235.294117647059,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,9,111000.0,1330.0,12333.333333333334,0
+Suzuki Zen,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,126263.0,1000.0,11478.454545454546,0
+Mitsubishi Mirage,Mitsubishi,Used,Manual,Hatchback,Petrol,Gampaha,21,98000.0,1500.0,4666.666666666667,0
+Toyota Prius,Toyota,Used,Automatic,Saloon,Hybrid,Kurunegala,9,147000.0,1800.0,16333.333333333334,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Colombo,7,75000.0,1500.0,10714.285714285714,0
+Daihatsu Boon,Daihatsu,Used,Automatic,Hatchback,Petrol,Colombo,3,41432.0,1000.0,13810.666666666666,0
+Honda CRV,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,79000.0,1500.0,26333.333333333332,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Petrol,Colombo,6,46000.0,1500.0,7666.666666666667,0
+Opel Astra,Opel,Used,Manual,Saloon,Petrol,Matara,27,75000.0,1500.0,2777.777777777778,0
+Mazda Familia,Mazda,Used,Manual,Saloon,Petrol,Gampaha,29,200000.0,1300.0,6896.551724137931,0
+Chevrolet Cruze,Chevrolet,Used,Automatic,Hatchback,Petrol,Gampaha,19,128000.0,1300.0,6736.8421052631575,0
+Micro Panda Cross,Micro,Used,Automatic,Hatchback,Petrol,Colombo,3,22900.0,1000.0,7633.333333333333,0
+Ssang Yong Korando,Ssang Yong,Used,Automatic,SUV / 4x4,Diesel,Colombo,9,109740.0,1998.0,12193.333333333334,0
+Toyota Land Cruiser Sahara,Toyota,Used,Manual,SUV / 4x4,Diesel,Colombo,22,580000.0,4200.0,26363.636363636364,0
+Mercedes Benz E200,Mercedes Benz,Used,Tiptronic,Convertible,Petrol,Colombo,10,34900.0,1796.0,3490.0,0
+Honda Vezel,Honda,Used,Automatic,SUV / 4x4,Hybrid,Galle,3,32000.0,1500.0,10666.666666666666,0
+Toyota CHR,Toyota,Used,Automatic,,Petrol,Colombo,3,59000.0,1300.0,19666.666666666668,0
+Suzuki A-Star,Suzuki,Used,Automatic,,Petrol,Colombo,10,69915.0,998.0,6991.5,0
+Peugeot 206,Peugeot,Used,Automatic,Hatchback,Petrol,Colombo,18,150000.0,1390.0,8333.333333333334,0
+Mazda Other Model,Mazda,Used,Manual,Saloon,Petrol,Colombo,18,118000.0,1320.0,6555.555555555556,0
+Toyota Fortuner,Toyota,Used,Automatic,SUV / 4x4,Diesel,Colombo,4,27000.0,2393.0,6750.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,3,43000.0,650.0,14333.333333333334,0
+Toyota CHR,Toyota,Reconditioned,Tiptronic,SUV / 4x4,Petrol,Colombo,4,18000.0,1200.0,4500.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Ampara,44,91136.0,1200.0,2071.2727272727275,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Colombo,7,90000.0,2000.0,12857.142857142857,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,45000.0,800.0,9000.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Colombo,7,93000.0,1500.0,13285.714285714286,0
+Zotye Nomad,Zotye,Used,Manual,SUV / 4x4,Petrol,Colombo,9,43000.0,1300.0,4777.777777777777,0
+Land Rover Freelander,Land Rover,Used,Manual,SUV / 4x4,Diesel,Kandy,20,200000.0,2000.0,10000.0,0
+Mazda Familia,Mazda,Used,Manual,Saloon,Petrol,Gampaha,33,90000.0,1300.0,2727.2727272727275,0
+Suzuki Swift,Suzuki,Used,Manual,Hatchback,Petrol,Colombo,13,86000.0,1300.0,6615.384615384615,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,14,130000.0,1000.0,9285.714285714286,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Kurunegala,38,247000.0,1270.0,6500.0,0
+Tata Indica,Tata,Used,Manual,Hatchback,Petrol,Jaffna,6,29000.0,1000.0,4833.333333333333,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Matale,11,100000.0,1000.0,9090.90909090909,0
+Honda City,Honda,Used,Automatic,Saloon,Petrol,Kegalle,21,120000.0,1500.0,5714.285714285715,0
+Toyota Fortuner,Toyota,Used,Automatic,Station wagon,Diesel,Colombo,4,65000.0,2400.0,16250.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,4,40000.0,600.0,10000.0,0
+Toyota Other Model,Toyota,Used,Manual,Station wagon,Petrol,Colombo,37,200000.0,1200.0,5405.405405405405,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,98826.0,650.0,32942.0,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,2,3762.0,1000.0,1881.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Matara,9,65000.0,650.0,7222.222222222223,0
+Land Rover Range Rover,Land Rover,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,2,8537.0,2000.0,4268.5,0
+Honda Grace,Honda,Used,Automatic,Hatchback,Hybrid,Colombo,7,48100.0,1500.0,6871.428571428572,0
+Suzuki Hustler,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,5,64000.0,660.0,12800.0,0
+Toyota Axio,Toyota,New,Tiptronic,Hatchback,Petrol,Colombo,5,0.0,1500.0,0.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Gampaha,6,94600.0,1490.0,15766.666666666666,0
+Toyota Aqua,Toyota,Used,Automatic,,Hybrid,Colombo,7,97000.0,1500.0,13857.142857142857,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Kalutara,9,100000.0,1000.0,11111.111111111111,0
+Mazda Familia,Mazda,Used,Manual,Saloon,Petrol,Monaragala,37,130000.0,1300.0,3513.5135135135133,0
+Mercedes Benz C200,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,6,37000.0,2000.0,6166.666666666667,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Kalutara,5,120000.0,650.0,24000.0,0
+Toyota Sprinter,Toyota,Used,Automatic,Saloon,Petrol,Colombo,25,125962.0,1330.0,5038.48,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,40000.0,1000.0,6666.666666666667,0
+Mercedes Benz E200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,11,92000.0,1790.0,8363.636363636364,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Kandy,38,100000.0,1500.0,2631.5789473684213,0
+Mercedes Benz Other Model,Mercedes Benz,Used,Tiptronic,Saloon,Petrol,Colombo,3,35000.0,2000.0,11666.666666666666,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Matara,20,140000.0,1500.0,7000.0,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,9,96000.0,1000.0,10666.666666666666,0
+Nissan Navara,Nissan,Reconditioned,Automatic,SUV / 4x4,Diesel,Colombo,14,45000.0,2500.0,3214.285714285714,0
+Land Rover Defender,Land Rover,Used,Manual,SUV / 4x4,Diesel,Puttalam,30,450000.0,2500.0,15000.0,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Gampaha,20,130000.0,1300.0,6500.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Diesel,Ampara,27,6000.0,1700.0,222.22222222222223,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Puttalam,3,48000.0,650.0,16000.0,0
+Mitsubishi L200,Mitsubishi,Used,Manual,SUV / 4x4,Diesel,Gampaha,8,172000.0,2800.0,21500.0,0
+Tata Indigo,Tata,Used,Manual,,Petrol,Kurunegala,16,75000.0,1405.0,4687.5,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,59500.0,1000.0,9916.666666666666,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Kurunegala,25,216000.0,2800.0,8640.0,0
+Isuzu Other Model,Isuzu,Used,Manual,SUV / 4x4,Diesel,Ratnapura,24,391000.0,2500.0,16291.666666666666,0
+Micro Panda,Micro,Used,Automatic,Hatchback,Petrol,Kalutara,4,38000.0,1000.0,9500.0,0
+Hyundai Santa Fe,Hyundai,Used,Automatic,SUV / 4x4,Petrol,Colombo,13,130000.0,2700.0,10000.0,0
+Mazda RX,Mazda,Used,Manual,Coupe/Sports,Petrol,Polonnaruwa,13,31000.0,1300.0,2384.6153846153848,0
+Mazda Demio,Mazda,Used,Manual,Hatchback,Petrol,Gampaha,18,150000.0,1350.0,8333.333333333334,0
+Fiat Punto,Fiat,Used,Automatic,Hatchback,Petrol,Colombo,15,106000.0,1300.0,7066.666666666667,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Gampaha,21,205000.0,1500.0,9761.904761904761,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Gampaha,5,12000.0,800.0,2400.0,0
+Honda Grace,Honda,Used,Tiptronic,Saloon,Hybrid,Colombo,6,78000.0,1500.0,13000.0,0
+Nissan Leaf,Nissan,Used,Automatic,Hatchback,Electric,Gampaha,7,70200.0,0.0,10028.57142857143,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,27769.0,650.0,9256.333333333334,0
+Tata Nano,Tata,Used,Manual,Hatchback,Petrol,Colombo,10,101000.0,650.0,10100.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,,Petrol,Kalutara,4,24000.0,650.0,6000.0,0
+Mazda BT-50,Mazda,Used,Manual,SUV / 4x4,Diesel,Colombo,5,79000.0,2200.0,15800.0,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Gampaha,34,60000.0,1400.0,1764.7058823529412,0
+Peugeot 3008,Peugeot,Used,Automatic,SUV / 4x4,Petrol,Colombo,2,8000.0,1200.0,4000.0,0
+Honda N-Box,Honda,Reconditioned,Automatic,Hatchback,Petrol,Colombo,5,14000.0,650.0,2800.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,56000.0,650.0,18666.666666666668,0
+Toyota Avanza,Toyota,Used,Manual,MPV,Petrol,Colombo,11,80438.0,1300.0,7312.545454545455,0
+Volkswagen Golf,Volkswagen,Used,Manual,Hatchback,Diesel,Colombo,41,175000.0,1500.0,4268.292682926829,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,4,42000.0,1500.0,10500.0,0
+Honda N-Box,Honda,Used,Automatic,Hatchback,Petrol,Colombo,5,60000.0,650.0,12000.0,0
+Toyota Corolla,Toyota,Used,Manual,Saloon,Petrol,Anuradhapura,44,80000.0,1500.0,1818.1818181818182,0
+Mitsubishi Montero,Mitsubishi,Used,Tiptronic,SUV / 4x4,Petrol,Kurunegala,19,159845.0,3500.0,8412.894736842105,0
+Jaguar XF,Jaguar,Used,Tiptronic,Saloon,Petrol,Colombo,11,65000.0,3000.0,5909.090909090909,0
+Toyota Prius,Toyota,Used,Automatic,,Hybrid,Colombo,7,145000.0,1500.0,20714.285714285714,0
+Other brand Other model,Other brand,Used,Manual,Hatchback,Petrol,Hambantota,2,30000.0,400.0,15000.0,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Ampara,15,118000.0,800.0,7866.666666666667,0
+Perodua Viva Elite,Perodua,Used,Automatic,Hatchback,Petrol,Gampaha,8,97150.0,1000.0,12143.75,0
+Mercedes Benz C200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,2,4600.0,1500.0,2300.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Matara,7,91000.0,650.0,13000.0,0
+Nissan March,Nissan,Used,Manual,,Petrol,Gampaha,29,140000.0,1000.0,4827.586206896552,0
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Petrol,Gampaha,7,107000.0,1300.0,15285.714285714286,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Galle,9,45000.0,800.0,5000.0,0
+Ford Ranger,Ford,Used,Automatic,SUV / 4x4,Diesel,Colombo,4,49000.0,3200.0,12250.0,0
+Toyota Vios,Toyota,Used,Automatic,Saloon,Petrol,Colombo,17,172000.0,1500.0,10117.64705882353,0
+Toyota Allion,Toyota,Used,Automatic,Saloon,Petrol,Ratnapura,11,95000.0,1500.0,8636.363636363636,0
+Suzuki Maruti,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,24,75000.0,800.0,3125.0,0
+Audi A8,Audi,Used,Automatic,Saloon,Hybrid,Gampaha,9,35000.0,2000.0,3888.8888888888887,0
+Tata Other Model,Tata,Used,Manual,Station wagon,Diesel,Colombo,3,40000.0,3000.0,13333.333333333334,0
+Mercedes Benz CLA 200,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,2,6000.0,1350.0,3000.0,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matara,20,178000.0,1300.0,8900.0,0
+Toyota Axio,Toyota,Used,Automatic,Saloon,Hybrid,Gampaha,4,50000.0,1500.0,12500.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Ratnapura,34,124584.0,1500.0,3664.235294117647,0
+Maruti Suzuki WagonR,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Polonnaruwa,13,117000.0,800.0,9000.0,0
+Nissan X-Trail,Nissan,Used,Automatic,SUV / 4x4,Petrol,Gampaha,21,145000.0,2000.0,6904.761904761905,0
+Mitsubishi Montero,Mitsubishi,Used,Manual,,Diesel,Colombo,22,264000.0,2800.0,12000.0,0
+Peugeot 505,Peugeot,Used,Manual,Saloon,Diesel,Kalutara,32,111345.0,2000.0,3479.53125,0
+Kia Carnival,Kia,Used,Tiptronic,Station wagon,Diesel,Colombo,6,80000.0,2200.0,13333.333333333334,0
+Isuzu Trooper,Isuzu,Used,Manual,SUV / 4x4,Diesel,Colombo,37,98000.0,2800.0,2648.6486486486488,0
+Honda S660,Honda,Reconditioned,Automatic,Coupe/Sports,Petrol,Kegalle,5,10250.0,660.0,2050.0,0
+Mitsubishi Outlander,Mitsubishi,Used,Automatic,SUV / 4x4,Electric,Colombo,8,68000.0,0.0,8500.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Polonnaruwa,11,168000.0,800.0,15272.727272727272,0
+Daihatsu Terios,Daihatsu,Used,Automatic,SUV / 4x4,Petrol,Gampaha,7,53000.0,1500.0,7571.428571428572,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Kalutara,41,200000.0,1400.0,4878.048780487805,0
+Honda Fit Shuttle,Honda,Used,Automatic,Station wagon,Hybrid,Colombo,9,180000.0,1330.0,20000.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,5,69000.0,1000.0,13800.0,0
+Mitsubishi Lancer,Mitsubishi,Used,Manual,Saloon,Petrol,Matale,45,55000.0,1200.0,1222.2222222222222,0
+Toyota Corolla,Toyota,Used,Automatic,,Diesel,Colombo,24,235000.0,1970.0,9791.666666666666,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Kurunegala,3,20381.0,1000.0,6793.666666666667,0
+Nissan Cefiro,Nissan,Used,Automatic,Saloon,Petrol,Kalutara,20,138000.0,1995.0,6900.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Kalutara,6,65400.0,1500.0,10900.0,0
+Toyota Land Cruiser Prado,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,5,30000.0,2900.0,6000.0,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Hybrid,Kandy,9,112000.0,1499.0,12444.444444444445,0
+Perodua Kenari,Perodua,Used,Manual,Hatchback,Petrol,Gampaha,13,132000.0,1000.0,10153.846153846154,0
+Ford Fiesta,Ford,Used,Automatic,Saloon,Petrol,Kalutara,6,39400.0,1500.0,6566.666666666667,0
+Toyota Roomy,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,17854.0,1000.0,4463.5,0
+Toyota Passo,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,20000.0,1000.0,5000.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Saloon,Petrol,Colombo,3,38652.0,660.0,12884.0,0
+Nissan Other Model,Nissan,Used,Manual,SUV / 4x4,Diesel,Gampaha,23,100000.0,2600.0,4347.826086956522,0
+Toyota Hilux,Toyota,Used,Manual,SUV / 4x4,Diesel,Kalutara,14,170000.0,3000.0,12142.857142857143,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,6,58000.0,800.0,9666.666666666666,0
+Tata Indica,Tata,Used,Manual,Saloon,Petrol,Colombo,6,19000.0,1200.0,3166.6666666666665,0
+Mercedes Benz E240,Mercedes Benz,Used,Automatic,Saloon,Petrol,Colombo,19,84521.0,2597.0,4448.473684210527,0
+Mitsubishi Montero,Mitsubishi,Used,Automatic,SUV / 4x4,Petrol,Kurunegala,14,113300.0,3000.0,8092.857142857143,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Diesel,Matale,32,45882.0,1000.0,1433.8125,0
+Toyota Corolla,Toyota,Used,Automatic,Saloon,Petrol,Colombo,16,100400.0,1500.0,6275.0,0
+Renault KWID,Renault,Used,Manual,Hatchback,Petrol,Colombo,5,45000.0,800.0,9000.0,0
+Maruti Suzuki Alto,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,6,72000.0,800.0,12000.0,0
+Toyota Premio,Toyota,Used,Automatic,Saloon,Petrol,Colombo,22,190000.0,1790.0,8636.363636363636,0
+Kia Sportage,Kia,Used,Tiptronic,SUV / 4x4,Petrol,Kurunegala,10,140000.0,2000.0,14000.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Hybrid,Colombo,3,61000.0,650.0,20333.333333333332,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,CNG,Kalutara,6,44000.0,650.0,7333.333333333333,0
+Nissan AD Wagon,Nissan,Used,Manual,Station wagon,Petrol,Colombo,38,199000.0,1400.0,5236.8421052631575,0
+Nissan Sunny,Nissan,Used,Manual,Saloon,Petrol,Matale,30,252000.0,1500.0,8400.0,0
+Land Rover Defender,Land Rover,New,Tiptronic,SUV / 4x4,Diesel,Colombo,1,0.0,2000.0,0.0,0
+Daihatsu Charade,Daihatsu,Used,Manual,Hatchback,Petrol,Kalutara,37,50000.0,1000.0,1351.3513513513512,0
+Toyota Corona,Toyota,Used,Manual,Saloon,Petrol,Ampara,32,200000.0,1490.0,6250.0,0
+Suzuki Alto,Suzuki,Used,Manual,Hatchback,Petrol,Gampaha,5,56000.0,800.0,11200.0,0
+Toyota CHR,Toyota,Used,Automatic,,Petrol,Colombo,3,27000.0,1200.0,9000.0,0
+Audi A1,Audi,Used,Tiptronic,Hatchback,Petrol,Colombo,3,12400.0,1000.0,4133.333333333333,0
+Nissan Sunny,Nissan,Used,Automatic,Saloon,Petrol,Kurunegala,15,160000.0,1300.0,10666.666666666666,0
+Mitsubishi Colt,Mitsubishi,Used,Manual,Hatchback,Petrol,Gampaha,38,100000.0,1400.0,2631.5789473684213,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Puttalam,6,60000.0,660.0,10000.0,0
+Maruti Suzuki Zen,Maruti Suzuki,Used,Manual,Hatchback,Petrol,Colombo,11,145663.0,998.0,13242.09090909091,0
+Toyota Land Cruiser Prado,Toyota,Used,Tiptronic,Saloon,Petrol,Puttalam,6,32000.0,2700.0,5333.333333333333,0
+Suzuki Alto,Suzuki,Used,Manual,,Petrol,Gampaha,6,31000.0,800.0,5166.666666666667,0
+BMW 520d,BMW,Used,Automatic,Saloon,Diesel,Kandy,9,160000.0,2000.0,17777.777777777777,0
+Suzuki Swift,Suzuki,Used,Automatic,Hatchback,Petrol,Matara,18,135000.0,1000.0,7500.0,0
+Toyota Rush,Toyota,Used,Automatic,,Petrol,Kurunegala,3,26000.0,1500.0,8666.666666666666,0
+Audi Q2,Audi,Used,Automatic,Hatchback,Petrol,Colombo,4,30000.0,1000.0,7500.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Petrol,Colombo,8,71000.0,1500.0,8875.0,0
+Land Rover Range Rover Sport,Land Rover,Used,Automatic,SUV / 4x4,Petrol,Colombo,5,45000.0,3000.0,9000.0,0
+Nissan March,Nissan,Used,Manual,Hatchback,Petrol,Colombo,30,150000.0,1000.0,5000.0,0
+Mercedes Benz E300,Mercedes Benz,Used,Tiptronic,Saloon,Hybrid,Kalutara,6,90000.0,2200.0,15000.0,0
+Zotye Z100,Zotye,Used,Manual,Hatchback,Petrol,Kurunegala,4,34301.0,1000.0,8575.25,0
+Toyota Sprinter,Toyota,Used,Automatic,Saloon,Petrol,Colombo,22,186000.0,1500.0,8454.545454545454,0
+BMW X5,BMW,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,13,130000.0,3000.0,10000.0,0
+Toyota Corolla,Toyota,Used,Manual,Station wagon,Petrol,Gampaha,35,200000.0,1300.0,5714.285714285715,0
+Honda Fit,Honda,New,Automatic,Hatchback,Hybrid,Colombo,7,71000.0,1500.0,10142.857142857143,0
+Toyota Aqua,Toyota,Used,Automatic,Hatchback,Petrol,Gampaha,8,78100.0,1500.0,9762.5,0
+Toyota Land Cruiser Sahara,Toyota,Used,Tiptronic,SUV / 4x4,Petrol,Colombo,4,30000.0,4500.0,7500.0,0
+Toyota Vitz,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,3,46027.0,1000.0,15342.333333333334,0
+Skoda Fabia,Skoda,New,Tiptronic,Hatchback,Petrol,Colombo,1,100.0,1000.0,100.0,0
+Suzuki Wagon R FZ,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,2,54000.0,660.0,27000.0,0
+Toyota Axio,Toyota,Used,Automatic,Hatchback,Petrol,Colombo,6,30000.0,1500.0,5000.0,0
+Honda Fit,Honda,Used,Automatic,Hatchback,Hybrid,Kurunegala,8,89000.0,1500.0,11125.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Kalutara,4,109000.0,660.0,27250.0,0
+Toyota CHR,Toyota,Used,Automatic,SUV / 4x4,Petrol,Colombo,3,30000.0,1200.0,10000.0,0
+Micro MX 7,Micro,Used,Manual,Saloon,Petrol,Monaragala,8,26000.0,1500.0,3250.0,0
+Nissan March,Nissan,Used,Automatic,Hatchback,Petrol,Colombo,20,77604.0,990.0,3880.2,0
+Toyota Vitz,Toyota,Reconditioned,Automatic,Hatchback,Petrol,Colombo,4,30000.0,1000.0,7500.0,0
+Suzuki Wagon R Stingray,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,3,42000.0,650.0,14000.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,Hatchback,Petrol,Colombo,5,41650.0,650.0,8330.0,0
+Suzuki Wagon R,Suzuki,Used,Automatic,,Petrol,Colombo,7,78000.0,650.0,11142.857142857143,0

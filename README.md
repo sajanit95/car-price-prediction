@@ -1,9 +1,8 @@
 # Sri Lankan Used Car Price Prediction – Fair Price Checker
 
-Predicts a fair asking price for a used car in Sri Lanka and flags listings that look over- or under-priced.
-Trained on 18,938 car listings from a Sri Lankan classifieds site (Feb–Aug 2021).
+Predicts a fair asking price for a used car in Sri Lanka and flags listings that look over- or under-priced. Trained on 18,938 car listings from a Sri Lankan classifieds site (Feb–Aug 2021)- data taken from https://github.com/DavidR0/Car-Price-Prediction/blob/master/dataset_vehicles.csv
 
-**Live app:** <add your Streamlit link here>
+Live app: https://car-price-prediction-2rlofumejge5u7gehmsev8.streamlit.app/
 
 ## Results
 

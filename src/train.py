@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error,
 from sklearn.model_selection import KFold, RandomizedSearchCV, cross_validate, train_test_split
 
 from src.features import FEATURES, TARGET, fit_price_reference, flag_price_outliers
-from src.models import SEARCH_SPACES, candidate_estimators, make_pipeline
+from src.models import SEARCH_SPACES, candidate_estimators, make_pipeline, model_type
 
 SCORING = {"mae": "neg_mean_absolute_error", "r2": "r2", "mape": "neg_mean_absolute_percentage_error"}
 
@@ -30,7 +30,7 @@ def compare_models(X, y, cfg, log=print):
     for name in cfg["candidates"]:
         start = time.time()
         res = cross_validate(make_pipeline(estimators[name]), X, y, cv=cv, scoring=SCORING)
-        rows.append({"model": name, "cv_mae": -res["test_mae"].mean(), "cv_r2": res["test_r2"].mean(),
+        rows.append({"model": name, "type": model_type(name), "cv_mae": -res["test_mae"].mean(), "cv_r2": res["test_r2"].mean(),
                      "cv_mape": -res["test_mape"].mean(), "seconds": time.time() - start})
         log(f"  {name:<14} CV MAE Rs {rows[-1]['cv_mae']:>12,.0f}   R2 {rows[-1]['cv_r2']:.3f}")
     return pd.DataFrame(rows).sort_values("cv_mae").reset_index(drop=True)
@@ -104,12 +104,14 @@ def run_training(df, cfg, log=print):
     X_tr, y_tr, X_te, y_te = train[FEATURES], train[TARGET], test[FEATURES], test[TARGET]
     log(f"Comparing {len(cfg['candidates'])} models with {cfg['cv_folds']}-fold CV ...")
     comparison = compare_models(X_tr, y_tr, cfg, log)
-    top = comparison["model"].head(cfg["tune_top_k"]).tolist()
-    log(f"Tuning top {len(top)}: {top}")
-    tuned = tune_models(top, X_tr, y_tr, cfg, log)
-    best_name = min(tuned, key=lambda n: tuned[n]["cv_mae"])
-    best_model = tuned[best_name]["model"]
-    log(f"Selected model: {best_name}")
+    main = cfg["main_model"]
+    benchmarks = [m for m in comparison["model"] if m != main][:cfg["tune_top_k"]]
+    log(f"Tuning main model {main} + top benchmark(s) {benchmarks}")
+    tuned = tune_models([main] + benchmarks, X_tr, y_tr, cfg, log)
+    best_name, best_model = main, tuned[main]["model"]
+    beaten_by = [n for n in benchmarks if tuned[n]["cv_mae"] < tuned[main]["cv_mae"]]
+    log(f"Selected model: {main} (new algorithm)" +
+        (f" - note: {beaten_by} scored lower CV MAE" if beaten_by else " - also the lowest tuned CV MAE"))
     test_metrics, test_pred = evaluate(best_model, X_te, y_te)
     log(f"Test MAE Rs {test_metrics['mae']:,.0f} | R2 {test_metrics['r2']:.3f} | "
         f"median error {test_metrics['median_ape']:.1%}")
@@ -121,4 +123,5 @@ def run_training(df, cfg, log=print):
             mlflow.log_params({"model": best_name, **tuned[best_name]["params"]})
             mlflow.log_metrics(test_metrics)
             mlflow.log_artifacts(cfg["artifacts_dir"])
-    return {"version": version, "model": best_name, "test_metrics": test_metrics, "comparison": comparison}
+    return {"version": version, "model": best_name, "test_metrics": test_metrics, "comparison": comparison,
+            "best_model": best_model, "X_train": X_tr}

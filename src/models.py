@@ -15,6 +15,17 @@ from xgboost import XGBRegressor
 
 from src.features import CAT_FEATURES, NUM_FEATURES
 
+NEW_ALGORITHM = "LightGBM"  # not covered in lectures
+COVERED_IN_LECTURES = {"LinearRegression", "Ridge", "DecisionTree", "RandomForest", "SVR", "XGBoost"}
+
+
+def model_type(name):
+    if name == NEW_ALGORITHM:
+        return "New algorithm"
+    if name.startswith("Baseline"):
+        return "Baseline"
+    return "Benchmark (covered)" if name in COVERED_IN_LECTURES else "Benchmark"
+
 
 def build_preprocessor(cat_impute="constant"):
     numeric = Pipeline([("impute", SimpleImputer(strategy="median")),

@@ -29,3 +29,16 @@ def test_prepare_input_returns_model_features():
     X = prepare_input([car])
     assert list(X.columns) == FEATURES
     assert X["age"].iloc[0] == 7
+
+
+def test_no_personal_data_left():
+    from anonymise_data import PHONE
+    df = pd.read_csv("data/dataset_vehicles.csv")
+    assert not df["Description"].astype(str).str.contains(PHONE).any()
+    assert df["Seller_name"].str.startswith("seller_").all()
+
+
+def test_main_model_is_not_covered_in_lectures():
+    import yaml
+    from src.models import COVERED_IN_LECTURES
+    assert yaml.safe_load(open("config.yaml"))["main_model"] not in COVERED_IN_LECTURES

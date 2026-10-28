@@ -1,5 +1,5 @@
 {
-  "version": "20261021-075058",
+  "version": "20261021-051425",
   "model": "LightGBM",
   "features": [
     "brand_model",
@@ -16,16 +16,16 @@
     "unregistered"
   ],
   "test_metrics": {
-    "mae": 866035.4985594399,
-    "rmse": 2116119.0404662485,
-    "r2": 0.93791089633438,
-    "mape": 0.13449949085656276,
-    "median_ape": 0.08814954694161525
+    "mae": 866035.4985594398,
+    "rmse": 2116119.040466192,
+    "r2": 0.9379108963343832,
+    "mape": 0.13449949085656476,
+    "median_ape": 0.08814954694166938
   },
   "settings_used": "tuned",
   "best_params": {
     "colsample_bytree": 0.6293899908000085,
-    "learning_rate": 0.07599369873560621,
+    "learning_rate": 0.0759936987356062,
     "min_child_samples": 6,
     "n_estimators": 1321,
     "num_leaves": 20,
@@ -34,8 +34,8 @@
     "subsample_freq": 1
   },
   "fair_range_ratio": [
-    0.8372940087136477,
-    1.2357421721038846
+    0.8372940087137187,
+    1.2357421721038588
   ],
   "options": {
     "brand_models": {

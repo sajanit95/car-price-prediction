@@ -1,19 +1,20 @@
 # Sri Lankan Used Car Price Prediction – Fair Price Checker
 
-Predicts a fair asking price for a used car in Sri Lanka and flags listings that look over- or under-priced. Trained on 18,938 car listings from a Sri Lankan classifieds site (Feb–Aug 2021)- data taken from https://github.com/DavidR0/Car-Price-Prediction/blob/master/dataset_vehicles.csv
+Predicts a fair asking price for a used car in Sri Lanka and flags listings that look over- or under-priced.
+Trained on 18,938 car listings from a Sri Lankan classifieds site (Feb–Aug 2021).
 
-Live app: https://car-price-prediction-2rlofumejge5u7gehmsev8.streamlit.app/
+**Live app:** https://car-price-prediction-2rlofumejge5u7gehmsev8.streamlit.app/
 
 ## Results
 
 | | |
 |---|---|
-| Selected model | LightGBM (tuned) |
+| Main model (new algorithm) | LightGBM (tuned) |
 | Test MAE | Rs 866,035 |
 | Test R² | 0.938 |
 | Median error | 8.8% |
 
-Compared 9 models (Baseline, Linear Regression, Ridge, KNN, Decision Tree, Random Forest, SVR, XGBoost, LightGBM). Explained with SHAP and LIME. Full analysis is in `Car_Price_Prediction_SriLanka.ipynb`.
+**New algorithm: LightGBM** (not covered in lectures). Models covered in lectures – Linear Regression, SVM (SVR), Decision Tree, Random Forest, XGBoost – plus Ridge and KNN are used as benchmarks. LightGBM ranked 1st after tuning. Explained with SHAP, LIME and partial dependence plots. Full analysis is in `Car_Price_Prediction_SriLanka.ipynb`.
 
 ## Project structure
 
@@ -24,9 +25,11 @@ Compared 9 models (Baseline, Linear Regression, Ridge, KNN, Decision Tree, Rando
 │   ├── features.py      # cleaning + feature engineering
 │   ├── validate.py      # checks the raw CSV before training
 │   ├── models.py        # preprocessing pipeline, models, tuning search spaces
-│   ├── train.py         # compare -> tune -> select best -> evaluate -> save
+│   ├── train.py         # compare -> tune LightGBM + best benchmark -> evaluate -> save
+│   ├── explain.py       # SHAP importance + partial dependence plots
 │   └── inference.py     # single and batch prediction
 ├── run_pipeline.py      # runs the whole pipeline with one command
+├── anonymise_data.py    # removes personal data from the raw CSV
 ├── config.yaml          # pipeline settings
 ├── config_ci.yaml       # quick settings for GitHub Actions
 ├── tests/test_pipeline.py
@@ -41,8 +44,8 @@ Compared 9 models (Baseline, Linear Regression, Ridge, KNN, Decision Tree, Rando
 Requires Python 3.12.
 
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/sajanit95/269168B_AML_E2E_car_price_predictor.git
+cd 269168B_AML_E2E_car_price_predictor
 python -m venv venv
 ```
 
@@ -70,8 +73,9 @@ Takes about 12 minutes. Steps:
 |---|---|
 | 1. Validate | Checks required columns exist and Price / Mileage / Capacity can be read as numbers. Stops if the data is broken. |
 | 2. Clean | Converts text to numbers, removes duplicates and impossible prices, fixes engine size and mileage errors, creates features (age, brand_model, district, km_per_year, unregistered). |
-| 3. Train & select | Compares all candidate models with 5-fold CV, tunes the top 2 with random search, keeps tuned settings only if they beat the defaults, picks the lowest MAE. |
+| 3. Train & select | Compares all models with 5-fold CV, tunes LightGBM (main model) and the best benchmark with random search, keeps tuned settings only if they beat the defaults. |
 | 4. Save | Saves the model and metadata to `artifacts/` with a version number. |
+| 5. Explain | Saves SHAP importance and partial dependence plots to `artifacts/explain/`. |
 
 Output files in `artifacts/`:
 
@@ -90,7 +94,8 @@ python run_pipeline.py --config my_config.yaml
 |---|---|---|
 | `candidates` | Ridge, KNN, DecisionTree, SVR, XGBoost, LightGBM | models to compare |
 | `cv_folds` | 5 | folds for comparing models |
-| `tune_top_k` | 2 | number of best models to tune |
+| `main_model` | LightGBM | the new algorithm (always selected) |
+| `tune_top_k` | 1 | number of benchmarks tuned for comparison |
 | `tune_iterations` | 12 | random settings tried per model |
 | `use_mlflow` | false | log runs to MLflow |
 
@@ -164,6 +169,10 @@ To update the deployed app after retraining, push the new `artifacts/` folder �
 - Data is from 2021 (vehicle import restrictions) – prices have changed since
 - Asking prices, not final sale prices
 - Bigger errors for rare vehicles (EVs, vintage cars) and cars over Rs 25M
+
+## Ethical data use
+
+The raw ads contained seller names, ad URLs and phone numbers (184 descriptions). `anonymise_data.py` hashes names and URLs and masks phone numbers; none of these are used as model features. A test checks no phone numbers remain.
 
 ## Data source
 
